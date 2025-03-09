@@ -1,0 +1,65 @@
+name: Scheduled Python Script
+
+on:
+  schedule:
+    # - cron: '0 */8 * * *'  # Runs every 8 hours
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main 
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git user
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade openpyxl pandas requests msal
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Verify OpenPyXL Installation
+        run: python -c "import openpyxl; print('Openpyxl version:', openpyxl.__version__)"
+
+      - name: Run Python scripts
+        run: |
+          
+
+      - name: Commit and Push Changes
+        env:
+          GITHUB_PAT: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git fetch origin
+          
+          if git show-ref --verify --quiet refs/remotes/origin/main; then
+            git checkout main
+          else
+            git checkout -b data
+            git push origin main
+          fi
+          
+          git add . 
+          git commit -m "Automated update - $(date)" || echo "No changes to commit"
+
+          git stash push --include-untracked
+          git pull --rebase origin main
+          git stash pop || echo "No changes to stash"
+
+          git push origin main
