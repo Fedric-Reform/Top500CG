@@ -68,7 +68,7 @@ df.rename(columns={
 
 # Save to csv
 excel_filename = "CoinGeckoTop500.csv"
-df.to_excel(excel_filename, index=False, engine="openpyxl")
+df.to_excel(excel_filename, index=False, engine="csv")
 print(f"✅ Data saved to {excel_filename}")
 
 # Print top 10 rows
