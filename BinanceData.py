@@ -26,7 +26,7 @@ def get_current_market_data(coin_id):
     except Exception as e:
         print(f"Error fetching market data for {coin_id}: {e}")
         return None, None, None
-+
+        
 # Function to fetch Order Book Depth (±2%) from Binance
 def fetch_depth(coin_id):
     url = f"{COINGECKO_URL}coins/{coin_id}/tickers?exchange_ids={EXCHANGE_ID}&depth=true&x_cg_pro_api_key={API_KEY}"
