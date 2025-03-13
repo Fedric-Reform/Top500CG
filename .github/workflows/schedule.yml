@@ -2,7 +2,8 @@ name: Scheduled Python Script
 
 on:
   schedule:
-    # - cron: '0 */8 * * *'  # Runs every 8 hours
+    # - cron: '0 8 * * *'  # Runs every 8 hours
+      - cron: '*/5 * * * *'
   push:
     branches:
       - main
@@ -38,8 +39,9 @@ jobs:
 
       - name: Run Python scripts
         run: |
-          
-
+          python GetTop500CG.py
+          python BinanceData.py
+         
       - name: Commit and Push Changes
         env:
           GITHUB_PAT: ${{ secrets.PAT_TOKEN }}
