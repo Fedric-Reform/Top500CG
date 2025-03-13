@@ -59,11 +59,13 @@ def get_coin_categories(coin_id):
         print(f"Error fetching categories for {coin_id}: {e}")
         return "Unknown"
 
-# Function to load coin list from column C of an Excel/CSV file
+# Function to load coin list from column A of an Excel/CSV file
 def load_coin_list(file_path):
     try:
         if file_path.endswith(".csv"):
-            df = pd.read_csv(file_path, usecols=["C"])  # Extract column C
+            df = pd.read_csv(file_path, usecols=["A"])  # Extract column A
+        elif file_path.endswith(".xlsx"):
+            df = pd.read_excel(file_path, usecols="A")  # Extract column A
         else:
             print("Invalid file format. Use CSV or Excel.")
             return []
@@ -75,13 +77,13 @@ def load_coin_list(file_path):
 
 # Main function to fetch & save data
 def main():
-    input_file = "CoinGeckoTop500.csv"  # Change this to your input file name
+    input_file = "CoinGeckoTop500.xlsx"  # Change this to your input file name
 
     # Load coin list from column C
     coin_list = load_coin_list(input_file)
 
     if not coin_list:
-        print("No coin IDs found in column C.")
+        print("No coin IDs found in column A.")
         return
 
     results = []
@@ -114,11 +116,12 @@ def main():
     # Convert results to DataFrame
     df_output = pd.DataFrame(results)
 
-    # Save the data to a new Excel file
-    output_file = f"Top500Binance.csv"
+    # Save the data to a new Excel file with a timestamp
+    output_file = f"BinanceData_{datetime.now().strftime('%Y%m%d')}.xlsx"
     df_output.to_excel(output_file, index=False)
 
     print(f"✅ Data saved to {output_file}")
 
 if __name__ == "__main__":
     main()
+
