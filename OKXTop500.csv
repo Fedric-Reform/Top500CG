@@ -1,501 +1,501 @@
 Exchange,Category,Token CEX,Market Cap Today,FDV Today,Depth +2%,Depth -2%,Bid Ask Spread Percentage,24H Volume (USD)
-OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Ethereum Ecosystem",dexe,985303559,1665149561.0,,,N/A,33835655.0
-OKX,"Decentralized Finance (DeFi), Lending/Borrowing Protocols, Avalanche Ecosystem, Polygon Ecosystem, Ethereum Ecosystem, Real World Assets (RWA), Paradigm Portfolio, Index Coop Defi Index, Stablecoin Protocol, DragonFly Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, Energi Ecosystem, Sora Ecosystem, GMCI DeFi Index, RWA Protocol, Index Coop Index, GMCI Index, Polychain Capital Portfolio, Made in USA, Coinbase 50 Index",maker,964000258,993833865.0,46043.61556813999,43687.34088561983,0.04,122646089.0
-OKX,"Polygon Ecosystem, Arbitrum Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Liquid Staked ETH, Liquid Staking",rocket-pool-eth,921542587,921526707.0,,,N/A,8480050.0
-OKX,"Infrastructure, Smart Contract Platform, Layer 2 (L2), Bitcoin Sidechains, Stacks Ecosystem, SideChain, GMCI Layer 2 Index, GMCI 30 Index, Blockchain Capital Portfolio, GMCI Index, Made in USA, Coinbase 50 Index",blockstack,919115361,919115361.0,96702.16465622629,139859.21159685001,0.05,23704899.0
-OKX,"Smart Contract Platform, Gaming (GameFi), NFT, Play To Earn, Ethereum Ecosystem, Layer 2 (L2), Zero Knowledge (ZK), Animoca Brands Portfolio, Immutable Ecosystem, Coinbase Ventures Portfolio, Rollup, Gaming Blockchains, GMCI 30 Index, GMCI Index, Gaming Marketplace, Coinbase 50 Index",immutable-x,899540571,1017397101.0,10388.415461344382,54620.93884597439,0.04,34410134.0
-OKX,"Smart Contract Platform, Ethereum Ecosystem, Decentralized Identifier (DID), Optimism Ecosystem, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, Blockchain Capital Portfolio, Optimism Superchain Ecosystem, World Chain Ecosystem, Made in USA",worldcoin-wld,894667375,8110349215.0,135561.6755371459,257496.84544707724,0.12,130328791.0
-OKX,"Smart Contract Platform, Decentralized Finance (DeFi), BNB Chain Ecosystem, Cosmos Ecosystem, Layer 1 (L1), Ethereum Ecosystem, Binance Launchpad, Osmosis Ecosystem, Proof of Stake (PoS), Pantera Capital Portfolio, Secret Ecosystem, GMCI Layer 1 Index, GMCI Index, Made in USA, Coinbase 50 Index",injective-protocol,885969278,906573700.0,87871.03969888446,104606.90880130399,0.02,126103146.0
-OKX,"Decentralized Finance (DeFi), Solana Ecosystem, Liquid Staking Tokens, Liquid Staked SOL, Liquid Staking",binance-staked-sol,873510756,873510756.0,,,N/A,2097902.0
-OKX,"Smart Contract Platform, Layer 1 (L1), DWF Labs Portfolio",flare-networks,861811756,1457271902.0,110336.07379528189,150232.41836332265,0.07,9065266.0
-OKX,"Artificial Intelligence (AI), Smart Contract Platform, Decentralized Finance (DeFi), Layer 1 (L1), Real World Assets (RWA), Parallelized EVM, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, GMCI Layer 1 Index, Delphi Ventures Portfolio, Circle Ventures Portfolio, OKX Ventures Portfolio, GMCI Index, World Liberty Financial Portfolio, Made in USA",sei-network,854592311,1834873453.0,,,N/A,98261141.0
-OKX,"Polygon Ecosystem, Bridged USDT, Bridged-Tokens, Bridged Stablecoins",polygon-bridged-usdt-polygon,848094842,848064539.0,,,N/A,15138278.0
-OKX,"Smart Contract Platform, Layer 1 (L1), DePIN, Theta Ecosystem, Blockchain Capital Portfolio, Made in USA",theta-token,851316608,851316608.0,12628.326264725807,55146.438985967434,0.04,30689712.0
-OKX,"Artificial Intelligence (AI), Business Services, Infrastructure, Smart Contract Platform, Analytics, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, DePIN, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Proof of Stake (PoS), Energi Ecosystem, Sora Ecosystem, Made in USA, Coinbase 50 Index",the-graph,835739174,944224544.0,33217.53036170083,49823.161628473026,0.23,36481177.0
-OKX,"Crypto-Backed Tokens, BNB Chain Ecosystem, Avalanche Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Mantle Ecosystem, Base Ecosystem, Restaking, Berachain Ecosystem, Merlin Chain Ecosystem, Sonic Ecosystem, Sei v2 Ecosystem, Soneium Ecosystem, Corn Ecosystem",solv-protocol-solvbtc-bbn,803323072,803323185.0,,,N/A,180129.0
-OKX,"BNB Chain Ecosystem, Solana Ecosystem, Polygon Ecosystem, Meme, Arbitrum Ecosystem, Ethereum Ecosystem, Aptos Ecosystem, Dog-Themed, Solana Meme, Neon Ecosystem, GMCI Meme Index, GMCI Index, Made in USA, Coinbase 50 Index",bonk,791186475,908063889.0,189420.2155722616,234936.38986816703,0.05,78418166.0
-OKX,"Infrastructure, Decentralized Finance (DeFi), Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Liquid Staking Governance Tokens, eGirl Capital Portfolio, Paradigm Portfolio, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Index Coop Defi Index, Alameda Research Portfolio, DragonFly Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, GMCI DeFi Index, Delphi Ventures Portfolio, Liquid Staking, Index Coop Index, GMCI Index, Coinbase 50 Index",lido-dao,780072161,869504089.0,157920.5711520894,220077.43074276138,0.02,92493788.0
-OKX,"Smart Contract Platform, DWF Labs Portfolio, GMCI Layer 1 Index, GMCI Index, Made in USA, Coinbase 50 Index",eos,743518146,1029337949.0,109395.06380535883,295770.53316838754,0.04,78769156.0
-OKX,"Stablecoins, USD Stablecoin, Solana Ecosystem, Ethereum Ecosystem, Fiat-backed Stablecoin, Made in USA",paypal-usd,738332496,738332496.0,513129.1318990298,358623.3057201286,0.02,325727452.0
-OKX,"Stablecoins, Tokenized Assets, Tokenized Gold, Ethereum Ecosystem, Real World Assets (RWA), Tokenized Commodities",tether-gold,735520730,735520730.0,387823.19362106314,429926.55157319916,0.11,23579247.0
-OKX,"Liquid Staking Tokens, Ethereum Ecosystem, Mantle Ecosystem, Liquid Staked ETH, Liquid Staking",mantle-staked-ether,738270217,738270217.0,,,N/A,8875908.0
-OKX,"BNB Chain Ecosystem, Bridged USDC, Bridged-Tokens, Bridged Stablecoins",binance-bridged-usdc-bnb-smart-chain,698041414,698041414.0,,,N/A,87547367.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Tezos Ecosystem, Proof of Stake (PoS), GMCI Layer 1 Index, GMCI Index, Polychain Capital Portfolio, Made in USA, Coinbase 50 Index",tezos,689816121,703321392.0,48661.59620621539,66318.84892522475,0.04,26560030.0
-OKX,"Crypto-Backed Tokens, BNB Chain Ecosystem, Wrapped-Tokens",wbnb,683762512,683878074.0,,,N/A,328418748.0
-OKX,"Smart Contract Platform, Gaming (GameFi), NFT, Layer 1 (L1), Play To Earn, Ethereum Ecosystem, DWF Labs Portfolio, Gaming Platform, Binance Labs Portfolio, GalaChain Ecosystem, Made in USA",gala,690731190,690731188.0,60719.857820172176,75290.03798448,0.06,75584440.0
-OKX,"Berachain Ecosystem, Bridged USDC, Bridged-Tokens, Bridged Stablecoins",stargate-bridged-usdc-berachain,686293395,686293395.0,,,N/A,4553023.0
-OKX,"Storage, BNB Chain Ecosystem, Ethereum Ecosystem, DePIN, Alleged SEC Securities, Binance Launchpad, Tron Ecosystem, Energi Ecosystem, Binance Labs Portfolio, BitTorrent Ecosystem, GMCI DePIN Index, GMCI Index",bittorrent,674693546,677388634.0,13574.796863391564,9833.899706153887,0.07,19846171.0
-OKX,"Smart Contract Platform, Bitcoin Fork, Proof of Work (PoW)",bitcoin-cash-sv,663489932,663489932.0,72474.4552081347,103422.50416466614,0.12,49528905.0
-OKX,"Gaming (GameFi), NFT, Metaverse, Polygon Ecosystem, Play To Earn, Harmony Ecosystem, Ethereum Ecosystem, Animoca Brands Portfolio, Alleged SEC Securities, Binance Launchpad, Gaming Utility Token, Simulation Games, Energi Ecosystem, Binance Labs Portfolio, Coinbase 50 Index",the-sandbox,657367846,806303653.0,91022.69570576002,170149.0549444123,0.04,67357486.0
-OKX,"Arbitrum Ecosystem, Bridged WBTC, Bridged-Tokens",arbitrum-bridged-wbtc-arbitrum-one,652937790,652937790.0,,,N/A,119176863.0
-OKX,"Decentralized Finance (DeFi), Solana Ecosystem, Liquid Staking Governance Tokens, Multicoin Capital Portfolio, Alameda Research Portfolio, Delphi Ventures Portfolio, Liquid Staking, Made in USA",jito-governance-token,641858346,2110682785.0,133801.8669464953,623758.4392928856,0.05,38381366.0
-OKX,"Internet of Things (IOT), Smart Contract Platform, Layer 1 (L1), DePIN, DWF Labs Portfolio, IOTA EVM Ecosystem, Outlier Ventures Portfolio, Directed Acyclic Graph (DAG)",iota,637173145,798707838.0,82096.66120750371,149713.85003864067,0.11,25823852.0
-OKX,"Smart Contract Platform, Decentralized Finance (DeFi), Layer 1 (L1), Berachain Ecosystem, Binance HODLer Airdrops, Outlier Ventures Portfolio, Polychain Capital Portfolio",berachain-bera,632362900,2930878502.0,485532.3417175246,479195.4902467398,0.05,118275017.0
-OKX,"Stablecoins, Tokenized Assets, Tokenized Gold, Ethereum Ecosystem, Real World Assets (RWA), Tokenized Commodities",pax-gold,632668492,632668492.0,,,N/A,39857110.0
-OKX,"Stablecoins, USD Stablecoin, BNB Chain Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Fiat-backed Stablecoin",usdx-money-usdx,625248834,625248834.0,,,N/A,203114.0
+OKX,"Stablecoins, USD Stablecoin, Arbitrum Ecosystem, Ethereum Ecosystem, Fiat-backed Stablecoin",usual-usd,998307129,998307129.0,,,N/A,68735858.0
+OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Ethereum Ecosystem",dexe,993858665,1679607574.0,,,N/A,35669476.0
+OKX,"Decentralized Finance (DeFi), Lending/Borrowing Protocols, Avalanche Ecosystem, Polygon Ecosystem, Ethereum Ecosystem, Real World Assets (RWA), Paradigm Portfolio, Index Coop Defi Index, Stablecoin Protocol, DragonFly Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, Energi Ecosystem, Sora Ecosystem, GMCI DeFi Index, RWA Protocol, Index Coop Index, GMCI Index, Polychain Capital Portfolio, Made in USA, Coinbase 50 Index",maker,971844872,1001921290.0,42435.28133955204,48352.56725996282,0.02,123259178.0
+OKX,"Polygon Ecosystem, Arbitrum Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Liquid Staked ETH, Liquid Staking",rocket-pool-eth,933196732,933196732.0,,,N/A,14290658.0
+OKX,"Infrastructure, Smart Contract Platform, Layer 2 (L2), Bitcoin Sidechains, Stacks Ecosystem, SideChain, GMCI Layer 2 Index, GMCI 30 Index, Blockchain Capital Portfolio, GMCI Index, Made in USA, Coinbase 50 Index",blockstack,937304088,937304088.0,83419.64434424897,168378.18813304725,0.03,28549346.0
+OKX,"Smart Contract Platform, Gaming (GameFi), NFT, Play To Earn, Ethereum Ecosystem, Layer 2 (L2), Zero Knowledge (ZK), Animoca Brands Portfolio, Immutable Ecosystem, Coinbase Ventures Portfolio, Rollup, Gaming Blockchains, GMCI 30 Index, GMCI Index, Gaming Marketplace, Coinbase 50 Index",immutable-x,913110828,1032745314.0,12897.016077205966,49706.403206179886,0.04,35033245.0
+OKX,"Smart Contract Platform, Ethereum Ecosystem, Decentralized Identifier (DID), Optimism Ecosystem, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, Blockchain Capital Portfolio, Optimism Superchain Ecosystem, World Chain Ecosystem, Made in USA",worldcoin-wld,913428831,8280191932.0,175469.0907182195,270298.6342186448,0.12,138702000.0
+OKX,"Smart Contract Platform, Decentralized Finance (DeFi), BNB Chain Ecosystem, Cosmos Ecosystem, Layer 1 (L1), Ethereum Ecosystem, Binance Launchpad, Osmosis Ecosystem, Proof of Stake (PoS), Pantera Capital Portfolio, Secret Ecosystem, GMCI Layer 1 Index, GMCI Index, Made in USA, Coinbase 50 Index",injective-protocol,909461422,930612187.0,101894.31906024784,109466.40911020608,0.03,131206114.0
+OKX,"Decentralized Finance (DeFi), Solana Ecosystem, Liquid Staking Tokens, Liquid Staked SOL, Liquid Staking",binance-staked-sol,883996979,883996979.0,,,N/A,2105971.0
+OKX,"Artificial Intelligence (AI), Smart Contract Platform, Decentralized Finance (DeFi), Layer 1 (L1), Real World Assets (RWA), Parallelized EVM, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, GMCI Layer 1 Index, Delphi Ventures Portfolio, Circle Ventures Portfolio, OKX Ventures Portfolio, GMCI Index, World Liberty Financial Portfolio, Made in USA",sei-network,871910047,1872055926.0,,,N/A,107273579.0
+OKX,"Smart Contract Platform, Layer 1 (L1), DWF Labs Portfolio",flare-networks,868657595,1468847802.0,95256.04976388178,72727.10084722214,0.14,9160873.0
+OKX,"Smart Contract Platform, Layer 1 (L1), DePIN, Theta Ecosystem, Blockchain Capital Portfolio, Made in USA",theta-token,867256859,867256859.0,14439.395211603938,59942.75736737504,0.02,32267618.0
+OKX,"Polygon Ecosystem, Bridged USDT, Bridged-Tokens, Bridged Stablecoins",polygon-bridged-usdt-polygon,847969921,847969921.0,,,N/A,15497079.0
+OKX,"Artificial Intelligence (AI), Business Services, Infrastructure, Smart Contract Platform, Analytics, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, DePIN, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Proof of Stake (PoS), Energi Ecosystem, Sora Ecosystem, Made in USA, Coinbase 50 Index",the-graph,850732694,961164339.0,33890.01923022202,54335.92710572153,0.11,40412619.0
+OKX,"Crypto-Backed Tokens, BNB Chain Ecosystem, Avalanche Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Mantle Ecosystem, Base Ecosystem, Restaking, Berachain Ecosystem, Merlin Chain Ecosystem, Sonic Ecosystem, Sei v2 Ecosystem, Soneium Ecosystem, Corn Ecosystem",solv-protocol-solvbtc-bbn,807511290,807511290.0,,,N/A,229497.0
+OKX,"BNB Chain Ecosystem, Solana Ecosystem, Polygon Ecosystem, Meme, Arbitrum Ecosystem, Ethereum Ecosystem, Aptos Ecosystem, Dog-Themed, Solana Meme, Neon Ecosystem, GMCI Meme Index, GMCI Index, Made in USA, Coinbase 50 Index",bonk,805828402,924868784.0,190393.56160202503,254504.63888760892,0.06,83470804.0
+OKX,"Infrastructure, Decentralized Finance (DeFi), Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Liquid Staking Governance Tokens, eGirl Capital Portfolio, Paradigm Portfolio, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Index Coop Defi Index, Alameda Research Portfolio, DragonFly Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, GMCI DeFi Index, Delphi Ventures Portfolio, Liquid Staking, Index Coop Index, GMCI Index, Coinbase 50 Index",lido-dao,803860985,896020200.0,187346.15357996762,210360.28344521255,0.04,94990860.0
+OKX,"Smart Contract Platform, DWF Labs Portfolio, GMCI Layer 1 Index, GMCI Index, Made in USA, Coinbase 50 Index",eos,757465680,1048647129.0,121656.0957191295,315268.4910947846,0.04,81234512.0
+OKX,"Liquid Staking Tokens, Ethereum Ecosystem, Mantle Ecosystem, Liquid Staked ETH, Liquid Staking",mantle-staked-ether,747436226,747436457.0,,,N/A,9086475.0
+OKX,"Stablecoins, USD Stablecoin, Solana Ecosystem, Ethereum Ecosystem, Fiat-backed Stablecoin, Made in USA",paypal-usd,738753436,738753436.0,12885.292481886674,113254.74062636701,0.1,317558593.0
+OKX,"Stablecoins, Tokenized Assets, Tokenized Gold, Ethereum Ecosystem, Real World Assets (RWA), Tokenized Commodities",tether-gold,735566018,735566018.0,388692.6927683658,429622.65512764995,0.01,24051855.0
+OKX,"BNB Chain Ecosystem, Bridged USDC, Bridged-Tokens, Bridged Stablecoins",binance-bridged-usdc-bnb-smart-chain,699075683,699075683.0,,,N/A,86153916.0
+OKX,"Smart Contract Platform, Gaming (GameFi), NFT, Layer 1 (L1), Play To Earn, Ethereum Ecosystem, DWF Labs Portfolio, Gaming Platform, Binance Labs Portfolio, GalaChain Ecosystem, Made in USA",gala,701188656,701188656.0,65007.24876903465,89136.84469377041,0.06,76689381.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Tezos Ecosystem, Proof of Stake (PoS), GMCI Layer 1 Index, GMCI Index, Polychain Capital Portfolio, Made in USA, Coinbase 50 Index",tezos,698560668,712237228.0,44761.92773182802,60049.319471838324,0.03,26852632.0
+OKX,"Crypto-Backed Tokens, BNB Chain Ecosystem, Wrapped-Tokens",wbnb,689065087,689065087.0,,,N/A,325296890.0
+OKX,"Berachain Ecosystem, Bridged USDC, Bridged-Tokens, Bridged Stablecoins",stargate-bridged-usdc-berachain,685907315,685907315.0,,,N/A,4690273.0
+OKX,"Storage, BNB Chain Ecosystem, Ethereum Ecosystem, DePIN, Alleged SEC Securities, Binance Launchpad, Tron Ecosystem, Energi Ecosystem, Binance Labs Portfolio, BitTorrent Ecosystem, GMCI DePIN Index, GMCI Index",bittorrent,677628793,680335606.0,9902.753595769933,12789.357814636249,0.06,19969298.0
+OKX,"Smart Contract Platform, Bitcoin Fork, Proof of Work (PoW)",bitcoin-cash-sv,669345065,669345065.0,69625.61892122909,104927.02567997912,0.06,50366283.0
+OKX,"Gaming (GameFi), NFT, Metaverse, Polygon Ecosystem, Play To Earn, Harmony Ecosystem, Ethereum Ecosystem, Animoca Brands Portfolio, Alleged SEC Securities, Binance Launchpad, Gaming Utility Token, Simulation Games, Energi Ecosystem, Binance Labs Portfolio, Coinbase 50 Index",the-sandbox,671354860,823459620.0,103529.32153348562,179367.40750638265,0.04,67983922.0
+OKX,"Arbitrum Ecosystem, Bridged WBTC, Bridged-Tokens",arbitrum-bridged-wbtc-arbitrum-one,657052670,657052670.0,,,N/A,119324460.0
+OKX,"Decentralized Finance (DeFi), Solana Ecosystem, Liquid Staking Governance Tokens, Multicoin Capital Portfolio, Alameda Research Portfolio, Delphi Ventures Portfolio, Liquid Staking, Made in USA",jito-governance-token,652049095,2144193978.0,134250.3266902733,624538.0193529305,0.09,38309615.0
+OKX,"Internet of Things (IOT), Smart Contract Platform, Layer 1 (L1), DePIN, DWF Labs Portfolio, IOTA EVM Ecosystem, Outlier Ventures Portfolio, Directed Acyclic Graph (DAG)",iota,652163640,817498690.0,93323.87296725016,156470.20470094553,0.11,26252202.0
+OKX,"Smart Contract Platform, Decentralized Finance (DeFi), Layer 1 (L1), Berachain Ecosystem, Binance HODLer Airdrops, Outlier Ventures Portfolio, Polychain Capital Portfolio",berachain-bera,642121636,2976108338.0,455229.5002130925,492108.43589849264,0.05,120548304.0
+OKX,"Stablecoins, Tokenized Assets, Tokenized Gold, Ethereum Ecosystem, Real World Assets (RWA), Tokenized Commodities",pax-gold,633113140,633113140.0,,,N/A,40849480.0
+OKX,"Smart Contract Platform, Layer 1 (L1)",kaia,627767001,627767022.0,63166.08288057255,122746.65828713197,0.09,24615044.0
+OKX,"Stablecoins, USD Stablecoin, BNB Chain Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Fiat-backed Stablecoin",usdx-money-usdx,625222368,625222368.0,,,N/A,202348.0
 OKX,"Stablecoins, Avalanche Ecosystem, Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Aptos Ecosystem, Real World Assets (RWA), Fiat-backed Stablecoin",blackrock-usd-institutional-digital-liquidity-fund,624619333,624619333.0,,,N/A,0.0
-OKX,"Smart Contract Platform, Layer 1 (L1)",kaia,623474503,623474523.0,14288.931993860126,122323.4442867077,0.19,23708101.0
-OKX,"Internet of Things (IOT), Ethereum Ecosystem, DePIN, DWF Labs Portfolio, Coinbase 50 Index",jasmycoin,618595018,638780481.0,,,N/A,52187188.0
-OKX,"Smart Contract Platform, Sports, NFT, Layer 1 (L1), Animoca Brands Portfolio, Alleged SEC Securities, Multicoin Capital Portfolio, Proof of Stake (PoS), Flow Ecosystem, Andreessen Horowitz (a16z) Portfolio",flow,607637606,607637606.0,53219.59770170886,67681.3109074486,0.08,30447567.0
-OKX,"BNB Chain Ecosystem, Arbitrum Ecosystem, Liquid Staking Tokens, Base Ecosystem, Restaking, Liquid Restaking Tokens, Blast Ecosystem, Mode Ecosystem, Liquid Staking",renzo-restaked-eth,589954714,589954714.0,,,N/A,2317451.0
-OKX,"Decentralized Finance (DeFi), Solana Ecosystem, Liquid Staking Tokens, Liquid Staked SOL, Liquid Staking",msol,584424759,584424759.0,,,N/A,16801013.0
-OKX,"Gaming (GameFi), NFT, BNB Chain Ecosystem, Metaverse, Meme, Play To Earn, Ethereum Ecosystem, Telegram Apps, Dog-Themed, DWF Labs Portfolio, RPG, On-chain Gaming, TokenFi Launchpad, GMCI Meme Index, GMCI Index",floki,564711275,584274101.0,123873.74817683389,176038.57302934094,0.03,135880328.0
-OKX,"NFT, Ethereum Ecosystem, Decentralized Identifier (DID), Name Service",ethereum-name-service,534892138,1612792709.0,112067.90955227822,144249.34416952898,0.03,50605626.0
-OKX,"Smart Contract Platform, Proof of Stake (PoS), Made in China",neo,533691142,756686718.0,39089.0506484523,100904.27186247616,0.03,23791201.0
-OKX,"Stablecoins, Ethereum Ecosystem",resolv-usr,528747322,528747322.0,,,N/A,11008240.0
-OKX,"Stablecoins, Berachain Ecosystem",honey-3,526564415,526564415.0,,,N/A,19504010.0
-OKX,"Artificial Intelligence (AI), Smart Contract Platform, Privacy, Masternodes, DePIN, DWF Labs Portfolio, Proof of Stake (PoS), Proof of Work (PoW)",beldex,517824149,743849825.0,,,N/A,3021379.0
-OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), Polygon Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Curve Ecosystem, DWF Labs Portfolio, Stablecoin Protocol, Energi Ecosystem, Sora Ecosystem, Binance Labs Portfolio, GMCI DeFi Index, GMCI Index, Coinbase 50 Index",curve-dao-token,500706801,862486040.0,78924.85284597079,194100.93986215687,0.05,122073728.0
-OKX,"Business Services, Infrastructure, Decentralized Finance (DeFi), Oracle, Solana Ecosystem, Neon Ecosystem, Manta Network Ecosystem, Multicoin Capital Portfolio, GMCI DeFi Index, Delphi Ventures Portfolio, GMCI Index",pyth-network,500630192,1381053078.0,127880.87838819942,194564.37915565033,0.07,29516031.0
-OKX,"Smart Contract Platform, Gaming (GameFi), NFT, Layer 1 (L1), Play To Earn, Zero Knowledge (ZK), FTX Holdings, Ronin Ecosystem, Gaming Blockchains, SideChain, Andreessen Horowitz (a16z) Portfolio, Binance Labs Portfolio",ronin,499777029,806886247.0,5833.403536240484,8382.133257202557,0.12,10693065.0
-OKX,"Solana Ecosystem, Liquid Staking Tokens, Liquid Staked SOL, Liquid Staking",jupiter-staked-sol,496869823,496869823.0,,,N/A,5942552.0
-OKX,"Stablecoins, USD Stablecoin, BNB Chain Ecosystem, Avalanche Ecosystem, Ethereum Ecosystem, Tron Ecosystem, Andreessen Horowitz (a16z) Portfolio, Fiat-backed Stablecoin",true-usd,494776502,494776502.0,,,N/A,53582515.0
-OKX,"Communication, Internet of Things (IOT), Smart Contract Platform, Solana Ecosystem, DePIN, Multicoin Capital Portfolio, Proof of Stake (PoS), Alameda Research Portfolio, Pantera Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, Made in USA, Coinbase 50 Index",helium,490591524,609855580.0,,,N/A,6081550.0
-OKX,"Entertainment, Gaming (GameFi), NFT, Metaverse, Polygon Ecosystem, Play To Earn, Ethereum Ecosystem, Animoca Brands Portfolio, Alleged SEC Securities, Simulation Games, Coinbase 50 Index",decentraland,495668421,581954940.0,39318.3930500076,73589.39246752966,0.04,55573610.0
-OKX,"Gaming (GameFi), NFT, BNB Chain Ecosystem, Axie Infinity Ecosystem, Metaverse, Play To Earn, Harmony Ecosystem, Ethereum Ecosystem, Animoca Brands Portfolio, Alleged SEC Securities, Binance Launchpad, Ronin Ecosystem, Card Games, Breeding, Paradigm Portfolio, Gaming Governance Token, Gaming Utility Token, Andreessen Horowitz (a16z) Portfolio, Energi Ecosystem, Binance Labs Portfolio, Consensys Portfolio, Coinbase 50 Index",axie-infinity,491127263,831865474.0,16918.137128099657,28147.975378991887,0.06,30900714.0
-OKX,"Smart Contract Platform, Privacy, Layer 1 (L1), Zero Knowledge (ZK), Proof of Work (PoW), Pantera Capital Portfolio, Made in USA, Coinbase 50 Index",zcash,486846998,486901192.0,,,N/A,60936674.0
-OKX,"Smart Contract Platform, Layer 1 (L1), MultiversX Ecosystem, Binance Launchpad, DWF Labs Portfolio, Proof of Stake (PoS), Binance Labs Portfolio, GMCI Layer 1 Index, GMCI Index, Coinbase 50 Index",elrond-erd-2,483632854,483632854.0,17231.26134779383,16347.419044970007,0.06,28516387.0
-OKX,"Decentralized Finance (DeFi), Wallets, Polygon Ecosystem, Ethereum Ecosystem, Payment Solutions, Base Ecosystem, Sora Ecosystem, Made in USA",telcoin,479676160,521956366.0,,,N/A,4830710.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Binance Launchpad, DWF Labs Portfolio, Osmosis Ecosystem, Binance Labs Portfolio, Made in USA",kava,462232305,462232305.0,,,N/A,12363815.0
-OKX,"BNB Chain Ecosystem, Ethereum Ecosystem, BTCfi",pumpbtc,460237007,460237007.0,,,N/A,394.22
-OKX,"Solana Ecosystem, Meme, Dog-Themed, Solana Meme, GMCI Meme Index, GMCI Index",dogwifcoin,457825420,457825420.0,257478.75307155354,331066.6916712596,0.04,420395576.0
-OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), BNB Chain Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Aptos Ecosystem, ZkSync Ecosystem, Linea Ecosystem, Base Ecosystem, Polygon zkEVM Ecosystem, Binance Labs Portfolio, opBNB Ecosystem, GMCI DeFi Index, GMCI Index",pancakeswap-token,455934453,593152770.0,,,N/A,103632075.0
-OKX,"Decentralized Exchange (DEX), Smart Contract Platform, Decentralized Finance (DeFi), Cosmos Ecosystem, Perpetuals, Layer 1 (L1), Osmosis Ecosystem, Appchains, DragonFly Capital Portfolio, DeFiance Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, GMCI DeFi Index, Delphi Ventures Portfolio, GMCI Index, Polychain Capital Portfolio, Made in USA",dydx-chain,454199793,454200734.0,103717.12298030825,207526.68645139545,0.07,24157661.0
-OKX,"Infrastructure, Smart Contract Platform, Ethereum Ecosystem, Layer 2 (L2), Zero Knowledge (ZK), Starknet Ecosystem, Paradigm Portfolio, Coinbase Ventures Portfolio, Rollup, Multicoin Capital Portfolio, Alameda Research Portfolio, Pantera Capital Portfolio, GMCI Layer 2 Index, Consensys Portfolio, Sequoia Capital Portfolio, GMCI Index, Polychain Capital Portfolio",starknet,452246810,1648426619.0,42585.920477835825,90221.05754784337,0.12,37187216.0
-OKX,"USD Stablecoin, Polygon Ecosystem, Bridged USDC, Fiat-backed Stablecoin, Bridged-Tokens, Bridged Stablecoins",bridged-usdc-polygon-pos-bridge,446699070,446699070.0,,,N/A,21474132.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), Solana Ecosystem, Launchpad, GMCI DeFi Index, GMCI Index",raydium,434625539,829358285.0,35040.62789477281,38937.13805641353,0.05,57756542.0
-OKX,"Base Ecosystem, Bridged WETH, Bridged-Tokens",l2-standard-bridged-weth-base,432310710,431382839.0,,,N/A,469861356.0
-OKX,"NFT, BNB Chain Ecosystem, Ethereum Ecosystem, Tron Ecosystem",apenft,428873579,433155064.0,8963.04619007709,82959.21887737374,0.11,51839646.0
-OKX,"Ethereum Ecosystem, Mantle Ecosystem, Restaking, Liquid Restaking Tokens, Liquid Restaked ETH",mantle-restaked-eth,429029624,429029624.0,,,N/A,11221923.0
-OKX,"BNB Chain Ecosystem, Meme, Binance-Peg Tokens",binance-peg-dogecoin,417031605,417031605.0,,,N/A,1409902.0
-OKX,"Arbitrum Ecosystem, Bridged WETH, Bridged-Tokens",arbitrum-bridged-weth-arbitrum-one,414962706,414962706.0,,,N/A,355498542.0
-OKX,"Tokenized BTC, Avalanche Ecosystem, Bridged-Tokens",bitcoin-avalanche-bridged-btc-b,414078965,414079375.0,,,N/A,28015461.0
-OKX,"Smart Contract Platform, BNB Chain Ecosystem, Layer 1 (L1), Ethereum Ecosystem, Base Ecosystem, Proof of Stake (PoS), Pantera Capital Portfolio, Made in USA",chain-2,413500327,607898784.0,,,N/A,86181324.0
+OKX,"Internet of Things (IOT), Ethereum Ecosystem, DePIN, DWF Labs Portfolio, Coinbase 50 Index",jasmycoin,630810505,651394574.0,,,N/A,53659632.0
+OKX,"Smart Contract Platform, Sports, NFT, Layer 1 (L1), Animoca Brands Portfolio, Alleged SEC Securities, Multicoin Capital Portfolio, Proof of Stake (PoS), Flow Ecosystem, Andreessen Horowitz (a16z) Portfolio",flow,617358373,617358373.0,57184.6964016787,80215.16968379667,0.05,31191648.0
+OKX,"BNB Chain Ecosystem, Arbitrum Ecosystem, Liquid Staking Tokens, Base Ecosystem, Restaking, Liquid Restaking Tokens, Blast Ecosystem, Mode Ecosystem, Liquid Staking",renzo-restaked-eth,597566923,597572586.0,,,N/A,2284165.0
+OKX,"Decentralized Finance (DeFi), Solana Ecosystem, Liquid Staking Tokens, Liquid Staked SOL, Liquid Staking",msol,591091152,591091152.0,,,N/A,16492628.0
+OKX,"Gaming (GameFi), NFT, BNB Chain Ecosystem, Metaverse, Meme, Play To Earn, Ethereum Ecosystem, Telegram Apps, Dog-Themed, DWF Labs Portfolio, RPG, On-chain Gaming, TokenFi Launchpad, GMCI Meme Index, GMCI Index",floki,575051225,594976631.0,131517.8141614242,190788.09062842824,0.02,136500637.0
+OKX,"NFT, Ethereum Ecosystem, Decentralized Identifier (DID), Name Service",ethereum-name-service,545411691,1644510990.0,104514.53615314583,159651.83348277162,0.01,49476679.0
+OKX,"Smart Contract Platform, Proof of Stake (PoS), Made in China",neo,541876062,768291595.0,30382.15209098238,97003.77336915238,0.01,24499025.0
+OKX,"Stablecoins, Ethereum Ecosystem",resolv-usr,528702276,528702276.0,,,N/A,10095677.0
+OKX,"Stablecoins, Berachain Ecosystem",honey-3,526807621,526807621.0,,,N/A,8572354.0
+OKX,"Artificial Intelligence (AI), Smart Contract Platform, Privacy, Masternodes, DePIN, DWF Labs Portfolio, Proof of Stake (PoS), Proof of Work (PoW)",beldex,517592778,743517435.0,,,N/A,3013512.0
+OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), Polygon Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Curve Ecosystem, DWF Labs Portfolio, Stablecoin Protocol, Energi Ecosystem, Sora Ecosystem, Binance Labs Portfolio, GMCI DeFi Index, GMCI Index, Coinbase 50 Index",curve-dao-token,512501089,882815490.0,100402.35041302622,197449.14462455077,0.08,123306899.0
+OKX,"Business Services, Infrastructure, Decentralized Finance (DeFi), Oracle, Solana Ecosystem, Neon Ecosystem, Manta Network Ecosystem, Multicoin Capital Portfolio, GMCI DeFi Index, Delphi Ventures Portfolio, GMCI Index",pyth-network,509161517,1404587840.0,125459.8458422957,214411.12054071564,0.07,29394741.0
+OKX,"Smart Contract Platform, Gaming (GameFi), NFT, Layer 1 (L1), Play To Earn, Zero Knowledge (ZK), FTX Holdings, Ronin Ecosystem, Gaming Blockchains, SideChain, Andreessen Horowitz (a16z) Portfolio, Binance Labs Portfolio",ronin,505823568,816648337.0,46994.166657769085,51870.1379577255,0.06,14767713.0
+OKX,"Solana Ecosystem, Liquid Staking Tokens, Liquid Staked SOL, Liquid Staking",jupiter-staked-sol,501312032,501312032.0,,,N/A,6287708.0
+OKX,"Entertainment, Gaming (GameFi), NFT, Metaverse, Polygon Ecosystem, Play To Earn, Ethereum Ecosystem, Animoca Brands Portfolio, Alleged SEC Securities, Simulation Games, Coinbase 50 Index",decentraland,500635188,587786327.0,36423.76776627398,78855.74695569779,0.04,55303370.0
+OKX,"Communication, Internet of Things (IOT), Smart Contract Platform, Solana Ecosystem, DePIN, Multicoin Capital Portfolio, Proof of Stake (PoS), Alameda Research Portfolio, Pantera Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, Made in USA, Coinbase 50 Index",helium,501229321,623079528.0,,,N/A,6914602.0
+OKX,"Gaming (GameFi), NFT, BNB Chain Ecosystem, Axie Infinity Ecosystem, Metaverse, Play To Earn, Harmony Ecosystem, Ethereum Ecosystem, Animoca Brands Portfolio, Alleged SEC Securities, Binance Launchpad, Ronin Ecosystem, Card Games, Breeding, Paradigm Portfolio, Gaming Governance Token, Gaming Utility Token, Andreessen Horowitz (a16z) Portfolio, Energi Ecosystem, Binance Labs Portfolio, Consensys Portfolio, Coinbase 50 Index",axie-infinity,503733453,853216175.0,18719.19179753547,35026.913545972384,0.06,31230761.0
+OKX,"Stablecoins, USD Stablecoin, BNB Chain Ecosystem, Avalanche Ecosystem, Ethereum Ecosystem, Tron Ecosystem, Andreessen Horowitz (a16z) Portfolio, Fiat-backed Stablecoin",true-usd,494767178,494767178.0,,,N/A,54754740.0
+OKX,"Smart Contract Platform, Layer 1 (L1), MultiversX Ecosystem, Binance Launchpad, DWF Labs Portfolio, Proof of Stake (PoS), Binance Labs Portfolio, GMCI Layer 1 Index, GMCI Index, Coinbase 50 Index",elrond-erd-2,493890304,493890304.0,14316.486050079511,17985.941467777528,0.06,29393797.0
+OKX,"Smart Contract Platform, Privacy, Layer 1 (L1), Zero Knowledge (ZK), Proof of Work (PoW), Pantera Capital Portfolio, Made in USA, Coinbase 50 Index",zcash,489133355,489190056.0,,,N/A,61081281.0
+OKX,"Decentralized Finance (DeFi), Wallets, Polygon Ecosystem, Ethereum Ecosystem, Payment Solutions, Base Ecosystem, Sora Ecosystem, Made in USA",telcoin,481428291,523862935.0,,,N/A,4709530.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Binance Launchpad, DWF Labs Portfolio, Osmosis Ecosystem, Binance Labs Portfolio, Made in USA",kava,467303192,467303192.0,,,N/A,12416382.0
+OKX,"Decentralized Exchange (DEX), Smart Contract Platform, Decentralized Finance (DeFi), Cosmos Ecosystem, Perpetuals, Layer 1 (L1), Osmosis Ecosystem, Appchains, DragonFly Capital Portfolio, DeFiance Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, GMCI DeFi Index, Delphi Ventures Portfolio, GMCI Index, Polychain Capital Portfolio, Made in USA",dydx-chain,468034876,468034876.0,98369.0658209478,212422.49427024467,0.02,24613486.0
+OKX,"Solana Ecosystem, Meme, Dog-Themed, Solana Meme, GMCI Meme Index, GMCI Index",dogwifcoin,463380359,463380359.0,266060.32344521786,346192.5086749808,0.04,420762540.0
+OKX,"Infrastructure, Smart Contract Platform, Ethereum Ecosystem, Layer 2 (L2), Zero Knowledge (ZK), Starknet Ecosystem, Paradigm Portfolio, Coinbase Ventures Portfolio, Rollup, Multicoin Capital Portfolio, Alameda Research Portfolio, Pantera Capital Portfolio, GMCI Layer 2 Index, Consensys Portfolio, Sequoia Capital Portfolio, GMCI Index, Polychain Capital Portfolio",starknet,466378332,1699935609.0,36382.11903582665,95461.40427848251,0.06,38023769.0
+OKX,"BNB Chain Ecosystem, Ethereum Ecosystem, BTCfi",pumpbtc,462116231,462116231.0,,,N/A,396.3
+OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), BNB Chain Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Aptos Ecosystem, ZkSync Ecosystem, Linea Ecosystem, Base Ecosystem, Polygon zkEVM Ecosystem, Binance Labs Portfolio, opBNB Ecosystem, GMCI DeFi Index, GMCI Index",pancakeswap-token,461728314,600690115.0,,,N/A,105310939.0
+OKX,"USD Stablecoin, Polygon Ecosystem, Bridged USDC, Fiat-backed Stablecoin, Bridged-Tokens, Bridged Stablecoins",bridged-usdc-polygon-pos-bridge,446664516,446676761.0,,,N/A,20977385.0
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), Solana Ecosystem, Launchpad, GMCI DeFi Index, GMCI Index",raydium,438981551,837670485.0,83491.96242022852,35316.616980618826,0.08,58870524.0
+OKX,"Base Ecosystem, Bridged WETH, Bridged-Tokens",l2-standard-bridged-weth-base,433925401,433925401.0,,,N/A,472126372.0
+OKX,"Ethereum Ecosystem, Mantle Ecosystem, Restaking, Liquid Restaking Tokens, Liquid Restaked ETH",mantle-restaked-eth,433884444,433884444.0,,,N/A,11386886.0
+OKX,"NFT, BNB Chain Ecosystem, Ethereum Ecosystem, Tron Ecosystem",apenft,430243258,434538416.0,7784.770389817524,10629.190184340945,0.21,52495515.0
+OKX,"BNB Chain Ecosystem, Meme, Binance-Peg Tokens",binance-peg-dogecoin,422344579,422344579.0,,,N/A,1417925.0
+OKX,"Arbitrum Ecosystem, Bridged WETH, Bridged-Tokens",arbitrum-bridged-weth-arbitrum-one,419113061,419113061.0,,,N/A,361080186.0
+OKX,"Smart Contract Platform, BNB Chain Ecosystem, Layer 1 (L1), Ethereum Ecosystem, Base Ecosystem, Proof of Stake (PoS), Pantera Capital Portfolio, Made in USA",chain-2,419351419,616498196.0,,,N/A,87080726.0
+OKX,"Tokenized BTC, Avalanche Ecosystem, Bridged-Tokens",bitcoin-avalanche-bridged-btc-b,416023216,416023216.0,,,N/A,28502514.0
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Automated Market Maker (AMM), Base Ecosystem, Binance Alpha Spotlight, Made in USA",aerodrome-finance,409023234,791576862.0,,,N/A,23295718.0
+OKX,"Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, BTCfi",clbtc,408231409,408231409.0,,,N/A,277.9
 OKX,"Tokenized Assets, Solana Ecosystem, Polygon Ecosystem, Ethereum Ecosystem, Real World Assets (RWA), Tokenized Treasury Bonds (T-Bonds)",ousg,408431834,408431834.0,,,N/A,0.0
-OKX,"Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, BTCfi",clbtc,405071129,405071129.0,,,N/A,272.46
-OKX,"Stablecoins, USD Stablecoin, Blast Ecosystem, Crypto-backed Stablecoin, Fiat-backed Stablecoin",usdb,403615090,403615090.0,,,N/A,2133302.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Automated Market Maker (AMM), Base Ecosystem, Binance Alpha Spotlight, Made in USA",aerodrome-finance,404679761,783014018.0,,,N/A,22884296.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Bitcoin Fork, Proof of Work (PoW)",ecash,402127081,402129235.0,,,N/A,22705996.0
+OKX,"Stablecoins, USD Stablecoin, Blast Ecosystem, Crypto-backed Stablecoin, Fiat-backed Stablecoin",usdb,407661353,407661353.0,,,N/A,2209703.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Bitcoin Fork, Proof of Work (PoW)",ecash,408561111,408563878.0,,,N/A,22646176.0
+OKX,"Smart Contract Platform, Sports, NFT, Layer 1 (L1), Ethereum Ecosystem, Alleged SEC Securities, Chiliz Ecosystem, Binance Labs Portfolio, Coinbase 50 Index",chiliz,403192829,403192829.0,52583.663165547245,94642.62496427841,0.07,57126091.0
 OKX,"Ethereum Ecosystem, Real World Assets (RWA)",hashnote-usyc,400450325,400450325.0,,,N/A,10.66
-OKX,"Smart Contract Platform, Sports, NFT, Layer 1 (L1), Ethereum Ecosystem, Alleged SEC Securities, Chiliz Ecosystem, Binance Labs Portfolio, Coinbase 50 Index",chiliz,398097433,398101176.0,48891.10761527097,96177.76500690157,0.02,57875839.0
-OKX,"Smart Contract Platform, DWF Labs Portfolio, Proof of Work (PoW), GMCI Layer 1 Index, Sequoia Capital Portfolio, GMCI Index, Made in China",conflux-token,392514047,438212714.0,63273.51436776323,192934.23479330193,0.13,74657367.0
-OKX,"Stablecoins, Decentralized Finance (DeFi), USD Stablecoin, BNB Chain Ecosystem, Seigniorage, Avalanche Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Moonriver Ecosystem, Moonbeam Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Stablecoin Protocol, Aurora Ecosystem, Polygon zkEVM Ecosystem, Evmos Ecosystem, Boba Network Ecosystem, Fiat-backed Stablecoin",frax,392181365,392181365.0,,,N/A,6696489.0
-OKX,"Gaming (GameFi), NFT, Polygon Ecosystem, Ethereum Ecosystem, Animoca Brands Portfolio, Gaming Blockchains, Gaming Governance Token, Gaming Utility Token, Andreessen Horowitz (a16z) Portfolio, ApeChain Ecosystem, Airdropped Tokens by NFT Projects, Coinbase 50 Index",apecoin,389499962,487206563.0,94002.01357013227,121268.13967538749,0.04,56808461.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Bitcoin Sidechains, SideChain",coredaoorg,385838999,812903503.0,39368.39233645842,85955.3276259802,0.08,14186499.0
-OKX,"Stablecoins, Solana Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Aptos Ecosystem, Sui Ecosystem, Mantle Ecosystem, Osmosis Ecosystem, Fiat-backed Stablecoin, Yield Tokenization Product",ondo-us-dollar-yield,384716577,592651807.0,,,N/A,607505.0
-OKX,"Decentralized Exchange (DEX), Infrastructure, Smart Contract Platform, Exchange-based Tokens, Decentralized Finance (DeFi), Bridge Governance Tokens, Multicoin Capital Portfolio, Proof of Stake (PoS), Delphi Ventures Portfolio",thorchain,386082894,467266511.0,,,N/A,216731820.0
-OKX,"Artificial Intelligence (AI), Smart Contract Platform, Storage, Layer 1 (L1), DePIN, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, Blockchain Capital Portfolio",arweave,382582200,382582200.0,32658.95613985111,88494.64930534153,0.03,36782043.0
-OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Liquid Staking Tokens, Sui Ecosystem, Liquid Staking",lorenzo-stbtc,372901749,372901749.0,,,N/A,4844.14
-OKX,"Smart Contract Platform, BNB Chain Ecosystem, Polygon Ecosystem, Harmony Ecosystem, Moonriver Ecosystem, Moonbeam Ecosystem, Ethereum Ecosystem, Layer 2 (L2), Zero Knowledge (ZK), Animoca Brands Portfolio, Alleged SEC Securities, Binance Launchpad, FTX Holdings, Coinbase Ventures Portfolio, Rollup, Proof of Stake (PoS), Alameda Research Portfolio, DragonFly Capital Portfolio, Energi Ecosystem, Sora Ecosystem, Binance Labs Portfolio, GMCI Layer 2 Index, GMCI 30 Index, Galaxy Digital Portfolio, GMCI Index, Coinbase 50 Index",matic-network,372468204,2080947942.0,,,N/A,4822390.0
-OKX,"Artificial Intelligence (AI), Solana Ecosystem, Ethereum Ecosystem, Base Ecosystem, AI Agents, Virtuals Protocol Ecosystem, AI Agent Launchpad, Binance Alpha Spotlight",virtual-protocol,364787523,561642573.0,,,N/A,113897276.0
-OKX,"Solana Ecosystem, Meme, Solana Meme, Binance HODLer Airdrops, Airdropped Tokens by NFT Projects, Made in USA",pudgy-penguins,362420808,442352514.0,133822.6701087989,148732.6506345134,0.1,128494997.0
-OKX,"Decentralized Finance (DeFi), Liquid Staking Tokens, Berachain Ecosystem, Liquid Staking",infrared-bera,362423723,362423723.0,,,N/A,84370.0
-OKX,"Liquid Staking Tokens, Ethereum Ecosystem, Restaking, Liquid Restaking Tokens, Ether.fi Ecosystem, Liquid Staked ETH, Liquid Staking",ether-fi-staked-eth,360614289,4137496969.0,,,N/A,49270.0
-OKX,"Crypto-Backed Tokens, Decentralized Finance (DeFi), Rebase Tokens, Arbitrum Ecosystem, Ethereum Ecosystem, Berachain Ecosystem",olympus,356950946,457221131.0,,,N/A,975791.0
-OKX,"BNB Chain Ecosystem, Wallets, Account Abstraction, Energi Ecosystem",trust-wallet-token,350858428,842094114.0,,,N/A,13090585.0
-OKX,"Decentralized Finance (DeFi), Yield Farming, BNB Chain Ecosystem, Lending/Borrowing Protocols, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Base Ecosystem, Paradigm Portfolio, Index Coop Defi Index, Energi Ecosystem, Sora Ecosystem, Index Coop Index, Polychain Capital Portfolio, Made in USA",compound-governance-token,350877268,394369655.0,26003.797091862816,45893.96623294306,0.08,48678263.0
-OKX,"Decentralized Finance (DeFi), Near Protocol Ecosystem, Ethereum Ecosystem, Payment Solutions, Alleged SEC Securities, Pantera Capital Portfolio, Energi Ecosystem, Made in USA",amp-token,347067422,410677680.0,,,N/A,39533386.0
-OKX,"Crypto-Backed Tokens, Decentralized Finance (DeFi), Tokenized BTC, Solana Ecosystem, Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem",tbtc,342311033,342311033.0,,,N/A,14817686.0
-OKX,"Artificial Intelligence (AI), Analytics, Base Ecosystem, Binance HODLer Airdrops",kaito,333285918,1380701154.0,175304.33529242664,248198.59247852847,0.02,273451889.0
-OKX,"Decentralized Finance (DeFi), Arbitrum Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem",cgeth-hashkey-cloud,333905746,333905746.0,,,N/A,22.64
-OKX,"Artificial Intelligence (AI), Smart Contract Platform, DePIN, Osmosis Ecosystem, Proof of Stake (PoS), Archway Ecosystem, Made in USA",akash-network,332828655,333965400.0,,,N/A,27089784.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), BNB Chain Ecosystem, Derivatives, Lending/Borrowing Protocols, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Fixed Interest, Real World Assets (RWA), LSDFi, Base Ecosystem, Restaking, LRTfi, Liquid Restaking Governance Tokens, Yield Tokenization Protocol, Binance Labs Portfolio, GMCI DeFi Index, Sonic Ecosystem, Liquid Staking, GMCI Index, BTCfi",pendle,332504125,519104611.0,45801.07557323085,51465.79414540012,0.1,42952017.0
-OKX,"Infrastructure, BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Moonbeam Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Interoperability, Bridge Governance Tokens, Base Ecosystem, Osmosis Ecosystem, Cross-chain Communication, Secret Ecosystem, Galaxy Digital Portfolio, Polychain Capital Portfolio, Made in USA",axelar,331737379,425436700.0,,,N/A,14766057.0
-OKX,"Artificial Intelligence (AI), Solana Ecosystem, DePIN, Polychain Capital Portfolio",grass,323190765,1325067727.0,,,N/A,114388575.0
-OKX,"Mantle Ecosystem, Bridged USDT, Bridged-Tokens, Bridged Stablecoins",mantle-bridged-usdt-mantle,325541826,325541826.0,,,N/A,1229020.0
-OKX,"Stablecoins, USD Stablecoin, BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Optimism Ecosystem, Fiat-backed Stablecoin, Binance-Peg Tokens",binance-peg-busd,323419004,323419004.0,,,N/A,14938034.0
-OKX,"Smart Contract Platform, Decentralized Finance (DeFi), Coinbase Ventures Portfolio, DeFiance Capital Portfolio, Pantera Capital Portfolio, Binance Labs Portfolio, Galaxy Digital Portfolio",terra-luna,324194137,386846852.0,36621.98320352217,55350.8239134925,0.07,11270628.0
-OKX,"Decentralized Finance (DeFi), Liquid Staking Tokens, Ethereum Ecosystem, Liquid Staked ETH, Liquid Staking",stakewise-v3-oseth,323449187,323448614.0,,,N/A,1701673.0
-OKX,"Decentralized Exchange (DEX), Smart Contract Platform, Decentralized Finance (DeFi), Prediction Markets, Layer 1 (L1), Gnosis Chain Ecosystem, MEV Protection, Arbitrum Ecosystem, Ethereum Ecosystem, SideChain, Energi Ecosystem",gnosis,306095664,354607234.0,,,N/A,35602702.0
-OKX,"Solana Ecosystem, Meme, Ethereum Ecosystem, Base Ecosystem, Murad Picks, Stock market-themed",spx6900,302613782,302613782.0,,,N/A,20495788.0
-OKX,"Smart Contract Platform, Gaming (GameFi), NFT, BNB Chain Ecosystem, Binance Launchpool, Avalanche Ecosystem, Ethereum Ecosystem, DWF Labs Portfolio, Gaming Blockchains, Avalanche L1",beam-2,303603870,353209146.0,,,N/A,26068593.0
-OKX,"Smart Contract Platform, Layer 1 (L1), MEV Protection, Proof of Work (PoW), Privacy Blockchain",verus-coin,301335703,301335703.0,,,N/A,17901.83
-OKX,"Smart Contract Platform, Zero Knowledge (ZK), FTX Holdings, Paradigm Portfolio, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Proof of Stake (PoS), Pantera Capital Portfolio, Circle Ventures Portfolio, Privacy Blockchain, Polychain Capital Portfolio, Made in USA, Coinbase 50 Index",mina-protocol,299760264,299760264.0,33931.508373010976,45536.30131582819,0.08,16434248.0
-OKX,"Decentralized Finance (DeFi), Tron Ecosystem",just,296670719,296670719.0,16081.62777136587,18001.03114261485,0.13,24842990.0
-OKX,"Meme, Base Ecosystem, Frog-Themed, Base Meme, The Boy’s Club",based-brett,299428632,299428632.0,,,N/A,33050174.0
-OKX,"Decentralized Finance (DeFi), Arbitrum Ecosystem, Ethereum Ecosystem, Real World Assets (RWA), Base Ecosystem, Coinbase Ventures Portfolio, Energi Ecosystem, Made in USA",reserve-rights-token,296287346,530033492.0,28410.49788149986,60972.03821903445,0.08,27628689.0
-OKX,"Decentralized Finance (DeFi), Lending/Borrowing Protocols, Ethereum Ecosystem, Base Ecosystem, Coinbase Ventures Portfolio, Pantera Capital Portfolio, Morpho Ecosystem, Binance Alpha Spotlight",morpho,294119796,1246015783.0,326181.4667949379,379912.2756268366,0.03,13541743.0
-OKX,"Yield Aggregator, Ethereum Ecosystem, Binance Labs Portfolio, Polychain Capital Portfolio",stakestone-berachain-vault-token,295110433,295110433.0,,,N/A,174811.0
-OKX,"Artificial Intelligence (AI), Smart Contract Platform, Storage, BNB Chain Ecosystem, Layer 1 (L1), Ethereum Ecosystem, DePIN, DWF Labs Portfolio, Osmosis Ecosystem, GMCI DePIN Index, GMCI Index",aioz-network,281439032,285196276.0,,,N/A,13697899.0
-OKX,"Artificial Intelligence (AI), Ethereum Ecosystem, DePIN, Energi Ecosystem, GMCI DePIN Index, GMCI Index",golem,279521343,279521343.0,17411.193683122274,25217.07512609038,0.07,44110460.0
-OKX,"Polygon Ecosystem, Bridged WETH, Bridged-Tokens",polygon-pos-bridged-weth-polygon-pos,271874798,271874727.0,,,N/A,14237824.0
-OKX,"Crypto-Backed Tokens, Wrapped-Tokens, Polygon Ecosystem, Arbitrum Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Liquid Staked ETH, Liquid Staking",coinbase-wrapped-staked-eth,271268287,755310739.0,,,N/A,10847477.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Ethereum Ecosystem, Real World Assets (RWA), RWA Protocol, Made in USA",plume,271337224,1356686120.0,,,N/A,77090672.0
-OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Yield Farming, Derivatives, Synthetic Issuer, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Fantom Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, DWF Labs Portfolio, Paradigm Portfolio, Coinbase Ventures Portfolio, Index Coop Defi Index, Energi Ecosystem, Huobi ECO Chain Ecosystem, GMCI DeFi Index, Synthetic, Index Coop Index, GMCI Index, Coinbase 50 Index",havven,268983338,269319013.0,28480.5742765188,39308.12022881758,0.05,21053405.0
-OKX,"Stablecoins, USD Stablecoin, Ethereum Ecosystem, Fiat-backed Stablecoin",elixir-deusd,267184779,267184779.0,,,N/A,36210004.0
-OKX,"Smart Contract Platform, Privacy, Masternodes, Alleged SEC Securities, Proof of Stake (PoS), Proof of Work (PoW), Made in USA",dash,265905699,265910596.0,,,N/A,33747681.0
-OKX,"BNB Chain Ecosystem, Wallets, Ethereum Ecosystem, Animoca Brands Portfolio, Binance Launchpad, Energi Ecosystem, Binance Labs Portfolio",safepal,263575623,263575623.0,,,N/A,8982462.0
-OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Automated Market Maker (AMM), BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, FTX Holdings, Alameda Research Portfolio, DragonFly Capital Portfolio, Pantera Capital Portfolio, Energi Ecosystem, Binance Labs Portfolio, GMCI DeFi Index, Galaxy Digital Portfolio, Blockchain Capital Portfolio, Dex Aggregator, GMCI Index, Coinbase 50 Index",1inch,262768705,286326796.0,34451.51904782621,59271.66968595392,0.05,26066726.0
-OKX,"Liquid Staking Tokens, Ethereum Ecosystem, Liquid Staking",stader-ethx,261783386,261783598.0,,,N/A,191566.0
-OKX,"Smart Contract Platform, Ethereum Ecosystem, Real World Assets (RWA), DWF Labs Portfolio, Proof of Stake (PoS)",creditcoin-2,258433239,361094890.0,58190.480732807686,54379.672087844636,0.03,31444532.0
-OKX,"Exchange-based Tokens, Centralized Exchange (CEX) Token, Ethereum Ecosystem, Morph L2 Ecosystem",mx-token,260696638,1148692641.0,,,N/A,17576349.0
-OKX,"Polygon Ecosystem, Bridged WBTC, Bridged-Tokens",polygon-bridged-wbtc-polygon-pos,259047266,259047266.0,,,N/A,7411713.0
-OKX,"BRC-20, Bitcoin Ecosystem, Inscriptions",sats-ordinals,256228805,256228805.0,137561.4295260746,300975.09757201775,0.08,7672827.0
-OKX,"Smart Contract Platform, DePIN, Proof of Stake (PoS), Made in USA",theta-fuel,255328244,255329521.0,,,N/A,3022243.0
-OKX,"Smart Contract Platform, Polkadot Ecosystem, Proof of Stake (PoS), Pantera Capital Portfolio, Made in USA, Coinbase 50 Index",kusama,254328811,254343579.0,15816.525781335215,35018.280002876556,0.13,14187241.0
-OKX,"Stablecoins, Tokenized Assets, Tokenized Gold, BNB Chain Ecosystem, Real World Assets (RWA), Tokenized Commodities, Commodity-backed Stablecoin",quorium,250894965,250894965.0,,,N/A,166682.0
-OKX,"Infrastructure, Ethereum Ecosystem, Data Availability, Restaking, Polychain Capital Portfolio, Made in USA",eigenlayer,250976320,1758988026.0,164053.6993828414,208843.46170969697,0.19,48952637.0
-OKX,"Decentralized Finance (DeFi), Solana Ecosystem, LSDFi, Restaking, Stablecoin Protocol, Binance Labs Portfolio, Binance HODLer Airdrops, Polychain Capital Portfolio",solayer,252123484,1200588020.0,,,N/A,401799417.0
-OKX,"Crypto-Backed Tokens, Decentralized Finance (DeFi), cToken, Ethereum Ecosystem",compound-wrapped-btc,247609203,247609203.0,,,N/A,0.0
-OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem, Restaking, Liquid Restaking Tokens, Liquid Staking",ether-fi-staked-btc,245743160,245745309.0,,,N/A,383319.0
-OKX,"Decentralized Finance (DeFi), Liquid Staking Tokens, Base Ecosystem, Liquid Staked ETH, Liquid Staking",super-oeth,245086815,245086815.0,,,N/A,3629919.0
-OKX,"Solana Ecosystem, Meme, Solana Meme, AI Meme, Pump.fun Ecosystem, Terminal of Truths, Binance Alpha Spotlight",fartcoin,239897932,239897932.0,,,N/A,185983237.0
-OKX,"Arbitrum Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Liquid Staking",sweth,243800616,243807413.0,,,N/A,204890.0
-OKX,"Solana Ecosystem, Arbitrum Ecosystem, Impossible Finance Launchpad, Ethereum Ecosystem, DePIN, Animoca Brands Portfolio",aethir,241252580,1512861017.0,176025.13544614683,212795.722130188,0.11,69951340.0
-OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Moonbeam Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Optimism Ecosystem, Polygon zkEVM Ecosystem, Liquid Staking, Made in USA",frax-ether,240685180,240685180.0,,,N/A,3664238.0
-OKX,"Smart Contract Platform, Layer 2 (L2), Zero Knowledge (ZK), ZkSync Ecosystem, Consensys Portfolio, Blockchain Capital Portfolio, OKX Ventures Portfolio",zksync,240434278,1373910161.0,16450.635170085938,74133.11072407918,0.03,32410537.0
-OKX,"Solana Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Interoperability, Base Ecosystem, Multicoin Capital Portfolio, Cross-chain Communication, Made in USA",wormhole,241279410,831441377.0,132069.31508824512,179071.10979424117,0.12,29449746.0
-OKX,"Meme, Cardano Ecosystem",snek,231301236,234252979.0,,,N/A,1650818.0
-OKX,"Smart Contract Platform, BNB Chain Ecosystem, GMCI Layer 1 Index, GMCI Index, Made in China",zilliqa,228829309,236784405.0,65810.87260204303,183150.34029236162,0.17,19613895.0
-OKX,"Smart Contract Platform, Polkadot Ecosystem, Layer 1 (L1), Layer 2 (L2), Alameda Research Portfolio, Binance Labs Portfolio, OKX Ventures Portfolio",astar,227316360,249938753.0,113073.91360373668,213176.2604208016,0.1,7230931.0
-OKX,"NFT, Ethereum Ecosystem, NFT Marketplace, FTX Holdings, NFTFi, eGirl Capital Portfolio, Paradigm Portfolio, GMCI DeFi Index, GMCI Index, Made in USA, Coinbase 50 Index",blur,224194382,299673331.0,52008.41058832938,71092.1853846448,0.1,29906367.0
-OKX,"Stablecoins, USD Stablecoin, BNB Chain Ecosystem, Avalanche Ecosystem, Near Protocol Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Tron Ecosystem, BitTorrent Ecosystem, Algorithmic Stablecoin, Fiat-backed Stablecoin",usdd,222375246,222375255.0,,,N/A,3817654.0
-OKX,"Bridged USDC, Sonic Ecosystem, Bridged-Tokens, Bridged Stablecoins",sonic-bridged-usdc-e-sonic,220491929,220491929.0,,,N/A,28015929.0
-OKX,"Infrastructure, Wallets, Gnosis Chain Ecosystem, Ethereum Ecosystem",safe,218475161,394618577.0,86213.94980991172,85567.28212037375,0.08,15483990.0
-OKX,"BNB Chain Ecosystem, Polygon Ecosystem, Ethereum Ecosystem, Animoca Brands Portfolio, DWF Labs Portfolio, Alameda Research Portfolio, Energi Ecosystem, Binance Labs Portfolio",mask-network,216656189,216656189.0,99367.35166815616,126583.68689226512,0.05,48543872.0
-OKX,"Smart Contract Platform, Proof of Stake (PoS), Made in China",qtum,217107444,221761864.0,15338.416453627733,84725.16234516173,0.1,20575307.0
-OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Derivatives, Perpetuals, Ethereum Ecosystem, Paradigm Portfolio",dydx,215067649,215067649.0,,,N/A,15681248.0
-OKX,"Smart Contract Platform, Interoperability, Layer 2 (L2), Rollup, Multicoin Capital Portfolio, Proof of Work (PoW), DragonFly Capital Portfolio, Sequoia Capital Portfolio, Blockchain Capital Portfolio, Polychain Capital Portfolio, Made in China",nervos-network,213170870,216534493.0,,,N/A,13391166.0
-OKX,"Solana Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Pantera Capital Portfolio, Energi Ecosystem, Made in USA",basic-attention-token,211415801,212028088.0,5747.7656888039755,20061.767964612667,0.21,19317312.0
-OKX,"BNB Chain Ecosystem, Meme, AI Meme",ai-companions,210209200,210209200.0,,,N/A,6136607.0
-OKX,"Stablecoins, USD Stablecoin, Arbitrum Ecosystem, Ethereum Ecosystem, Base Ecosystem, Crypto-backed Stablecoin, Fiat-backed Stablecoin",gho,206413309,202372529.0,,,N/A,20397929.0
-OKX,"Smart Contract Platform, BNB Chain Ecosystem, Layer 1 (L1), Proof of Stake (PoS), Pantera Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, Binance Labs Portfolio, Blockchain Capital Portfolio, Privacy Blockchain, Polychain Capital Portfolio, Coinbase 50 Index",oasis-network,205011790,304632998.0,,,N/A,11395985.0
-OKX,"Gaming (GameFi), Binance Launchpool, Meme, Play To Earn, TON Ecosystem, TON Meme, Tap to Earn",notcoin,205473609,205473609.0,46509.802372417325,116365.45962661947,0.05,73800398.0
-OKX,"Layer 1 (L1), VeChain Ecosystem",vethor-token,202767456,202881179.0,,,N/A,6016528.0
-OKX,"Decentralized Finance (DeFi), Aptos Ecosystem",abtc,200533865,200533865.0,,,N/A,110963.0
-OKX,"Infrastructure, Decentralized Finance (DeFi), Sui Ecosystem",deep,201071623,804286492.0,,,N/A,20674045.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Avalanche Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Coinbase Ventures Portfolio, Pantera Capital Portfolio, Energi Ecosystem, GMCI DeFi Index, Blockchain Capital Portfolio, GMCI Index, Made in USA",0x,200426071,236241022.0,20003.298633458355,30157.317164020234,0.08,28561234.0
-OKX,"Liquid Staking Tokens, Ethereum Ecosystem, Base Ecosystem, Liquid Staked ETH, Liquid Staking",liquid-staked-ethereum,198683283,198683283.0,,,N/A,248041.0
-OKX,"Stablecoins, Ethereum Ecosystem",usda-2,197391983,197391983.0,,,N/A,16747.09
-OKX,"Artificial Intelligence (AI), Harmony Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, DePIN, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Pantera Capital Portfolio, GMCI DePIN Index, GMCI Index, Coinbase 50 Index",livepeer,197846418,197846418.0,35389.39877821196,85547.66918942671,0.08,30391953.0
-OKX,"Smart Contract Platform, Gaming (GameFi), NFT, Layer 1 (L1), Play To Earn, Gaming Blockchains, WEMIX Ecosystem",wemix-token,197641387,254146728.0,,,N/A,4755357.0
-OKX,"Infrastructure, Smart Contract Platform, BNB Chain Ecosystem, Layer 1 (L1), Ethereum Ecosystem, GMCI Layer 1 Index, Aelf Ecosystem, GMCI Index",aelf,190746959,257125930.0,7627.083091615787,18301.86912718163,0.2,126226246.0
-OKX,"Gaming (GameFi), BNB Chain Ecosystem, Solana Ecosystem, Meme, Ethereum Ecosystem, Dog-Themed, Solana Meme, Gaming Utility Token",baby-doge-coin,192504116,488635383.0,40626.70882654378,63101.94420904636,0.17,15816167.0
-OKX,"Decentralized Finance (DeFi), Yield Farming, BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Linea Ecosystem, Bridge Governance Tokens, Base Ecosystem, FTX Holdings",stargate-finance,190043985,195626233.0,,,N/A,7743457.0
-OKX,"BNB Chain Ecosystem, Meme",cheems-token,190717727,190717727.0,,,N/A,5199979.0
-OKX,"Smart Contract Platform, Storage, Harmony Ecosystem, Ethereum Ecosystem, DePIN, Energi Ecosystem, Sora Ecosystem, GMCI DePIN Index, GMCI Index",holotoken,189475500,189475500.0,,,N/A,10037697.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Automated Market Maker (AMM), Cosmos Ecosystem, Osmosis Ecosystem, Paradigm Portfolio, Evmos Ecosystem, Secret Ecosystem, GMCI DeFi Index, GMCI Index",osmosis,188222910,262349056.0,,,N/A,12442990.0
-OKX,"Decentralized Finance (DeFi), Polygon Ecosystem, Ethereum Ecosystem, Coinbase Ventures Portfolio, Pantera Capital Portfolio",instadapp,187943100,476567787.0,,,N/A,1197366.0
-OKX,"Smart Contract Platform, BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Multicoin Capital Portfolio, Layer 0 (L0), Cross-chain Communication, Circle Ventures Portfolio, Sequoia Capital Portfolio, OKX Ventures Portfolio",layerzero,185386156,1667848810.0,6830.427173496617,7054.765973009214,0.12,34444194.0
+OKX,"Smart Contract Platform, DWF Labs Portfolio, Proof of Work (PoW), GMCI Layer 1 Index, Sequoia Capital Portfolio, GMCI Index, Made in China",conflux-token,400387754,447002945.0,98527.41733795297,147428.2391473474,0.12,76201012.0
+OKX,"Gaming (GameFi), NFT, Polygon Ecosystem, Ethereum Ecosystem, Animoca Brands Portfolio, Gaming Blockchains, Gaming Governance Token, Gaming Utility Token, Andreessen Horowitz (a16z) Portfolio, ApeChain Ecosystem, Airdropped Tokens by NFT Projects, Coinbase 50 Index",apecoin,400126521,500498808.0,94112.65101543178,135013.8714914099,0.06,57407929.0
+OKX,"Stablecoins, Decentralized Finance (DeFi), USD Stablecoin, BNB Chain Ecosystem, Seigniorage, Avalanche Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Moonriver Ecosystem, Moonbeam Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Stablecoin Protocol, Aurora Ecosystem, Polygon zkEVM Ecosystem, Evmos Ecosystem, Boba Network Ecosystem, Fiat-backed Stablecoin",frax,392283586,392283586.0,,,N/A,6823852.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Bitcoin Sidechains, SideChain",coredaoorg,390408286,822530327.0,22967.983044803594,64191.582209229506,0.05,14330547.0
+OKX,"Artificial Intelligence (AI), Smart Contract Platform, Storage, Layer 1 (L1), DePIN, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, Blockchain Capital Portfolio",arweave,391472900,391472900.0,34570.45339405332,92248.95995865928,0.05,37660958.0
+OKX,"Decentralized Exchange (DEX), Infrastructure, Smart Contract Platform, Exchange-based Tokens, Decentralized Finance (DeFi), Bridge Governance Tokens, Multicoin Capital Portfolio, Proof of Stake (PoS), Delphi Ventures Portfolio",thorchain,388586253,470296397.0,,,N/A,213380354.0
+OKX,"Stablecoins, Solana Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Aptos Ecosystem, Sui Ecosystem, Mantle Ecosystem, Osmosis Ecosystem, Fiat-backed Stablecoin, Yield Tokenization Product",ondo-us-dollar-yield,384508823,592331763.0,,,N/A,607416.0
+OKX,"Smart Contract Platform, BNB Chain Ecosystem, Polygon Ecosystem, Harmony Ecosystem, Moonriver Ecosystem, Moonbeam Ecosystem, Ethereum Ecosystem, Layer 2 (L2), Zero Knowledge (ZK), Animoca Brands Portfolio, Alleged SEC Securities, Binance Launchpad, FTX Holdings, Coinbase Ventures Portfolio, Rollup, Proof of Stake (PoS), Alameda Research Portfolio, DragonFly Capital Portfolio, Energi Ecosystem, Sora Ecosystem, Binance Labs Portfolio, GMCI Layer 2 Index, GMCI 30 Index, Galaxy Digital Portfolio, GMCI Index, Coinbase 50 Index",matic-network,378378704,2114338657.0,,,N/A,4912615.0
+OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Liquid Staking Tokens, Sui Ecosystem, Liquid Staking",lorenzo-stbtc,375777961,375777961.0,,,N/A,4884.16
+OKX,"Artificial Intelligence (AI), Solana Ecosystem, Ethereum Ecosystem, Base Ecosystem, AI Agents, Virtuals Protocol Ecosystem, AI Agent Launchpad, Binance Alpha Spotlight",virtual-protocol,378953889,583453721.0,,,N/A,117109103.0
+OKX,"Solana Ecosystem, Meme, Solana Meme, Binance HODLer Airdrops, Airdropped Tokens by NFT Projects, Made in USA",pudgy-penguins,375012786,457721646.0,142261.90324638208,159414.45876765624,0.07,131112524.0
+OKX,"Decentralized Finance (DeFi), Liquid Staking Tokens, Berachain Ecosystem, Liquid Staking",infrared-bera,368519445,368519995.0,,,N/A,84467.0
+OKX,"Liquid Staking Tokens, Ethereum Ecosystem, Restaking, Liquid Restaking Tokens, Ether.fi Ecosystem, Liquid Staked ETH, Liquid Staking",ether-fi-staked-eth,365224273,4182653157.0,,,N/A,49759.0
+OKX,"Crypto-Backed Tokens, Decentralized Finance (DeFi), Rebase Tokens, Arbitrum Ecosystem, Ethereum Ecosystem, Berachain Ecosystem",olympus,358393730,459069205.0,,,N/A,990793.0
+OKX,"Decentralized Finance (DeFi), Yield Farming, BNB Chain Ecosystem, Lending/Borrowing Protocols, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Base Ecosystem, Paradigm Portfolio, Index Coop Defi Index, Energi Ecosystem, Sora Ecosystem, Index Coop Index, Polychain Capital Portfolio, Made in USA",compound-governance-token,355723775,399816903.0,20209.87741101149,52024.81972750898,0.02,42570976.0
+OKX,"BNB Chain Ecosystem, Wallets, Account Abstraction, Energi Ecosystem",trust-wallet-token,355661703,853622436.0,,,N/A,13547213.0
+OKX,"Decentralized Finance (DeFi), Near Protocol Ecosystem, Ethereum Ecosystem, Payment Solutions, Alleged SEC Securities, Pantera Capital Portfolio, Energi Ecosystem, Made in USA",amp-token,347042962,410648738.0,,,N/A,41770156.0
+OKX,"Crypto-Backed Tokens, Decentralized Finance (DeFi), Tokenized BTC, Solana Ecosystem, Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem",tbtc,343619710,343619710.0,,,N/A,14586369.0
+OKX,"Artificial Intelligence (AI), Smart Contract Platform, DePIN, Osmosis Ecosystem, Proof of Stake (PoS), Archway Ecosystem, Made in USA",akash-network,345564351,346744594.0,,,N/A,27421910.0
+OKX,"Artificial Intelligence (AI), Analytics, Base Ecosystem, Binance HODLer Airdrops",kaito,338627201,1402828450.0,175575.01338448623,259098.06142463413,0.02,261816438.0
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), BNB Chain Ecosystem, Derivatives, Lending/Borrowing Protocols, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Fixed Interest, Real World Assets (RWA), LSDFi, Base Ecosystem, Restaking, LRTfi, Liquid Restaking Governance Tokens, Yield Tokenization Protocol, Binance Labs Portfolio, GMCI DeFi Index, Sonic Ecosystem, Liquid Staking, GMCI Index, BTCfi",pendle,337773735,527302931.0,48299.013409758656,53355.545399219765,0.1,43249432.0
+OKX,"Infrastructure, BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Moonbeam Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Interoperability, Bridge Governance Tokens, Base Ecosystem, Osmosis Ecosystem, Cross-chain Communication, Secret Ecosystem, Galaxy Digital Portfolio, Polychain Capital Portfolio, Made in USA",axelar,340238314,436337472.0,,,N/A,15425741.0
+OKX,"Decentralized Finance (DeFi), Arbitrum Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem",cgeth-hashkey-cloud,333815857,333815857.0,,,N/A,22.68
+OKX,"Decentralized Finance (DeFi), Liquid Staking Tokens, Ethereum Ecosystem, Liquid Staked ETH, Liquid Staking",stakewise-v3-oseth,327593898,327593898.0,,,N/A,1741510.0
+OKX,"Smart Contract Platform, Decentralized Finance (DeFi), Coinbase Ventures Portfolio, DeFiance Capital Portfolio, Pantera Capital Portfolio, Binance Labs Portfolio, Galaxy Digital Portfolio",terra-luna,328433798,391907427.0,42414.73382666784,63098.47480110799,0.05,11414181.0
+OKX,"Mantle Ecosystem, Bridged USDT, Bridged-Tokens, Bridged Stablecoins",mantle-bridged-usdt-mantle,325799813,325799813.0,,,N/A,1221543.0
+OKX,"Artificial Intelligence (AI), Solana Ecosystem, DePIN, Polychain Capital Portfolio",grass,329720623,1351839855.0,,,N/A,120193225.0
+OKX,"Stablecoins, USD Stablecoin, BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Optimism Ecosystem, Fiat-backed Stablecoin, Binance-Peg Tokens",binance-peg-busd,323180228,323180228.0,,,N/A,15013890.0
+OKX,"Solana Ecosystem, Meme, Ethereum Ecosystem, Base Ecosystem, Murad Picks, Stock market-themed",spx6900,312943645,312943645.0,,,N/A,20969449.0
+OKX,"Decentralized Exchange (DEX), Smart Contract Platform, Decentralized Finance (DeFi), Prediction Markets, Layer 1 (L1), Gnosis Chain Ecosystem, MEV Protection, Arbitrum Ecosystem, Ethereum Ecosystem, SideChain, Energi Ecosystem",gnosis,310458776,359661834.0,,,N/A,35910072.0
+OKX,"Smart Contract Platform, Gaming (GameFi), NFT, BNB Chain Ecosystem, Binance Launchpool, Avalanche Ecosystem, Ethereum Ecosystem, DWF Labs Portfolio, Gaming Blockchains, Avalanche L1",beam-2,312969074,364104513.0,,,N/A,28117762.0
+OKX,"Meme, Base Ecosystem, Frog-Themed, Base Meme, The Boy’s Club",based-brett,307348177,307348179.0,,,N/A,33700590.0
+OKX,"Smart Contract Platform, Zero Knowledge (ZK), FTX Holdings, Paradigm Portfolio, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Proof of Stake (PoS), Pantera Capital Portfolio, Circle Ventures Portfolio, Privacy Blockchain, Polychain Capital Portfolio, Made in USA, Coinbase 50 Index",mina-protocol,304725999,304725999.0,32956.30937519424,55294.87278707954,0.04,16388581.0
+OKX,"Smart Contract Platform, Layer 1 (L1), MEV Protection, Proof of Work (PoW), Privacy Blockchain",verus-coin,302324892,302325691.0,,,N/A,18305.31
+OKX,"Decentralized Finance (DeFi), Arbitrum Ecosystem, Ethereum Ecosystem, Real World Assets (RWA), Base Ecosystem, Coinbase Ventures Portfolio, Energi Ecosystem, Made in USA",reserve-rights-token,301291757,538985969.0,29202.385551458257,71739.68603025183,0.09,27819915.0
+OKX,"Yield Aggregator, Ethereum Ecosystem, Binance Labs Portfolio, Polychain Capital Portfolio",stakestone-berachain-vault-token,298635948,298635948.0,,,N/A,181098.0
+OKX,"Decentralized Finance (DeFi), Tron Ecosystem",just,297966112,297966112.0,14593.16490240427,25781.71762642017,0.07,24646540.0
+OKX,"Decentralized Finance (DeFi), Lending/Borrowing Protocols, Ethereum Ecosystem, Base Ecosystem, Coinbase Ventures Portfolio, Pantera Capital Portfolio, Morpho Ecosystem, Binance Alpha Spotlight",morpho,297746520,1261380122.0,350019.0773831421,389399.64904713654,0.07,13436375.0
+OKX,"Artificial Intelligence (AI), Smart Contract Platform, Storage, BNB Chain Ecosystem, Layer 1 (L1), Ethereum Ecosystem, DePIN, DWF Labs Portfolio, Osmosis Ecosystem, GMCI DePIN Index, GMCI Index",aioz-network,287080468,290915359.0,,,N/A,13914360.0
+OKX,"Artificial Intelligence (AI), Ethereum Ecosystem, DePIN, Energi Ecosystem, GMCI DePIN Index, GMCI Index",golem,281537230,281537230.0,13040.809032403635,32841.27890731386,0.04,44091849.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Ethereum Ecosystem, Real World Assets (RWA), RWA Protocol, Made in USA",plume,276214133,1381070667.0,,,N/A,78639588.0
+OKX,"Polygon Ecosystem, Bridged WETH, Bridged-Tokens",polygon-pos-bridged-weth-polygon-pos,275281627,275312120.0,,,N/A,14409970.0
+OKX,"Crypto-Backed Tokens, Wrapped-Tokens, Polygon Ecosystem, Arbitrum Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Liquid Staked ETH, Liquid Staking",coinbase-wrapped-staked-eth,274671333,764707173.0,,,N/A,11490958.0
+OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Yield Farming, Derivatives, Synthetic Issuer, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Fantom Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, DWF Labs Portfolio, Paradigm Portfolio, Coinbase Ventures Portfolio, Index Coop Defi Index, Energi Ecosystem, Huobi ECO Chain Ecosystem, GMCI DeFi Index, Synthetic, Index Coop Index, GMCI Index, Coinbase 50 Index",havven,273780934,274122596.0,35669.3467826611,53212.054505424145,0.02,21339816.0
+OKX,"Stablecoins, USD Stablecoin, Ethereum Ecosystem, Fiat-backed Stablecoin",elixir-deusd,267095145,267095145.0,,,N/A,36065711.0
+OKX,"Smart Contract Platform, Privacy, Masternodes, Alleged SEC Securities, Proof of Stake (PoS), Proof of Work (PoW), Made in USA",dash,268116926,268122617.0,,,N/A,32533001.0
+OKX,"BNB Chain Ecosystem, Wallets, Ethereum Ecosystem, Animoca Brands Portfolio, Binance Launchpad, Energi Ecosystem, Binance Labs Portfolio",safepal,267447322,267447322.0,,,N/A,9455246.0
+OKX,"Liquid Staking Tokens, Ethereum Ecosystem, Liquid Staking",stader-ethx,266083251,266083251.0,,,N/A,191923.0
+OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Automated Market Maker (AMM), BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, FTX Holdings, Alameda Research Portfolio, DragonFly Capital Portfolio, Pantera Capital Portfolio, Energi Ecosystem, Binance Labs Portfolio, GMCI DeFi Index, Galaxy Digital Portfolio, Blockchain Capital Portfolio, Dex Aggregator, GMCI Index, Coinbase 50 Index",1inch,266973285,290908330.0,32646.95788634853,67146.79880976379,0.05,27054160.0
+OKX,"Exchange-based Tokens, Centralized Exchange (CEX) Token, Ethereum Ecosystem, Morph L2 Ecosystem",mx-token,261645318,1152872755.0,,,N/A,15706543.0
+OKX,"Smart Contract Platform, Ethereum Ecosystem, Real World Assets (RWA), DWF Labs Portfolio, Proof of Stake (PoS)",creditcoin-2,265524071,371002529.0,55480.23199250988,77206.01609801575,0.03,48852933.0
+OKX,"Polygon Ecosystem, Bridged WBTC, Bridged-Tokens",polygon-bridged-wbtc-polygon-pos,260676461,260676461.0,,,N/A,7606074.0
+OKX,"Infrastructure, Ethereum Ecosystem, Data Availability, Restaking, Polychain Capital Portfolio, Made in USA",eigenlayer,261138531,1830210711.0,170554.62938754103,214085.63282516543,0.09,49431652.0
+OKX,"Decentralized Finance (DeFi), Solana Ecosystem, LSDFi, Restaking, Stablecoin Protocol, Binance Labs Portfolio, Binance HODLer Airdrops, Polychain Capital Portfolio",solayer,253421068,1206766990.0,,,N/A,217154204.0
+OKX,"Smart Contract Platform, DePIN, Proof of Stake (PoS), Made in USA",theta-fuel,257439611,257442506.0,,,N/A,3142526.0
+OKX,"BRC-20, Bitcoin Ecosystem, Inscriptions",sats-ordinals,257158972,257158972.0,135857.54759319682,310794.77974914055,0.08,7634939.0
+OKX,"Smart Contract Platform, Polkadot Ecosystem, Proof of Stake (PoS), Pantera Capital Portfolio, Made in USA, Coinbase 50 Index",kusama,257424799,257440017.0,16615.508668683873,36495.577767457275,0.06,15555207.0
+OKX,"Stablecoins, Tokenized Assets, Tokenized Gold, BNB Chain Ecosystem, Real World Assets (RWA), Tokenized Commodities, Commodity-backed Stablecoin",quorium,250856173,250856173.0,,,N/A,163227.0
+OKX,"Crypto-Backed Tokens, Decentralized Finance (DeFi), cToken, Ethereum Ecosystem",compound-wrapped-btc,248897803,248897803.0,,,N/A,0.0
+OKX,"Decentralized Finance (DeFi), Liquid Staking Tokens, Base Ecosystem, Liquid Staked ETH, Liquid Staking",super-oeth,247897391,247902005.0,,,N/A,3673560.0
+OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem, Restaking, Liquid Restaking Tokens, Liquid Staking",ether-fi-staked-btc,246953794,246954729.0,,,N/A,451740.0
+OKX,"Solana Ecosystem, Meme, Solana Meme, AI Meme, Pump.fun Ecosystem, Terminal of Truths, Binance Alpha Spotlight",fartcoin,247908874,247908874.0,,,N/A,188720907.0
+OKX,"Arbitrum Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Liquid Staking",sweth,246960127,246967013.0,,,N/A,240369.0
+OKX,"Solana Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Interoperability, Base Ecosystem, Multicoin Capital Portfolio, Cross-chain Communication, Made in USA",wormhole,245105754,844626840.0,136466.10432741023,176251.41950071987,0.12,30819391.0
+OKX,"Smart Contract Platform, Layer 2 (L2), Zero Knowledge (ZK), ZkSync Ecosystem, Consensys Portfolio, Blockchain Capital Portfolio, OKX Ventures Portfolio",zksync,244527864,1397302077.0,18683.76373923946,73581.42524658566,0.03,34232095.0
+OKX,"Solana Ecosystem, Arbitrum Ecosystem, Impossible Finance Launchpad, Ethereum Ecosystem, DePIN, Animoca Brands Portfolio",aethir,245504495,1539524179.0,207994.2683310427,240979.79860077,0.05,69912222.0
+OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Moonbeam Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Optimism Ecosystem, Polygon zkEVM Ecosystem, Liquid Staking, Made in USA",frax-ether,244166342,244166342.0,,,N/A,3738660.0
+OKX,"Meme, Cardano Ecosystem",snek,235141462,238142211.0,,,N/A,1704286.0
+OKX,"Smart Contract Platform, BNB Chain Ecosystem, GMCI Layer 1 Index, GMCI Index, Made in China",zilliqa,232766547,240858436.0,62880.06911892141,184313.1646120296,0.08,20829922.0
+OKX,"Smart Contract Platform, Polkadot Ecosystem, Layer 1 (L1), Layer 2 (L2), Alameda Research Portfolio, Binance Labs Portfolio, OKX Ventures Portfolio",astar,230971740,253957899.0,114371.10044259414,163861.19281932022,0.07,8067518.0
+OKX,"NFT, Ethereum Ecosystem, NFT Marketplace, FTX Holdings, NFTFi, eGirl Capital Portfolio, Paradigm Portfolio, GMCI DeFi Index, GMCI Index, Made in USA, Coinbase 50 Index",blur,228143575,304940457.0,51982.092429104734,75178.8405785797,0.1,29789046.0
+OKX,"Stablecoins, USD Stablecoin, BNB Chain Ecosystem, Avalanche Ecosystem, Near Protocol Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Tron Ecosystem, BitTorrent Ecosystem, Algorithmic Stablecoin, Fiat-backed Stablecoin",usdd,222392296,222392296.0,,,N/A,3812634.0
+OKX,"Bridged USDC, Sonic Ecosystem, Bridged-Tokens, Bridged Stablecoins",sonic-bridged-usdc-e-sonic,222165226,222165226.0,,,N/A,55995723.0
+OKX,"Infrastructure, Wallets, Gnosis Chain Ecosystem, Ethereum Ecosystem",safe,221583346,400232706.0,97701.6241849557,99028.59175916445,0.02,15498229.0
+OKX,"Smart Contract Platform, Proof of Stake (PoS), Made in China",qtum,220923748,225659862.0,16888.618625412386,86037.33652339164,0.05,21153291.0
+OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Derivatives, Perpetuals, Ethereum Ecosystem, Paradigm Portfolio",dydx,221649928,221649928.0,,,N/A,16151591.0
+OKX,"BNB Chain Ecosystem, Polygon Ecosystem, Ethereum Ecosystem, Animoca Brands Portfolio, DWF Labs Portfolio, Alameda Research Portfolio, Energi Ecosystem, Binance Labs Portfolio",mask-network,216970549,216970549.0,97275.02450598186,128641.75792227089,0.05,52868478.0
+OKX,"Smart Contract Platform, Interoperability, Layer 2 (L2), Rollup, Multicoin Capital Portfolio, Proof of Work (PoW), DragonFly Capital Portfolio, Sequoia Capital Portfolio, Blockchain Capital Portfolio, Polychain Capital Portfolio, Made in China",nervos-network,217729591,221165126.0,,,N/A,13781195.0
+OKX,"Solana Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Pantera Capital Portfolio, Energi Ecosystem, Made in USA",basic-attention-token,214647616,215269262.0,6525.578461059296,21176.16962740897,0.14,18432272.0
+OKX,"BNB Chain Ecosystem, Meme, AI Meme",ai-companions,212647621,212647621.0,,,N/A,5999597.0
+OKX,"Gaming (GameFi), Binance Launchpool, Meme, Play To Earn, TON Ecosystem, TON Meme, Tap to Earn",notcoin,209490730,209490730.0,49579.89197846537,103500.13203035295,0.05,74900615.0
+OKX,"Smart Contract Platform, BNB Chain Ecosystem, Layer 1 (L1), Proof of Stake (PoS), Pantera Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, Binance Labs Portfolio, Blockchain Capital Portfolio, Privacy Blockchain, Polychain Capital Portfolio, Coinbase 50 Index",oasis-network,209181028,310828190.0,,,N/A,12020879.0
+OKX,"Layer 1 (L1), VeChain Ecosystem",vethor-token,206349738,206469351.0,,,N/A,6634034.0
+OKX,"Infrastructure, Decentralized Finance (DeFi), Sui Ecosystem",deep,206526849,826107394.0,,,N/A,24349132.0
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Avalanche Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Coinbase Ventures Portfolio, Pantera Capital Portfolio, Energi Ecosystem, GMCI DeFi Index, Blockchain Capital Portfolio, GMCI Index, Made in USA",0x,204835826,241438774.0,16485.91768150824,33633.94015571847,0.12,29105344.0
+OKX,"Decentralized Finance (DeFi), Aptos Ecosystem",abtc,205770604,205770604.0,,,N/A,145457.0
+OKX,"Stablecoins, USD Stablecoin, Arbitrum Ecosystem, Ethereum Ecosystem, Base Ecosystem, Crypto-backed Stablecoin, Fiat-backed Stablecoin",gho,202373827,202419193.0,,,N/A,20193582.0
+OKX,"Liquid Staking Tokens, Ethereum Ecosystem, Base Ecosystem, Liquid Staked ETH, Liquid Staking",liquid-staked-ethereum,201152660,201152660.0,,,N/A,251652.0
+OKX,"Artificial Intelligence (AI), Harmony Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, DePIN, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Pantera Capital Portfolio, GMCI DePIN Index, GMCI Index, Coinbase 50 Index",livepeer,201722532,201722532.0,39074.80185025354,98003.49634796113,0.06,30865019.0
+OKX,"Smart Contract Platform, Gaming (GameFi), NFT, Layer 1 (L1), Play To Earn, Gaming Blockchains, WEMIX Ecosystem",wemix-token,198904078,255770196.0,,,N/A,4982665.0
+OKX,"Stablecoins, Ethereum Ecosystem",usda-2,197545126,197545126.0,,,N/A,16761.44
+OKX,"Gaming (GameFi), BNB Chain Ecosystem, Solana Ecosystem, Meme, Ethereum Ecosystem, Dog-Themed, Solana Meme, Gaming Utility Token",baby-doge-coin,195836038,497092840.0,43735.3527674177,69284.50285146391,0.08,15962916.0
+OKX,"BNB Chain Ecosystem, Meme",cheems-token,194512740,194512740.0,,,N/A,4902767.0
+OKX,"Smart Contract Platform, Storage, Harmony Ecosystem, Ethereum Ecosystem, DePIN, Energi Ecosystem, Sora Ecosystem, GMCI DePIN Index, GMCI Index",holotoken,193796245,193796245.0,,,N/A,10251104.0
+OKX,"Decentralized Finance (DeFi), Yield Farming, BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Linea Ecosystem, Bridge Governance Tokens, Base Ecosystem, FTX Holdings",stargate-finance,192190874,197836183.0,,,N/A,7862483.0
+OKX,"Artificial Intelligence (AI), Solana Ecosystem, Meme, Solana Meme, AI Meme, AI Agents, Binance Alpha Spotlight, AI Framework, Made in USA",ai16z,191996904,191996904.0,,,N/A,67364481.0
+OKX,"Decentralized Finance (DeFi), Polygon Ecosystem, Ethereum Ecosystem, Coinbase Ventures Portfolio, Pantera Capital Portfolio",instadapp,190734720,483646503.0,,,N/A,1209837.0
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Automated Market Maker (AMM), Cosmos Ecosystem, Osmosis Ecosystem, Paradigm Portfolio, Evmos Ecosystem, Secret Ecosystem, GMCI DeFi Index, GMCI Index",osmosis,191366177,266730207.0,,,N/A,12456347.0
+OKX,"Infrastructure, Smart Contract Platform, BNB Chain Ecosystem, Layer 1 (L1), Ethereum Ecosystem, GMCI Layer 1 Index, Aelf Ecosystem, GMCI Index",aelf,189069984,254865376.0,13699.435728431883,30573.771548859426,0.12,74639738.0
+OKX,"Smart Contract Platform, BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Multicoin Capital Portfolio, Layer 0 (L0), Cross-chain Communication, Circle Ventures Portfolio, Sequoia Capital Portfolio, OKX Ventures Portfolio",layerzero,190245325,1711564909.0,6584.262331145885,7299.429726627712,0.12,34642342.0
+OKX,"Artificial Intelligence (AI), Exchange-based Tokens, Analytics, Derivatives, Perpetuals, Centralized Exchange (CEX) Token, Ethereum Ecosystem, Binance Launchpad, Coinbase Ventures Portfolio, Binance Labs Portfolio, Made in USA",arkham,188417039,509654922.0,142404.79184830067,169350.6551078124,0.02,79183853.0
+OKX,"Gaming (GameFi), NFT, Collectibles, Polygon Ecosystem, Ethereum Ecosystem, Animoca Brands Portfolio, Gaming Blockchains, Made in USA",superfarm,187169012,414369690.0,,,N/A,17285027.0
+OKX,"Smart Contract Platform, Privacy, Layer 1 (L1), Proof of Stake (PoS), Proof of Work (PoW), Blockchain Capital Portfolio, Made in USA",decred,186849371,186850940.0,,,N/A,2962136.0
+OKX,"Decentralized Exchange (DEX), BNB Chain Ecosystem, Solana Ecosystem, Ethereum Ecosystem, Real World Assets (RWA), Base Ecosystem, RWA Protocol",chex-token,185604680,185604680.0,,,N/A,1555648.0
 OKX,"Crypto-Backed Tokens, Decentralized Finance (DeFi), Wrapped-Tokens, Ethereum Ecosystem",resolv-wstusr,184744046,164781176.0,,,N/A,162.11
-OKX,"Artificial Intelligence (AI), Solana Ecosystem, Meme, Solana Meme, AI Meme, AI Agents, Binance Alpha Spotlight, AI Framework, Made in USA",ai16z,184773760,184773760.0,,,N/A,67145446.0
-OKX,"Artificial Intelligence (AI), Exchange-based Tokens, Analytics, Derivatives, Perpetuals, Centralized Exchange (CEX) Token, Ethereum Ecosystem, Binance Launchpad, Coinbase Ventures Portfolio, Binance Labs Portfolio, Made in USA",arkham,183073202,495200216.0,127383.6360651284,170880.84067676426,0.02,77797056.0
-OKX,"Smart Contract Platform, Privacy, Layer 1 (L1), Proof of Stake (PoS), Proof of Work (PoW), Blockchain Capital Portfolio, Made in USA",decred,183701390,183701904.0,,,N/A,3040106.0
-OKX,"Infrastructure, Smart Contract Platform, NEO Ecosystem",gas,183175911,183175911.0,20276.68593315781,24263.776954423403,0.07,8835759.0
-OKX,"Smart Contract Platform, Gaming (GameFi), Ethereum Ecosystem, Base Ecosystem, Card Games, Paradigm Portfolio, Gaming Blockchains, Gaming Utility Token",echelon-prime,180656778,356695166.0,,,N/A,3784665.0
-OKX,"Decentralized Exchange (DEX), BNB Chain Ecosystem, Solana Ecosystem, Ethereum Ecosystem, Real World Assets (RWA), Base Ecosystem, RWA Protocol",chex-token,184235722,184235722.0,,,N/A,1576841.0
-OKX,"Gaming (GameFi), NFT, Collectibles, Polygon Ecosystem, Ethereum Ecosystem, Animoca Brands Portfolio, Gaming Blockchains, Made in USA",superfarm,182352045,403705504.0,,,N/A,16979649.0
-OKX,"Solana Ecosystem, Meme, Solana Meme, AI Meme, Pump.fun Ecosystem",act-i-the-ai-prophecy,181488007,181488007.0,87478.33585433602,74913.1500381816,0.05,80145440.0
-OKX,"Solana Ecosystem, Ethereum Ecosystem, Energi Ecosystem",swissborg,183174646,183174646.0,,,N/A,24451786.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Celo Ecosystem, DWF Labs Portfolio, Coinbase Ventures Portfolio, Proof of Stake (PoS), Andreessen Horowitz (a16z) Portfolio, Optimism Superchain Ecosystem, Outlier Ventures Portfolio, Made in USA",celo,181375725,320866769.0,52039.411915177036,66828.56008886086,0.06,22929766.0
-OKX,"Tourism, BNB Chain Ecosystem",trip,177324237,589077126.0,,,N/A,59603.0
-OKX,"Artificial Intelligence (AI), Polkadot Ecosystem, Metaverse, Ethereum Ecosystem, Interoperability, Real World Assets (RWA), DePIN, Decentralized Science (DeSci), AI Agents",origintrail,177599939,177601704.0,,,N/A,9209579.0
-OKX,"Smart Contract Platform, Layer 1 (L1), DePIN, Andreessen Horowitz (a16z) Portfolio, Made in USA",chia,177808779,404564813.0,18581.814175750842,43503.64799040496,0.16,4471526.0
-OKX,"Smart Contract Platform, Privacy, Proof of Work (PoW)",mimblewimblecoin,178083686,178086198.0,,,N/A,3747.41
-OKX,"Exchange-based Tokens, Ethereum Ecosystem",btse-token,176877511,218284430.0,,,N/A,14965915.0
-OKX,"Tokenized Real Estate, Tokenized Assets, Ethereum Ecosystem, Real World Assets (RWA), RWA Protocol",apf-coin,177511564,260634486.0,,,N/A,3173054.0
-OKX,"Meme, Cronos Ecosystem, AI Meme, Cronos zkEVM Ecosystem",agentfun-ai,177268781,177268781.0,,,N/A,9668.29
-OKX,"Decentralized Finance (DeFi), Launchpad, Ethereum Ecosystem, DWF Labs Portfolio, Coinbase Ventures Portfolio, Pantera Capital Portfolio, Blockchain Capital Portfolio",auction,185636132,215231025.0,51942.17829316041,102534.46163000737,0.1,95260277.0
-OKX,"Solana Ecosystem, BRC-20, Bitcoin Ecosystem, Inscriptions",ordinals,176022235,176022235.0,88349.00606123327,238246.8995874585,0.06,67153238.0
-OKX,"Infrastructure, Smart Contract Platform, Venom Ecosystem",venom,175746468,636134499.0,446.8578304717416,537.7948649016174,0.03,2596773.0
-OKX,"Solana Ecosystem, Meme, Dog-Themed, Solana Meme, Bitcoin Ecosystem, Runes",dog-go-to-the-moon-rune,175636603,175636603.0,,,N/A,9310476.0
-OKX,"Smart Contract Platform, Real World Assets (RWA), Proof of Work (PoW), Made in USA",ravencoin,175286554,175324021.0,17312.395288302156,32258.9081297375,0.17,16121719.0
-OKX,"Gambling (GambleFi), Gaming (GameFi), Ethereum Ecosystem",rollbit-coin,175086568,175086568.0,,,N/A,550963.0
-OKX,"Smart Contract Platform, Storage, DePIN, Paradigm Portfolio, Proof of Work (PoW), DragonFly Capital Portfolio, Made in USA",siacoin,174488634,186461951.0,2299.691047176125,6468.939354081179,0.16,21474999.0
-OKX,"Analytics, Avalanche Ecosystem, Meme, Cat-Themed, Made in USA",ket,178898939,178898939.0,,,N/A,8000668.0
-OKX,"Gaming (GameFi), BNB Chain Ecosystem, Ethereum Ecosystem, TON Ecosystem",gmt-token,174213642,174213642.0,,,N/A,24130923.0
-OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Moonbeam Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Optimism Ecosystem, Liquid Staked ETH, Liquid Staking",staked-frax-ether,174500018,174500018.0,,,N/A,757216.0
-OKX,,nem,171318366,171318366.0,,,N/A,36217719.0
-OKX,"Gaming (GameFi), Ethereum Ecosystem, Decentralized Identifier (DID), Animoca Brands Portfolio, OKX Ventures Portfolio, Outlier Ventures Portfolio",mocaverse,169059441,786515584.0,,,N/A,28813085.0
+OKX,"Infrastructure, Smart Contract Platform, NEO Ecosystem",gas,185767844,185767844.0,22193.17960297485,25437.073373339364,0.07,8990202.0
+OKX,"Smart Contract Platform, Gaming (GameFi), Ethereum Ecosystem, Base Ecosystem, Card Games, Paradigm Portfolio, Gaming Blockchains, Gaming Utility Token",echelon-prime,186515900,368263624.0,,,N/A,3550298.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Celo Ecosystem, DWF Labs Portfolio, Coinbase Ventures Portfolio, Proof of Stake (PoS), Andreessen Horowitz (a16z) Portfolio, Optimism Superchain Ecosystem, Outlier Ventures Portfolio, Made in USA",celo,184397481,326212475.0,55222.75691591592,65174.49091151967,0.06,23070052.0
+OKX,"Solana Ecosystem, Ethereum Ecosystem, Energi Ecosystem",swissborg,181245992,181245992.0,,,N/A,494840.0
+OKX,"Smart Contract Platform, Layer 1 (L1), DePIN, Andreessen Horowitz (a16z) Portfolio, Made in USA",chia,180925702,411656688.0,17561.57027036552,48428.04951807326,0.08,4507013.0
+OKX,"Solana Ecosystem, Meme, Solana Meme, AI Meme, Pump.fun Ecosystem",act-i-the-ai-prophecy,182945763,182945763.0,83322.20529123649,59854.261160223876,0.1,81277967.0
+OKX,"Analytics, Avalanche Ecosystem, Meme, Cat-Themed, Made in USA",ket,184440202,184440202.0,,,N/A,8089195.0
+OKX,"Smart Contract Platform, Privacy, Proof of Work (PoW)",mimblewimblecoin,180740026,180742638.0,,,N/A,7269.07
+OKX,"Meme, Cronos Ecosystem, AI Meme, Cronos zkEVM Ecosystem",agentfun-ai,178753340,178753340.0,,,N/A,9644.75
+OKX,"Solana Ecosystem, BRC-20, Bitcoin Ecosystem, Inscriptions",ordinals,180408558,180408558.0,74409.45905592563,247064.35668025067,0.02,68302387.0
+OKX,"Artificial Intelligence (AI), Polkadot Ecosystem, Metaverse, Ethereum Ecosystem, Interoperability, Real World Assets (RWA), DePIN, Decentralized Science (DeSci), AI Agents",origintrail,178428032,178429804.0,,,N/A,9301914.0
+OKX,"Exchange-based Tokens, Ethereum Ecosystem",btse-token,177836256,219467615.0,,,N/A,14383424.0
+OKX,"Solana Ecosystem, Meme, Dog-Themed, Solana Meme, Bitcoin Ecosystem, Runes",dog-go-to-the-moon-rune,179355275,179355275.0,,,N/A,9489851.0
+OKX,"Tokenized Real Estate, Tokenized Assets, Ethereum Ecosystem, Real World Assets (RWA), RWA Protocol",apf-coin,177717748,260937221.0,,,N/A,2890482.0
+OKX,"Tourism, BNB Chain Ecosystem",trip,177613239,590037199.0,,,N/A,57508.0
+OKX,"Infrastructure, Smart Contract Platform, Venom Ecosystem",venom,178896088,647532789.0,1063.384132460965,926.4245386969251,0.06,2384211.0
+OKX,"Solana Ecosystem, Meme, Cat-Themed",meow,171942719,171942719.0,,,N/A,1440750.0
+OKX,"Smart Contract Platform, Real World Assets (RWA), Proof of Work (PoW), Made in USA",ravencoin,178781965,178822217.0,12783.84182388702,35051.55040400628,0.08,16159449.0
+OKX,"Smart Contract Platform, Storage, DePIN, Paradigm Portfolio, Proof of Work (PoW), DragonFly Capital Portfolio, Made in USA",siacoin,179134846,191427367.0,6158.955001810388,5883.659797088395,0.09,22123437.0
+OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Moonbeam Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Optimism Ecosystem, Liquid Staked ETH, Liquid Staking",staked-frax-ether,177210325,177210325.0,,,N/A,800806.0
+OKX,"Gaming (GameFi), BNB Chain Ecosystem, Ethereum Ecosystem, TON Ecosystem",gmt-token,174614352,174614352.0,,,N/A,24647726.0
+OKX,"Gambling (GambleFi), Gaming (GameFi), Ethereum Ecosystem",rollbit-coin,174723051,174723051.0,,,N/A,578406.0
+OKX,"Solana Ecosystem, Meme, Solana Meme, Pump.fun Ecosystem, Zoo-Themed, Memorial Themed",peanut-the-squirrel,173352673,173352673.0,83205.6701890777,233240.8967043787,0.06,343064322.0
+OKX,"Gaming (GameFi), Ethereum Ecosystem, Decentralized Identifier (DID), Animoca Brands Portfolio, OKX Ventures Portfolio, Outlier Ventures Portfolio",mocaverse,173674908,807988129.0,,,N/A,29757296.0
+OKX,,nem,171797690,171797690.0,,,N/A,36095894.0
+OKX,"Decentralized Finance (DeFi), Launchpad, Ethereum Ecosystem, DWF Labs Portfolio, Coinbase Ventures Portfolio, Pantera Capital Portfolio, Blockchain Capital Portfolio",auction,172613537,200132313.0,54855.590723750895,108099.07601547589,0.08,100154075.0
+OKX,"BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Liquid Staking Governance Tokens, Linea Ecosystem, DePIN, Scroll Ecosystem, Rollups-as-a-Service (RaaS), Blast Ecosystem, Mode Ecosystem, Pantera Capital Portfolio, Polygon zkEVM Ecosystem, Binance Labs Portfolio, Liquid Staking, Made in USA",ankr,170796893,170796893.0,,,N/A,16801507.0
+OKX,"Meme, Ethereum Ecosystem, Base Ecosystem, Cat-Themed, Murad Picks",mog-coin,170221713,170221713.0,,,N/A,17210455.0
+OKX,"Solana Ecosystem, Meme, Solana Meme, Cat-Themed, Murad Picks",popcat,171387464,171387464.0,,,N/A,82346424.0
 OKX,Arbitrum Ecosystem,rcge,168805259,168805259.0,,,N/A,2.43
-OKX,"BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Liquid Staking Governance Tokens, Linea Ecosystem, DePIN, Scroll Ecosystem, Rollups-as-a-Service (RaaS), Blast Ecosystem, Mode Ecosystem, Pantera Capital Portfolio, Polygon zkEVM Ecosystem, Binance Labs Portfolio, Liquid Staking, Made in USA",ankr,167832986,167832986.0,,,N/A,15879544.0
-OKX,"Solana Ecosystem, Meme, Solana Meme, Pump.fun Ecosystem, Zoo-Themed, Memorial Themed",peanut-the-squirrel,167249136,167249136.0,61162.115851297174,273069.11652493494,0.06,334384122.0
-OKX,"Meme, Ethereum Ecosystem, Base Ecosystem, Cat-Themed, Murad Picks",mog-coin,166682428,166682428.0,,,N/A,16272368.0
-OKX,"Decentralized Finance (DeFi), Yield Farming, Yield Aggregator, Yearn Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Gnosis Chain Ecosystem, Fantom Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Index Coop Defi Index, Alameda Research Portfolio, Energi Ecosystem, Sora Ecosystem, Huobi ECO Chain Ecosystem, Blockchain Capital Portfolio, Index Coop Index",yearn-finance,166305489,180665582.0,13560.791318157357,36403.96003497614,0.04,32508307.0
-OKX,"Decentralized Finance (DeFi), Solana Ecosystem, Liquid Staking Tokens, Liquid Staked SOL, Liquid Staking",bybit-staked-sol,166655436,166655436.0,,,N/A,6907975.0
-OKX,"Avalanche Ecosystem, Liquid Staking Tokens, Liquid Staking",benqi-liquid-staked-avax,165782437,165782437.0,,,N/A,2250343.0
-OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem, Stablecoin Protocol",tribe-2,164214466,360898596.0,,,N/A,57269.0
-OKX,"Solana Ecosystem, Meme, Cat-Themed",meow,164681157,164681157.0,,,N/A,1375674.0
-OKX,"Solana Ecosystem, Meme, Solana Meme, Cat-Themed, Murad Picks",popcat,165061768,165061768.0,,,N/A,82959770.0
-OKX,"Starknet Ecosystem, Bridged-Tokens",bridged-wrapped-ether-starkgate,163636692,163636692.0,,,N/A,1426622.0
-OKX,"Artificial Intelligence (AI), Smart Contract Platform, Layer 1 (L1), Paradigm Portfolio, Coinbase Ventures Portfolio, DeFiance Capital Portfolio, Polychain Capital Portfolio, Vana Ecosystem",vana,161561461,629460240.0,,,N/A,48188305.0
-OKX,"Launchpad, Meme, Base Ecosystem, Cat-Themed, Base Meme",toshi,162825801,162825801.0,,,N/A,66136167.0
-OKX,"Solana Ecosystem, DePIN, Multicoin Capital Portfolio, Made in USA",hivemapper,159899977,248698601.0,,,N/A,2843439.0
-OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Ethereum Ecosystem",coinex-token,159316081,159316081.0,,,N/A,167288.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Layer 0 (L0), Made in USA, Directed Acyclic Graph (DAG)",constellation-labs,158880161,158880275.0,,,N/A,2617695.0
-OKX,"Stablecoins, Ethereum Ecosystem, Crypto-backed Stablecoin",elixir-staked-deusd,159164942,159172085.0,,,N/A,2726525.0
-OKX,"Entertainment, Smart Contract Platform, Gaming (GameFi), NFT, Metaverse, Layer 1 (L1), Harmony Ecosystem, Ethereum Ecosystem, Gaming Blockchains, Energi Ecosystem",enjincoin,158799686,164295565.0,8088.891439805828,21406.666505920803,0.11,16611499.0
-OKX,"Decentralized Finance (DeFi), Solana Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Cross-chain Communication, BTCfi",threshold-network-token,159789873,176026439.0,9681.370400501732,17273.7116184996,0.19,10129370.0
-OKX,"Decentralized Finance (DeFi), Tron Ecosystem",sun-token,157031909,317951315.0,,,N/A,44349421.0
-OKX,"Solana Ecosystem, Meme, Dog-Themed, Solana Meme, Cat-Themed",cat-in-a-dogs-world,157095681,157095681.0,52817.17016773744,82282.78189974354,0.06,18456391.0
-OKX,"Decentralized Finance (DeFi), Liquid Staking Tokens, Ethereum Ecosystem, Liquid Staked ETH, Liquid Staking",treehouse-eth,156795246,156795246.0,,,N/A,940249.0
-OKX,BNB Chain Ecosystem,acet-token,151933377,198218338.0,,,N/A,1489181.0
-OKX,"Internet of Things (IOT), Ethereum Ecosystem, DePIN, Base Ecosystem, Account Abstraction, GMCI DePIN Index, GMCI Index, Made in USA",iotex,153922861,153922861.0,,,N/A,8256904.0
-OKX,"Artificial Intelligence (AI), Meme, Base Ecosystem, AI Agents, Binance Alpha Spotlight, AI Framework",freysa-ai,153024834,153024834.0,,,N/A,1121663.0
-OKX,"Decentralized Finance (DeFi), Binance Launchpool, Arbitrum Ecosystem, Ethereum Ecosystem, Restaking, Liquid Restaking Governance Tokens, Ether.fi Ecosystem, Consensys Portfolio, OKX Ventures Portfolio",ether-fi,150008219,647518748.0,275050.96346049814,367884.26867757004,0.02,60396580.0
-OKX,"Oracle, Ethereum Ecosystem",redstone-oracles,147746496,527666057.0,,,N/A,151387947.0
-OKX,"Smart Contract Platform, EthereumPoW Ecosystem, Proof of Work (PoW)",ethereum-pow-iou,148345305,148345305.0,21368.520113119215,38562.720586397765,0.15,13241975.0
-OKX,"Smart Contract Platform, BNB Chain Ecosystem, Layer 1 (L1), Ethereum Ecosystem, ZetaChain Ecosystem, Cross-chain Communication, Made in USA",zetachain,148175435,425299236.0,178965.98148371946,225374.25639312688,0.1,14030779.0
-OKX,"Decentralized Finance (DeFi), Yield Farming, Yield Aggregator, Ethereum Ecosystem, Metagovernance, Curve Ecosystem, Yield Optimizer",convex-finance,148147538,180424136.0,10229.867406868725,19012.233420146968,0.17,18234715.0
-OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Automated Market Maker (AMM), BNB Chain Ecosystem, Derivatives, Perpetuals, Centralized Exchange (CEX) Token, Solana Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, ZkSync Ecosystem, Mantle Ecosystem, Linea Ecosystem, Base Ecosystem, DragonFly Capital Portfolio, Binance Labs Portfolio",woo-network,146934507,175002388.0,19589.596849401492,29510.644038667167,0.13,13280973.0
-OKX,Smart Contract Platform,bitkub-coin,145496293,180130470.0,,,N/A,353005.0
-OKX,"Meme, Ethereum Ecosystem, Frog-Themed, AI Meme",turbo,146246338,146246338.0,50843.70685850261,120438.63226386088,0.09,85913316.0
-OKX,"Internet of Things (IOT), Oracle, NFT, Metaverse, Ethereum Ecosystem, DePIN, Alleged SEC Securities, Made in USA",xyo-network,145436731,145436731.0,,,N/A,17311975.0
-OKX,"Smart Contract Platform, Gaming (GameFi), Layer 1 (L1), Ethereum Ecosystem, Modular Blockchain, Account Abstraction, Multicoin Capital Portfolio, Gaming Blockchains, Gaming Utility Token, Skale Ecosystem, Consensys Portfolio, Galaxy Digital Portfolio, Made in USA",skale,143978826,151460814.0,27761.79430994571,34705.35864133122,0.08,21454605.0
-OKX,"Decentralized Finance (DeFi), Derivatives, Prediction Markets, Solana Ecosystem",drift-protocol,143962150,499001064.0,,,N/A,26830924.0
-OKX,"SocialFi, Arbitrum Ecosystem",uxlink,142679123,421877951.0,57326.59453790276,83813.09676511913,0.07,32585607.0
-OKX,"Internet of Things (IOT), Smart Contract Platform, Layer 1 (L1), Proof of Work (PoW), Made in USA",digibyte,141453360,141456773.0,13668.397905129112,21847.71579092171,0.16,4218482.0
-OKX,"Payment Solutions, Made in USA, Directed Acyclic Graph (DAG)",nano,140323527,140323527.0,1400.4224981240293,2396.246179981359,0.21,11407216.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Real World Assets (RWA), RWA Protocol",polymesh,140974801,140974801.0,,,N/A,1904363.0
-OKX,"Stablecoins, EUR Stablecoin, Solana Ecosystem, Avalanche Ecosystem, Ethereum Ecosystem, Base Ecosystem, Stellar Ecosystem",euro-coin,140933647,140933647.0,263237.62635968975,262501.59673516237,0.11,56076369.0
-OKX,"BNB Chain Ecosystem, Binance Alpha Spotlight",bnb48-club-token,139860617,139860617.0,,,N/A,96223.0
-OKX,"Crypto-Backed Tokens, BNB Chain Ecosystem, Wrapped-Tokens, Ethereum Ecosystem",wrapped-beacon-eth,139712248,139712248.0,,,N/A,9493831.0
-OKX,"Smart Contract Platform, Crypto-Backed Tokens, Wrapped-Tokens, Layer 2 (L2), Mantle Ecosystem",wrapped-ether-mantle-bridge,140070687,140070695.0,,,N/A,9483325.0
-OKX,"Smart Contract Platform, Masternodes, Zero Knowledge (ZK), Proof of Work (PoW), Made in USA",zencash,139385729,139388001.0,,,N/A,17131506.0
-OKX,"Smart Contract Platform, DWF Labs Portfolio, Proof of Stake (PoS)",waves,138819244,138819244.0,,,N/A,10668291.0
-OKX,"NFT, Solana Ecosystem, NFT Marketplace, Paradigm Portfolio, Sequoia Capital Portfolio",magic-eden,137884616,1033807190.0,540533.2705487002,525973.7093038762,0.19,15046479.0
-OKX,"Tokenized Assets, Tokenized Gold, Real World Assets (RWA), Tokenized Commodities",kinesis-gold,137916148,137916148.0,,,N/A,64821733.0
-OKX,"Decentralized Finance (DeFi), Derivatives, Perpetuals, Avalanche Ecosystem, Arbitrum Ecosystem",gmx,137369296,137371761.0,8372.237305837763,18113.521382996292,0.22,23317064.0
-OKX,"Gaming (GameFi), Play To Earn, Telegram Apps, TON Ecosystem, Tap to Earn, Arcade Games",hamster-kombat,137407306,213448242.0,22880.64619374456,50245.61085343403,0.09,14092079.0
-OKX,"Exchange-based Tokens, Decentralized Finance (DeFi), Ethereum Ecosystem, Real World Assets (RWA), Alleged SEC Securities",lcx,136776073,138085776.0,,,N/A,1957141.0
-OKX,"Gaming (GameFi), NFT, Solana Ecosystem, Animoca Brands Portfolio, FTX Holdings, Multicoin Capital Portfolio, Alameda Research Portfolio",metaplex,136327866,174693030.0,,,N/A,7598921.0
-OKX,"Stablecoins, Ethereum Ecosystem, XRP Ledger Ecosystem, Fiat-backed Stablecoin, Made in USA",ripple-usd,135122550,135122550.0,,,N/A,33220969.0
-OKX,"Stablecoins, EUR Stablecoin, Polygon Ecosystem, Ethereum Ecosystem, Real World Assets (RWA), Fiat-backed Stablecoin",stasis-eurs,134597868,134597868.0,,,N/A,157076.0
-OKX,"Gaming (GameFi), Polkadot Ecosystem, NFT, Ethereum Ecosystem, Gaming Blockchains, Andreessen Horowitz (a16z) Portfolio, Binance Labs Portfolio, Galaxy Digital Portfolio, Made in USA",mythos,133536520,171917698.0,,,N/A,5445755.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Proof of Stake (PoS), GMCI Layer 1 Index, GMCI Index, Made in USA",casper-network,134166835,138906530.0,58233.549539628475,65449.3850579582,0.06,5060938.0
-OKX,"BNB Chain Ecosystem, Binance-Peg Tokens",binance-peg-sol,133744667,133744667.0,,,N/A,4451510.0
-OKX,"Smart Contract Platform, Base Ecosystem, Gaming Blockchains",b3,132138112,620580276.0,,,N/A,23507221.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Harmony Ecosystem, Animoca Brands Portfolio, Binance Launchpad, Binance Labs Portfolio, Made in USA",harmony,132217204,141356784.0,12784.629235356158,24656.5292905488,0.19,10761502.0
-OKX,"Stablecoins, USD Stablecoin, Solana Ecosystem, Fiat-backed Stablecoin",global-dollar,130274114,130274114.0,,,N/A,622854.0
-OKX,"Binance Launchpool, Solana Ecosystem, Ethereum Ecosystem, Decentralized Science (DeSci)",bio-protocol,129854613,266009989.0,138037.70566924333,191614.25864536993,0.25,17401245.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Kadena Ecosystem, Multicoin Capital Portfolio, Proof of Work (PoW), Made in USA",kadena,130457598,130554868.0,4887.241559129982,13815.280615797592,0.12,5188185.0
-OKX,"Cronos Ecosystem, Bridged USDC, Bridged-Tokens, Bridged Stablecoins",cronos-bridged-usdc-cronos,129535839,129535839.0,,,N/A,1954983.0
-OKX,"Tokenized Assets, Real World Assets (RWA), Tokenized Silver, Tokenized Commodities",kinesis-silver,129501777,129501777.0,,,N/A,615927.0
-OKX,"Crypto-Backed Tokens, Wrapped-Tokens, Avalanche Ecosystem",wrapped-avax,130218796,130213133.0,,,N/A,84424850.0
-OKX,"Decentralized Finance (DeFi), Analytics, DeFi Index, Base Ecosystem",mag7-ssi,128689755,128689755.0,,,N/A,1957711.0
-OKX,"Alleged SEC Securities, Osmosis Ecosystem, DeFiance Capital Portfolio, Pantera Capital Portfolio, Binance Labs Portfolio, Delphi Ventures Portfolio, Galaxy Digital Portfolio, OKX Ventures Portfolio",terra-luna-2,128659657,201788337.0,40056.35229621676,78427.93695787164,0.11,21197152.0
-OKX,"Gaming (GameFi), NFT, BNB Chain Ecosystem, Solana Ecosystem, Polygon Ecosystem, Play To Earn, Move To Earn, Ethereum Ecosystem, Binance Launchpad, Gaming Governance Token, Sports Games, Alameda Research Portfolio, Binance Labs Portfolio, Sequoia Capital Portfolio",stepn,128544056,240502457.0,43911.47610258261,57745.51828945032,0.04,28622021.0
-OKX,"Decentralized Exchange (DEX), Smart Contract Platform, Exchange-based Tokens, Decentralized Finance (DeFi), Arbitrum Ecosystem, Ethereum Ecosystem, Layer 2 (L2), Zero Knowledge (ZK), Loopring Ecosystem, Rollup, Energi Ecosystem",loopring,126203482,139156335.0,5930.1487663408625,49811.29108097602,0.2,13368580.0
-OKX,"Liquid Staking Tokens, Aptos Ecosystem, Liquid Staking",amnis-aptos,125729746,125756381.0,,,N/A,830071.0
-OKX,"BNB Chain Ecosystem, Arbitrum Ecosystem, Cardano Ecosystem, Ethereum Ecosystem, DePIN, Base Ecosystem, DWF Labs Portfolio",world-mobile-token,124671898,360231438.0,,,N/A,16775318.0
-OKX,"Smart Contract Platform, Masternodes, Proof of Stake (PoS), Made in China",ontology,125140475,137110517.0,16580.031234233367,16882.40294761211,0.15,7994499.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), BNB Chain Ecosystem, Seigniorage, Solana Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Moonriver Ecosystem, Ethereum Ecosystem, Liquid Staking Governance Tokens, Curve Ecosystem, Stablecoin Protocol, Polygon zkEVM Ecosystem, Evmos Ecosystem, Fraxtal Ecosystem, GMCI DeFi Index, Liquid Staking, GMCI Index, Made in USA",frax-share,124046209,139991353.0,7355.21556883179,9475.0615600472,0.21,14397785.0
-OKX,"BNB Chain Ecosystem, Tron Ecosystem",global-commercial-business,123656431,123656431.0,,,N/A,180234.0
-OKX,"Smart Contract Platform, BNB Chain Ecosystem, Ethereum Ecosystem, Zero Knowledge (ZK), Animoca Brands Portfolio, Binance Labs Portfolio, OKX Ventures Portfolio",polyhedra-network,123044963,2037725356.0,347475.469217618,310924.19637760666,0.01,6242976.0
-OKX,"Smart Contract Platform, SocialFi, NFT, BNB Chain Ecosystem, Binance Launchpool, Ethereum Ecosystem, Decentralized Identifier (DID), Zero Knowledge (ZK), DWF Labs Portfolio, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Alameda Research Portfolio, DragonFly Capital Portfolio, Binance Labs Portfolio, Quest-to-Earn",project-galaxy,122153957,191240072.0,,,N/A,135450.0
-OKX,"Polygon Ecosystem, Bridged DAI, Bridged-Tokens, Bridged Stablecoins",polygon-pos-bridged-dai-polygon-pos,121574812,121574812.0,,,N/A,3715238.0
-OKX,"Solana Ecosystem, Polygon Ecosystem, Ethereum Ecosystem",m2-global-wealth-limited-mmx,121592589,390096713.0,,,N/A,86311.0
-OKX,"Tokenized Assets, Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Real World Assets (RWA), Starknet Ecosystem, Tokenized Treasury Bills (T-Bills)",eutbl,120376383,120376383.0,,,N/A,0.0
-OKX,"BNB Chain Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Alameda Research Portfolio, Binance Labs Portfolio",swipe,119895644,119923450.0,,,N/A,8737657.0
-OKX,"Artificial Intelligence (AI), Binance Launchpool, Solana Ecosystem, DePIN, Animoca Brands Portfolio, Multicoin Capital Portfolio, Delphi Ventures Portfolio, OKX Ventures Portfolio, Made in USA",io,115185662,624937113.0,,,N/A,32473043.0
-OKX,"Exchange-based Tokens, BNB Chain Ecosystem, Centralized Exchange (CEX) Token",nkyc-token,114620095,114620095.0,,,N/A,181358.0
-OKX,"Solana Ecosystem, Meme, Solana Meme, Murad Picks",gigachad-2,114547404,114547404.0,,,N/A,16043129.0
-OKX,"Arbitrum Ecosystem, Ethereum Ecosystem",reserve-protocol-eth-plus,114784745,114784745.0,,,N/A,361824.0
-OKX,"Decentralized Finance (DeFi), Insurance, Ethereum Ecosystem",nxm,114427770,114427770.0,,,N/A,0.0
-OKX,"Business Services, Decentralized Finance (DeFi), Oracle, Fantom Ecosystem, Ethereum Ecosystem, Binance Launchpad, Osmosis Ecosystem, Energi Ecosystem, Binance Labs Portfolio, Sequoia Capital Portfolio",band-protocol,113617582,115264026.0,5017.345014642556,22264.448556456446,0.05,13194250.0
-OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), BNB Chain Ecosystem, Yearn Ecosystem, Solana Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Fantom Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Celo Ecosystem, Ethereum Ecosystem, Base Ecosystem, Alameda Research Portfolio, Pantera Capital Portfolio, Energi Ecosystem, Sora Ecosystem, Blockchain Capital Portfolio",sushi,113080480,164636708.0,34888.9456051274,119638.3777871473,0.07,42115363.0
-OKX,"Artificial Intelligence (AI), Smart Contract Platform, BNB Chain Ecosystem, Solana Ecosystem, Layer 1 (L1), Polygon Ecosystem, Ethereum Ecosystem, DWF Labs Portfolio, Injective Ecosystem, OKX Ventures Portfolio",zignaly,111321232,154343016.0,,,N/A,3626612.0
-OKX,"Arbitrum Ecosystem, Bridged USDC, Bridged-Tokens, Bridged Stablecoins",usd-coin-ethereum-bridged,111535862,111535862.0,,,N/A,38269401.0
-OKX,"Stablecoins, Ethereum Ecosystem, Base Ecosystem, Blast Ecosystem, Fiat-backed Stablecoin",anzen-usdz,111504303,111504303.0,,,N/A,139177.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Gnosis Chain Ecosystem, MEV Protection, Arbitrum Ecosystem, Ethereum Ecosystem, Intent, Delphi Ventures Portfolio, Blockchain Capital Portfolio",cow-protocol,111023906,267814048.0,,,N/A,33908800.0
-OKX,"Smart Contract Platform, Ethereum Ecosystem, Zero Knowledge (ZK), Alleged SEC Securities, Privacy Blockchain",coti,110264119,123041414.0,,,N/A,14508706.0
-OKX,"BNB Chain Ecosystem, Ethereum Ecosystem, Payment Solutions, DWF Labs Portfolio",alchemy-pay,109668859,221835988.0,15746.54866564038,55436.79695262603,0.04,36435753.0
-OKX,"Smart Contract Platform, BNB Chain Ecosystem, Ethereum Ecosystem, Layer 2 (L2)",prometeus,109020613,114994345.0,,,N/A,3517196.0
-OKX,"Tokenized Real Estate, Tokenized Assets, Gnosis Chain Ecosystem, RealT Tokens, Real World Assets (RWA), RWA Protocol",realtoken-ecosystem-governance,108658344,758789190.0,,,N/A,686.06
-OKX,"Smart Contract Platform, SocialFi, Layer 1 (L1), Gaming Blockchains",hive,109146406,,,,N/A,6332383.0
-OKX,"Decentralized Finance (DeFi), Derivatives, Synthetic Issuer, Ethereum Ecosystem, Synthetic",stp-network,108947596,108947596.0,,,N/A,24503016.0
-OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem, Real World Assets (RWA), Coinbase Ventures Portfolio, Stablecoin Protocol, Binance Labs Portfolio, Galaxy Digital Portfolio",usual,108313408,118937601.0,,,N/A,19842834.0
-OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem, Morpho Ecosystem",steakhouse-usdc-morpho-vault,107534725,107534725.0,,,N/A,0.0
-OKX,"Big Data, Business Services, Infrastructure, Decentralized Finance (DeFi), Solana Ecosystem, FTX Holdings, DWF Labs Portfolio, Name Service",bonfida,107140658,108123307.0,,,N/A,13128521.0
-OKX,"Meme, PulseChain Ecosystem",the-grays-currency,106526283,106526265.0,,,N/A,390549.0
-OKX,"Business Services, Infrastructure, Smart Contract Platform, Decentralized Finance (DeFi), Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Liquid Staking Governance Tokens, Coinbase Ventures Portfolio, Proof of Stake (PoS), Index Coop Defi Index, Consensys Portfolio, Liquid Staking, Index Coop Index",rocket-pool,106765202,106765202.0,1108.3222344997225,3306.4319269170724,0.14,11565397.0
-OKX,"Solana Ecosystem, Multicoin Capital Portfolio, Stablecoin Protocol, Alameda Research Portfolio, DeFiance Capital Portfolio",uxd-protocol-token,105662586,105662586.0,,,N/A,2.0
-OKX,"Smart Contract Platform, BNB Chain Ecosystem, Ethereum Ecosystem, DWF Labs Portfolio, Made in USA",proton,103680891,114925034.0,,,N/A,2941598.0
-OKX,"Arbitrum Ecosystem, Ethereum Ecosystem, Account Abstraction, Coinbase Ventures Portfolio, Binance Labs Portfolio, Consensys Portfolio, Outlier Ventures Portfolio",biconomy,104896244,112109081.0,17083.6057504239,18846.57347160588,0.18,11788817.0
-OKX,"Meme, Ethereum Ecosystem, Dog-Themed",neiro-3,104538526,104538526.0,57846.86665497723,149116.03436235184,0.08,114278793.0
-OKX,"Music, NFT, Ethereum Ecosystem, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Pantera Capital Portfolio, Energi Ecosystem, Binance Labs Portfolio",audius,104490359,104490359.0,,,N/A,12067007.0
-OKX,"Decentralized Finance (DeFi), Yield Farming, Lending/Borrowing Protocols, Ethereum Ecosystem, Real World Assets (RWA), Base Ecosystem, Binance Alpha Spotlight",syrup,103215502,165627426.0,,,N/A,11268631.0
-OKX,"Artificial Intelligence (AI), Smart Contract Platform, Layer 1 (L1), Proof of Work (PoW)",qubic-network,103391397,123656725.0,,,N/A,3815277.0
-OKX,"Smart Contract Platform, BNB Chain Ecosystem, Layer 1 (L1), Ethereum Ecosystem, Decentralized Identifier (DID), Base Ecosystem, Gravity Alpha Ecosystem",g-token,102637645,170289344.0,8782.609952542844,14373.003060266143,0.14,12261952.0
-OKX,"Artificial Intelligence (AI), Base Ecosystem, AI Agents, AI Applications, Made in USA",venice-token,102373794,244034986.0,,,N/A,15593232.0
-OKX,"Stablecoins, BNB Chain Ecosystem",astherus-usdf,102171450,102171450.0,,,N/A,173222.0
-OKX,"Exchange-based Tokens, NFT, BNB Chain Ecosystem, Ethereum Ecosystem",swftcoin,102504141,102504141.0,13472.189556486648,9321.553273546644,0.44,3492907.0
-OKX,"Smart Contract Platform, Cross-chain Communication, Pantera Capital Portfolio",icon,102418640,103584765.0,14991.329448664066,19343.816479415964,0.21,2919675.0
-OKX,"Solana Ecosystem, Meme, Solana Meme, PolitiFi, Made in USA",melania-meme,101950968,679672558.0,,,N/A,28377805.0
-OKX,"Lending/Borrowing Protocols, Ethereum Ecosystem, Paradigm Portfolio, Coinbase Ventures Portfolio",euler,101216593,147245069.0,,,N/A,8502767.0
-OKX,"Stablecoins, LP Tokens, Ethereum Ecosystem",resolv-rlp,100937742,100937742.0,,,N/A,2523971.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), BNB Chain Ecosystem, Wallets, XRP Ledger Ecosystem",solo-coin,98816053,98816053.0,,,N/A,1956750.0
-OKX,"Bridged USDT, QL1 Ecosystem, Bridged-Tokens, Bridged Stablecoins",qusdt,99950353,99950353.0,,,N/A,7277.44
-OKX,"Smart Contract Platform, Decentralized Finance (DeFi), Binance Launchpool, Derivatives, Perpetuals, Ethereum Ecosystem, Layer 2 (L2), DragonFly Capital Portfolio, Pantera Capital Portfolio",aevo-exchange,99583229,110260156.0,66751.76996411422,148955.37214970193,0.09,21517109.0
-OKX,"Smart Contract Platform, Ethereum Ecosystem, Metis Ecosystem, Layer 2 (L2), DWF Labs Portfolio, Rollup, GMCI Layer 2 Index, OKX Ventures Portfolio, GMCI Index",metis-token,100222411,160219111.0,26993.327393886902,38861.40066258147,0.06,6955482.0
-OKX,"NFT, BNB Chain Ecosystem, Ethereum Ecosystem, Binance Launchpad, DWF Labs Portfolio, Binance Labs Portfolio",space-id,101768650,471986403.0,27813.388952058416,52936.454682777105,0.04,42500402.0
-OKX,"Gaming (GameFi), NFT, Metaverse, Play To Earn, Ethereum Ecosystem, Animoca Brands Portfolio, RPG, Gaming Governance Token, Adventure Games, Energi Ecosystem, Delphi Ventures Portfolio",illuvium,97444574,125631825.0,3193.0041686202594,5207.037297841966,0.08,23830326.0
-OKX,"Smart Contract Platform, Proof of Stake (PoS), Sequoia Capital Portfolio",iostoken,97490847,97490847.0,5234.478309427502,28298.579990818434,0.11,13971556.0
-OKX,"Artificial Intelligence (AI), Smart Contract Platform, Masternodes, DePIN, Proof of Work (PoW), Made in USA",zelcash,96784481,96796919.0,,,N/A,9865630.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Automated Market Maker (AMM), Ethereum Ecosystem, Cronos Ecosystem",vvs-finance,95848743,187402215.0,,,N/A,371686.0
-OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Real World Assets (RWA), DWF Labs Portfolio, Stellar Ecosystem",velo,96396290,313038504.0,23276.378099414556,58230.40725903518,0.04,31428918.0
-OKX,"Business Services, Decentralized Finance (DeFi), Oracle, Derivatives, Synthetic Issuer, Avalanche Ecosystem, Ethereum Ecosystem, Blockchain Capital Portfolio, Synthetic, Made in USA",uma,96185712,138801088.0,11676.018122919959,17770.76219726759,0.18,17274307.0
-OKX,"NFT, Meme, Arbitrum Ecosystem, Ethereum Ecosystem, Anime-Themed, Binance HODLer Airdrops, Airdropped Tokens by NFT Projects",anime,96204312,173697741.0,123432.46766991002,141798.16381001598,0.06,20687737.0
-OKX,"NFT, Binance Launchpool, Meme, Ethereum Ecosystem, Binance Labs Portfolio, GMCI Meme Index, GMCI Index",memecoin-2,95723096,161429036.0,70774.95908560703,97024.80458678494,0.13,28487744.0
+OKX,"Decentralized Finance (DeFi), Yield Farming, Yield Aggregator, Yearn Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Gnosis Chain Ecosystem, Fantom Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Index Coop Defi Index, Alameda Research Portfolio, Energi Ecosystem, Sora Ecosystem, Huobi ECO Chain Ecosystem, Blockchain Capital Portfolio, Index Coop Index",yearn-finance,169092446,183693186.0,17352.096930270374,27634.900563845036,0.1,32998684.0
+OKX,"Decentralized Finance (DeFi), Solana Ecosystem, Liquid Staking Tokens, Liquid Staked SOL, Liquid Staking",bybit-staked-sol,168142706,168142706.0,,,N/A,6951507.0
+OKX,"Avalanche Ecosystem, Liquid Staking Tokens, Liquid Staking",benqi-liquid-staked-avax,168984952,168984952.0,,,N/A,1708557.0
+OKX,"Launchpad, Meme, Base Ecosystem, Cat-Themed, Base Meme",toshi,166901595,166901595.0,,,N/A,65425713.0
+OKX,"Starknet Ecosystem, Bridged-Tokens",bridged-wrapped-ether-starkgate,165938053,165938053.0,,,N/A,1438292.0
+OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem, Stablecoin Protocol",tribe-2,163747756,359872894.0,,,N/A,57207.0
+OKX,"Artificial Intelligence (AI), Smart Contract Platform, Layer 1 (L1), Paradigm Portfolio, Coinbase Ventures Portfolio, DeFiance Capital Portfolio, Polychain Capital Portfolio, Vana Ecosystem",vana,165684729,645524920.0,,,N/A,47028784.0
+OKX,"Decentralized Finance (DeFi), Solana Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Cross-chain Communication, BTCfi",threshold-network-token,162670692,179199983.0,9983.968472020852,18412.839393256745,0.12,10838445.0
+OKX,"Solana Ecosystem, DePIN, Multicoin Capital Portfolio, Made in USA",hivemapper,160420895,249508804.0,,,N/A,2745631.0
+OKX,"Entertainment, Smart Contract Platform, Gaming (GameFi), NFT, Metaverse, Layer 1 (L1), Harmony Ecosystem, Ethereum Ecosystem, Gaming Blockchains, Energi Ecosystem",enjincoin,161569939,167161692.0,5717.739315305237,20685.490145474865,0.11,16861394.0
+OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Ethereum Ecosystem",coinex-token,159675394,159675394.0,,,N/A,168391.0
+OKX,"Solana Ecosystem, Meme, Dog-Themed, Solana Meme, Cat-Themed",cat-in-a-dogs-world,160341471,160341471.0,48870.78875894524,94754.48548178033,0.06,18750784.0
+OKX,"Stablecoins, Ethereum Ecosystem, Crypto-backed Stablecoin",elixir-staked-deusd,159177362,159177362.0,,,N/A,2694714.0
+OKX,"Decentralized Finance (DeFi), Liquid Staking Tokens, Ethereum Ecosystem, Liquid Staked ETH, Liquid Staking",treehouse-eth,159170741,159172783.0,,,N/A,930200.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Layer 0 (L0), Made in USA, Directed Acyclic Graph (DAG)",constellation-labs,156885961,156886074.0,,,N/A,2618152.0
+OKX,"Decentralized Finance (DeFi), Tron Ecosystem",sun-token,158267781,320453654.0,,,N/A,44748219.0
+OKX,"Internet of Things (IOT), Ethereum Ecosystem, DePIN, Base Ecosystem, Account Abstraction, GMCI DePIN Index, GMCI Index, Made in USA",iotex,155356953,155356953.0,,,N/A,8310673.0
+OKX,"Artificial Intelligence (AI), Meme, Base Ecosystem, AI Agents, Binance Alpha Spotlight, AI Framework",freysa-ai,153844674,153844674.0,,,N/A,1120744.0
+OKX,"Decentralized Finance (DeFi), Binance Launchpool, Arbitrum Ecosystem, Ethereum Ecosystem, Restaking, Liquid Restaking Governance Tokens, Ether.fi Ecosystem, Consensys Portfolio, OKX Ventures Portfolio",ether-fi,154305257,666067152.0,270935.890984377,380089.21868544794,0.02,60894401.0
+OKX,BNB Chain Ecosystem,acet-token,151166433,197217753.0,,,N/A,1498514.0
+OKX,"Oracle, Ethereum Ecosystem",redstone-oracles,152318737,543995490.0,,,N/A,149804888.0
+OKX,"Smart Contract Platform, BNB Chain Ecosystem, Layer 1 (L1), Ethereum Ecosystem, ZetaChain Ecosystem, Cross-chain Communication, Made in USA",zetachain,151988538,436243760.0,184288.91270200952,222077.99323407692,0.1,14171632.0
+OKX,"Decentralized Finance (DeFi), Yield Farming, Yield Aggregator, Ethereum Ecosystem, Metagovernance, Curve Ecosystem, Yield Optimizer",convex-finance,151155299,184087209.0,5188.085032446687,20073.564102615223,0.11,18286966.0
+OKX,"Smart Contract Platform, EthereumPoW Ecosystem, Proof of Work (PoW)",ethereum-pow-iou,150598632,150598632.0,16811.867844056564,32350.365415091914,0.14,13224201.0
+OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Automated Market Maker (AMM), BNB Chain Ecosystem, Derivatives, Perpetuals, Centralized Exchange (CEX) Token, Solana Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, ZkSync Ecosystem, Mantle Ecosystem, Linea Ecosystem, Base Ecosystem, DragonFly Capital Portfolio, Binance Labs Portfolio",woo-network,149764596,178373089.0,20626.55826478417,31771.502352406795,0.12,13678707.0
+OKX,"Meme, Ethereum Ecosystem, Frog-Themed, AI Meme",turbo,149278895,149278895.0,47702.648311195175,141077.44995998224,0.09,86489243.0
+OKX,"Smart Contract Platform, Gaming (GameFi), Layer 1 (L1), Ethereum Ecosystem, Modular Blockchain, Account Abstraction, Multicoin Capital Portfolio, Gaming Blockchains, Gaming Utility Token, Skale Ecosystem, Consensys Portfolio, Galaxy Digital Portfolio, Made in USA",skale,147105370,154749832.0,29624.17353496924,36431.72633174361,0.08,21815616.0
+OKX,"Internet of Things (IOT), Oracle, NFT, Metaverse, Ethereum Ecosystem, DePIN, Alleged SEC Securities, Made in USA",xyo-network,146067050,146067050.0,,,N/A,17622503.0
+OKX,Smart Contract Platform,bitkub-coin,146630635,181534833.0,,,N/A,362615.0
+OKX,"Decentralized Finance (DeFi), Derivatives, Prediction Markets, Solana Ecosystem",drift-protocol,146337797,507235523.0,,,N/A,26814929.0
+OKX,"SocialFi, Arbitrum Ecosystem",uxlink,146183980,432241219.0,56840.047699699644,87055.80943813726,0.05,33569733.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Real World Assets (RWA), RWA Protocol",polymesh,143755503,143755503.0,,,N/A,1996547.0
+OKX,"Internet of Things (IOT), Smart Contract Platform, Layer 1 (L1), Proof of Work (PoW), Made in USA",digibyte,143741853,143745999.0,9604.6515071119,22380.018147310853,0.17,4188016.0
+OKX,"Payment Solutions, Made in USA, Directed Acyclic Graph (DAG)",nano,143014747,143014747.0,1554.2368742406195,2935.7286070554446,0.15,11656739.0
+OKX,"Smart Contract Platform, Masternodes, Zero Knowledge (ZK), Proof of Work (PoW), Made in USA",zencash,142896816,142899818.0,,,N/A,17185817.0
+OKX,"Smart Contract Platform, Crypto-Backed Tokens, Wrapped-Tokens, Layer 2 (L2), Mantle Ecosystem",wrapped-ether-mantle-bridge,141953885,141953885.0,,,N/A,9661231.0
+OKX,"Crypto-Backed Tokens, BNB Chain Ecosystem, Wrapped-Tokens, Ethereum Ecosystem",wrapped-beacon-eth,141789095,141789095.0,,,N/A,10269455.0
+OKX,"BNB Chain Ecosystem, Binance Alpha Spotlight",bnb48-club-token,141000484,141000484.0,,,N/A,95753.0
+OKX,"Stablecoins, EUR Stablecoin, Solana Ecosystem, Avalanche Ecosystem, Ethereum Ecosystem, Base Ecosystem, Stellar Ecosystem",euro-coin,140951698,140951698.0,261120.77049341289,267782.7913347432,0.11,54571117.0
+OKX,"NFT, Solana Ecosystem, NFT Marketplace, Paradigm Portfolio, Sequoia Capital Portfolio",magic-eden,141710454,1062491887.0,573916.201271045,555528.3072346573,0.19,15267605.0
+OKX,"Smart Contract Platform, DWF Labs Portfolio, Proof of Stake (PoS)",waves,140371580,140371580.0,,,N/A,10761416.0
+OKX,"Decentralized Finance (DeFi), Derivatives, Perpetuals, Avalanche Ecosystem, Arbitrum Ecosystem",gmx,140666559,140666560.0,8976.01589065781,22135.167350678315,0.14,23377045.0
+OKX,"Gaming (GameFi), Play To Earn, Telegram Apps, TON Ecosystem, Tap to Earn, Arcade Games",hamster-kombat,138650641,215379637.0,22003.65831432782,52022.344744405964,0.05,14182351.0
+OKX,"Tokenized Assets, Tokenized Gold, Real World Assets (RWA), Tokenized Commodities",kinesis-gold,137911033,137911033.0,,,N/A,64197088.0
+OKX,"Exchange-based Tokens, Decentralized Finance (DeFi), Ethereum Ecosystem, Real World Assets (RWA), Alleged SEC Securities",lcx,137058637,138371046.0,,,N/A,1908206.0
+OKX,"Gaming (GameFi), NFT, Solana Ecosystem, Animoca Brands Portfolio, FTX Holdings, Multicoin Capital Portfolio, Alameda Research Portfolio",metaplex,136842736,175352793.0,,,N/A,7760618.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Proof of Stake (PoS), GMCI Layer 1 Index, GMCI Index, Made in USA",casper-network,135898495,140699364.0,59749.299595625744,61858.857860757285,0.06,5055384.0
+OKX,"Stablecoins, Ethereum Ecosystem, XRP Ledger Ecosystem, Fiat-backed Stablecoin, Made in USA",ripple-usd,135205148,135205148.0,,,N/A,39634713.0
+OKX,"BNB Chain Ecosystem, Binance-Peg Tokens",binance-peg-sol,135460121,135460121.0,,,N/A,4511431.0
+OKX,"Smart Contract Platform, Base Ecosystem, Gaming Blockchains",b3,135449735,636133155.0,,,N/A,24233295.0
+OKX,"Stablecoins, EUR Stablecoin, Polygon Ecosystem, Ethereum Ecosystem, Real World Assets (RWA), Fiat-backed Stablecoin",stasis-eurs,134699020,134699020.0,,,N/A,165019.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Harmony Ecosystem, Animoca Brands Portfolio, Binance Launchpad, Binance Labs Portfolio, Made in USA",harmony,134869721,144192658.0,9945.49162069931,27506.22248345304,0.09,11241910.0
+OKX,"Gaming (GameFi), Polkadot Ecosystem, NFT, Ethereum Ecosystem, Gaming Blockchains, Andreessen Horowitz (a16z) Portfolio, Binance Labs Portfolio, Galaxy Digital Portfolio, Made in USA",mythos,132306470,170334106.0,,,N/A,5589674.0
+OKX,"Binance Launchpool, Solana Ecosystem, Ethereum Ecosystem, Decentralized Science (DeSci)",bio-protocol,133677515,273841287.0,140005.21884350444,184103.17523918708,0.24,17779741.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Kadena Ecosystem, Multicoin Capital Portfolio, Proof of Work (PoW), Made in USA",kadena,132709975,132810019.0,5470.965533114281,14599.832965512358,0.05,5306589.0
+OKX,"Crypto-Backed Tokens, Wrapped-Tokens, Avalanche Ecosystem",wrapped-avax,132540914,132540914.0,,,N/A,17891078.0
+OKX,"Gaming (GameFi), NFT, BNB Chain Ecosystem, Solana Ecosystem, Polygon Ecosystem, Play To Earn, Move To Earn, Ethereum Ecosystem, Binance Launchpad, Gaming Governance Token, Sports Games, Alameda Research Portfolio, Binance Labs Portfolio, Sequoia Capital Portfolio",stepn,131470476,245977710.0,50477.0533575439,56837.433972368344,0.04,29368216.0
+OKX,"Cronos Ecosystem, Bridged USDC, Bridged-Tokens, Bridged Stablecoins",cronos-bridged-usdc-cronos,129542921,129542921.0,,,N/A,1886407.0
+OKX,"Stablecoins, USD Stablecoin, Solana Ecosystem, Fiat-backed Stablecoin",global-dollar,130257476,130257476.0,,,N/A,629261.0
+OKX,"Alleged SEC Securities, Osmosis Ecosystem, DeFiance Capital Portfolio, Pantera Capital Portfolio, Binance Labs Portfolio, Delphi Ventures Portfolio, Galaxy Digital Portfolio, OKX Ventures Portfolio",terra-luna-2,131053787,205543263.0,33557.33747964848,89428.24144807523,0.05,21223578.0
+OKX,"Tokenized Assets, Real World Assets (RWA), Tokenized Silver, Tokenized Commodities",kinesis-silver,130047707,130047707.0,,,N/A,626099.0
+OKX,"Decentralized Finance (DeFi), Analytics, DeFi Index, Base Ecosystem",mag7-ssi,128861256,128861256.0,,,N/A,1961888.0
+OKX,"Decentralized Exchange (DEX), Smart Contract Platform, Exchange-based Tokens, Decentralized Finance (DeFi), Arbitrum Ecosystem, Ethereum Ecosystem, Layer 2 (L2), Zero Knowledge (ZK), Loopring Ecosystem, Rollup, Energi Ecosystem",loopring,128788878,142007082.0,7427.997354396237,51860.902288670986,0.19,13690521.0
+OKX,"Liquid Staking Tokens, Aptos Ecosystem, Liquid Staking",amnis-aptos,129538412,129565854.0,,,N/A,850668.0
+OKX,"Smart Contract Platform, Masternodes, Proof of Stake (PoS), Made in China",ontology,127868705,140099710.0,13365.10435024245,15226.036204042197,0.14,8222442.0
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), BNB Chain Ecosystem, Seigniorage, Solana Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Moonriver Ecosystem, Ethereum Ecosystem, Liquid Staking Governance Tokens, Curve Ecosystem, Stablecoin Protocol, Polygon zkEVM Ecosystem, Evmos Ecosystem, Fraxtal Ecosystem, GMCI DeFi Index, Liquid Staking, GMCI Index, Made in USA",frax-share,126088924,142296643.0,9388.670269666538,10719.976418983759,0.14,14303374.0
+OKX,"BNB Chain Ecosystem, Arbitrum Ecosystem, Cardano Ecosystem, Ethereum Ecosystem, DePIN, Base Ecosystem, DWF Labs Portfolio",world-mobile-token,125276211,361977563.0,,,N/A,17314714.0
+OKX,"BNB Chain Ecosystem, Tron Ecosystem",global-commercial-business,123664923,123664923.0,,,N/A,181690.0
+OKX,"Smart Contract Platform, BNB Chain Ecosystem, Ethereum Ecosystem, Zero Knowledge (ZK), Animoca Brands Portfolio, Binance Labs Portfolio, OKX Ventures Portfolio",polyhedra-network,123166921,2039745084.0,349213.38695737725,312803.6855837252,0.01,5953624.0
+OKX,"Smart Contract Platform, SocialFi, NFT, BNB Chain Ecosystem, Binance Launchpool, Ethereum Ecosystem, Decentralized Identifier (DID), Zero Knowledge (ZK), DWF Labs Portfolio, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Alameda Research Portfolio, DragonFly Capital Portfolio, Binance Labs Portfolio, Quest-to-Earn",project-galaxy,122890414,192393044.0,,,N/A,113253.0
+OKX,"Polygon Ecosystem, Bridged DAI, Bridged-Tokens, Bridged Stablecoins",polygon-pos-bridged-dai-polygon-pos,121589545,121589545.0,,,N/A,3720081.0
+OKX,"BNB Chain Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Alameda Research Portfolio, Binance Labs Portfolio",swipe,122130609,122159886.0,,,N/A,9094526.0
+OKX,"Tokenized Assets, Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Real World Assets (RWA), Starknet Ecosystem, Tokenized Treasury Bills (T-Bills)",eutbl,120372072,120372072.0,,,N/A,0.0
+OKX,"Solana Ecosystem, Meme, Solana Meme, Murad Picks",gigachad-2,117796573,117796573.0,,,N/A,14515318.0
+OKX,"Artificial Intelligence (AI), Binance Launchpool, Solana Ecosystem, DePIN, Animoca Brands Portfolio, Multicoin Capital Portfolio, Delphi Ventures Portfolio, OKX Ventures Portfolio, Made in USA",io,117721951,638697693.0,,,N/A,32726416.0
+OKX,"Arbitrum Ecosystem, Ethereum Ecosystem",reserve-protocol-eth-plus,116434056,116434056.0,,,N/A,370550.0
+OKX,"Exchange-based Tokens, BNB Chain Ecosystem, Centralized Exchange (CEX) Token",nkyc-token,115425572,115425572.0,,,N/A,189494.0
+OKX,"Business Services, Decentralized Finance (DeFi), Oracle, Fantom Ecosystem, Ethereum Ecosystem, Binance Launchpad, Osmosis Ecosystem, Energi Ecosystem, Binance Labs Portfolio, Sequoia Capital Portfolio",band-protocol,116018302,117699535.0,5002.104589718636,24714.151788263745,0.04,13300073.0
+OKX,"Decentralized Finance (DeFi), Insurance, Ethereum Ecosystem",nxm,116019568,116019568.0,,,N/A,0.0
+OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), BNB Chain Ecosystem, Yearn Ecosystem, Solana Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Fantom Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Celo Ecosystem, Ethereum Ecosystem, Base Ecosystem, Alameda Research Portfolio, Pantera Capital Portfolio, Energi Ecosystem, Sora Ecosystem, Blockchain Capital Portfolio",sushi,115299938,167868073.0,39934.07355426673,119208.24261644385,0.05,40712117.0
+OKX,"Artificial Intelligence (AI), Smart Contract Platform, BNB Chain Ecosystem, Solana Ecosystem, Layer 1 (L1), Polygon Ecosystem, Ethereum Ecosystem, DWF Labs Portfolio, Injective Ecosystem, OKX Ventures Portfolio",zignaly,112379596,155810401.0,,,N/A,3666592.0
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Gnosis Chain Ecosystem, MEV Protection, Arbitrum Ecosystem, Ethereum Ecosystem, Intent, Delphi Ventures Portfolio, Blockchain Capital Portfolio",cow-protocol,113270204,273232614.0,,,N/A,32735989.0
+OKX,"Solana Ecosystem, Polygon Ecosystem, Ethereum Ecosystem",m2-global-wealth-limited-mmx,112567662,361142694.0,,,N/A,110827.0
+OKX,"Arbitrum Ecosystem, Bridged USDC, Bridged-Tokens, Bridged Stablecoins",usd-coin-ethereum-bridged,112094104,112094104.0,,,N/A,38599563.0
+OKX,"Smart Contract Platform, Ethereum Ecosystem, Zero Knowledge (ZK), Alleged SEC Securities, Privacy Blockchain",coti,112656280,125710776.0,,,N/A,14410224.0
+OKX,"Stablecoins, Ethereum Ecosystem, Base Ecosystem, Blast Ecosystem, Fiat-backed Stablecoin",anzen-usdz,111630172,111630172.0,,,N/A,135284.0
+OKX,"BNB Chain Ecosystem, Ethereum Ecosystem, Payment Solutions, DWF Labs Portfolio",alchemy-pay,112231850,227020356.0,13308.443068825898,60831.19612944657,0.09,36296196.0
+OKX,"Decentralized Finance (DeFi), Derivatives, Synthetic Issuer, Ethereum Ecosystem, Synthetic",stp-network,111371615,111371615.0,,,N/A,24717043.0
+OKX,"Smart Contract Platform, SocialFi, Layer 1 (L1), Gaming Blockchains",hive,111815318,,,,N/A,6448526.0
+OKX,"Smart Contract Platform, BNB Chain Ecosystem, Ethereum Ecosystem, Layer 2 (L2)",prometeus,110003024,116030587.0,,,N/A,3449813.0
+OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem, Real World Assets (RWA), Coinbase Ventures Portfolio, Stablecoin Protocol, Binance Labs Portfolio, Galaxy Digital Portfolio",usual,111039976,121933915.0,,,N/A,18392917.0
+OKX,"Tokenized Real Estate, Tokenized Assets, Gnosis Chain Ecosystem, RealT Tokens, Real World Assets (RWA), RWA Protocol",realtoken-ecosystem-governance,109123614,762038286.0,,,N/A,688.94
+OKX,"Big Data, Business Services, Infrastructure, Decentralized Finance (DeFi), Solana Ecosystem, FTX Holdings, DWF Labs Portfolio, Name Service",bonfida,108769592,109767181.0,,,N/A,13647907.0
+OKX,"Business Services, Infrastructure, Smart Contract Platform, Decentralized Finance (DeFi), Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Liquid Staking Governance Tokens, Coinbase Ventures Portfolio, Proof of Stake (PoS), Index Coop Defi Index, Consensys Portfolio, Liquid Staking, Index Coop Index",rocket-pool,108388145,108388145.0,1143.3070527563082,4469.693185306237,0.16,11881148.0
+OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem, Morpho Ecosystem",steakhouse-usdc-morpho-vault,106116350,106116350.0,,,N/A,0.0
+OKX,"Meme, PulseChain Ecosystem",the-grays-currency,106944412,106944362.0,,,N/A,408309.0
+OKX,"Meme, Ethereum Ecosystem, Dog-Themed",neiro-3,107600694,107600694.0,56560.679801201375,151263.04002986223,0.04,115638792.0
+OKX,"Arbitrum Ecosystem, Ethereum Ecosystem, Account Abstraction, Coinbase Ventures Portfolio, Binance Labs Portfolio, Consensys Portfolio, Outlier Ventures Portfolio",biconomy,107423469,114808803.0,19092.591147962827,21016.68413585672,0.17,12037396.0
+OKX,"Solana Ecosystem, Multicoin Capital Portfolio, Stablecoin Protocol, Alameda Research Portfolio, DeFiance Capital Portfolio",uxd-protocol-token,105994752,105994752.0,,,N/A,2.0
+OKX,"Music, NFT, Ethereum Ecosystem, Coinbase Ventures Portfolio, Multicoin Capital Portfolio, Pantera Capital Portfolio, Energi Ecosystem, Binance Labs Portfolio",audius,105049445,105049445.0,,,N/A,12078356.0
+OKX,"Decentralized Finance (DeFi), Yield Farming, Lending/Borrowing Protocols, Ethereum Ecosystem, Real World Assets (RWA), Base Ecosystem, Binance Alpha Spotlight",syrup,105857195,169866487.0,,,N/A,10943376.0
+OKX,"Artificial Intelligence (AI), Smart Contract Platform, Layer 1 (L1), Proof of Work (PoW)",qubic-network,103780249,124121794.0,,,N/A,3635588.0
+OKX,"Smart Contract Platform, BNB Chain Ecosystem, Layer 1 (L1), Ethereum Ecosystem, Decentralized Identifier (DID), Base Ecosystem, Gravity Alpha Ecosystem",g-token,104571497,173497860.0,9497.975096045478,17115.780950151355,0.14,12575393.0
+OKX,"Exchange-based Tokens, NFT, BNB Chain Ecosystem, Ethereum Ecosystem",swftcoin,105134888,105134888.0,7597.406150802589,10444.423665921959,0.47,3540313.0
+OKX,"Smart Contract Platform, Cross-chain Communication, Pantera Capital Portfolio",icon,104585682,105777381.0,15974.647088232565,20494.85794617097,0.1,2948379.0
+OKX,"Smart Contract Platform, BNB Chain Ecosystem, Ethereum Ecosystem, DWF Labs Portfolio, Made in USA",proton,103367787,114577886.0,,,N/A,3540619.0
+OKX,"Solana Ecosystem, Meme, Solana Meme, PolitiFi, Made in USA",melania-meme,102651336,684341675.0,,,N/A,28829525.0
+OKX,"Artificial Intelligence (AI), Base Ecosystem, AI Agents, AI Applications, Made in USA",venice-token,102373794,244034986.0,,,N/A,15498286.0
+OKX,"Lending/Borrowing Protocols, Ethereum Ecosystem, Paradigm Portfolio, Coinbase Ventures Portfolio",euler,103314841,150297500.0,,,N/A,7812243.0
+OKX,"Stablecoins, BNB Chain Ecosystem",astherus-usdf,102242475,102242475.0,,,N/A,173308.0
+OKX,"Smart Contract Platform, Ethereum Ecosystem, Metis Ecosystem, Layer 2 (L2), DWF Labs Portfolio, Rollup, GMCI Layer 2 Index, OKX Ventures Portfolio, GMCI Index",metis-token,101957485,162992862.0,27935.15552174149,45566.76605813116,0.12,6756584.0
+OKX,"Smart Contract Platform, Decentralized Finance (DeFi), Binance Launchpool, Derivatives, Perpetuals, Ethereum Ecosystem, Layer 2 (L2), DragonFly Capital Portfolio, Pantera Capital Portfolio",aevo-exchange,102177028,113132052.0,56355.447825098265,156524.4545738158,0.09,22109476.0
+OKX,"NFT, BNB Chain Ecosystem, Ethereum Ecosystem, Binance Launchpad, DWF Labs Portfolio, Binance Labs Portfolio",space-id,101927381,472722572.0,36280.283329588536,53780.134173658575,0.08,69585385.0
+OKX,"Stablecoins, LP Tokens, Ethereum Ecosystem",resolv-rlp,100928520,100928520.0,,,N/A,2306444.0
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), BNB Chain Ecosystem, Wallets, XRP Ledger Ecosystem",solo-coin,101109183,101109183.0,,,N/A,1904253.0
+OKX,"Bridged USDT, QL1 Ecosystem, Bridged-Tokens, Bridged Stablecoins",qusdt,100028042,100028042.0,,,N/A,5633.33
+OKX,"Artificial Intelligence (AI), Smart Contract Platform, Masternodes, DePIN, Proof of Work (PoW), Made in USA",zelcash,99164950,99178416.0,,,N/A,10061816.0
+OKX,"Gaming (GameFi), NFT, Metaverse, Play To Earn, Ethereum Ecosystem, Animoca Brands Portfolio, RPG, Gaming Governance Token, Adventure Games, Energi Ecosystem, Delphi Ventures Portfolio",illuvium,99067041,127721835.0,4741.325664290968,8704.759356822924,0.08,24317553.0
+OKX,"NFT, Polygon Ecosystem, Ethereum Ecosystem, Optimism Ecosystem",blockv,95642307,95642307.0,,,N/A,113043.0
+OKX,"Smart Contract Platform, Proof of Stake (PoS), Sequoia Capital Portfolio",iostoken,98652541,98652541.0,7675.682442506839,32097.646456136397,0.09,14054539.0
+OKX,"NFT, Meme, Arbitrum Ecosystem, Ethereum Ecosystem, Anime-Themed, Binance HODLer Airdrops, Airdropped Tokens by NFT Projects",anime,98930304,178619545.0,134652.89877315567,152532.77270461083,0.11,20539458.0
+OKX,"Business Services, Decentralized Finance (DeFi), Oracle, Derivatives, Synthetic Issuer, Avalanche Ecosystem, Ethereum Ecosystem, Blockchain Capital Portfolio, Synthetic, Made in USA",uma,97625922,140879387.0,12774.25363669472,14837.813737122973,0.09,18720741.0
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Automated Market Maker (AMM), Ethereum Ecosystem, Cronos Ecosystem",vvs-finance,97021477,189694823.0,,,N/A,356922.0
+OKX,"NFT, Binance Launchpool, Meme, Ethereum Ecosystem, Binance Labs Portfolio, GMCI Meme Index, GMCI Index",memecoin-2,97550017,164507766.0,61936.41687273037,110102.9479510255,0.08,28885396.0
 OKX,"XDC Ecosystem, Telos Ecosystem",ecoin-2,95498064,207099463.0,,,N/A,5.24
-OKX,"NFT, Polygon Ecosystem, Ethereum Ecosystem, Optimism Ecosystem",blockv,96911990,96911990.0,,,N/A,113461.0
-OKX,"Fraxtal Ecosystem, Bridged-Tokens",l2-standard-bridged-frxusd,94640048,94640048.0,,,N/A,493216.0
-OKX,"Infrastructure, Smart Contract Platform, Ethereum Ecosystem, Data Availability, Modular Blockchain",avail,93972311,481465256.0,,,N/A,7726323.0
-OKX,"Crypto-Backed Tokens, Decentralized Finance (DeFi), Compound Tokens, cToken, Ethereum Ecosystem",compound-ether,93837385,93837385.0,,,N/A,188.17
-OKX,"Smart Contract Platform, Privacy, Layer 1 (L1), Proof of Stake (PoS), Proof of Work (PoW), Zano Ecosystem, Privacy Blockchain",zano,93152332,93152332.0,,,N/A,571877.0
-OKX,"Software as a service, Ethereum Ecosystem, Energi Ecosystem",status,92718503,159308158.0,73682.00781981673,65171.020996944004,0.17,10590971.0
-OKX,"Solana Ecosystem, Payment Solutions, Viction Ecosystem",saros-finance,91952255,350294327.0,,,N/A,760175.0
-OKX,"Smart Contract Platform, Ethereum Ecosystem, Layer 2 (L2), Optimism Superchain Ecosystem, Outlier Ventures Portfolio, Lisk Ecosystem",lisk,92243343,214114995.0,8094.07062323319,17690.4105126311,0.13,13604763.0
-OKX,"Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Bridge Governance Tokens, Intent, Boba Network Ecosystem, Blockchain Capital Portfolio, Made in USA",across-protocol,92113487,228085583.0,,,N/A,17731296.0
-OKX,"Solana Ecosystem, Liquid Staking Tokens, Liquid Staked SOL, Liquid Staking",drift-staked-sol,91734872,91734872.0,,,N/A,27352.0
-OKX,"Gaming (GameFi), NFT, Kaia Ecosystem, Gaming Blockchains",bora,91874312,96098418.0,5637.017105116463,9974.539564378201,0.15,2023512.0
-OKX,"Infrastructure, Smart Contract Platform, Oracle, Layer 1 (L1), Animoca Brands Portfolio, Coinbase Ventures Portfolio, Cross-chain Communication, Made in USA",supra,92114343,819031306.0,,,N/A,9904793.0
-OKX,"Smart Contract Platform, Polkadot Ecosystem, Binance Launchpool, Layer 2 (L2), Manta Network Ecosystem, Multicoin Capital Portfolio, Alameda Research Portfolio, DeFiance Capital Portfolio, Binance Labs Portfolio",manta-network,91721536,241194776.0,,,N/A,31190165.0
-OKX,"Solana Ecosystem, Meme, Frog-Themed, Solana Meme, GMCI Meme Index, GMCI Index",book-of-meme,91356630,91356630.0,68053.71289285124,93436.03749842962,0.08,50521762.0
-OKX,"Solana Ecosystem, Meme, Base Ecosystem, AI Meme, AI Agents, Virtuals Protocol Ecosystem, Binance Alpha Spotlight, DeFAI",aixbt,90738230,106050584.0,79382.43077568272,119587.34806897191,0.19,70597661.0
-OKX,"Smart Contract Platform, BNB Chain Ecosystem, Binance Launchpool, Ethereum Ecosystem, Layer 2 (L2), Restaking, Rollups-as-a-Service (RaaS), Rollup, Binance Labs Portfolio",altlayer,90964690,325803142.0,,,N/A,21384458.0
-OKX,"Decentralized Finance (DeFi), Yield Farming, Avalanche Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Olympus Pro Ecosystem, Ethereum Ecosystem, Stablecoin Protocol",spell-token,90341330,111666953.0,,,N/A,13848533.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Zero Knowledge (ZK), Andreessen Horowitz (a16z) Portfolio, Privacy Blockchain, Made in USA",aleo,89740094,439710522.0,,,N/A,6270959.0
-OKX,"Artificial Intelligence (AI), Infrastructure, Smart Contract Platform, Decentralized Finance (DeFi), Arbitrum Ecosystem, Ethereum Ecosystem, Zero Knowledge (ZK), DWF Labs Portfolio, Coinbase Ventures Portfolio, Pantera Capital Portfolio, Binance Labs Portfolio",marlin,88706216,108797646.0,,,N/A,10274559.0
-OKX,"Artificial Intelligence (AI), Big Data, Media, BNB Chain Ecosystem, Polygon Ecosystem, Ethereum Ecosystem, GMCI DePIN Index, Galaxy Digital Portfolio, GMCI Index",everipedia,89246684,89246684.0,2144.5443126452,3273.4610075160754,0.05,5165751.0
-OKX,"Gaming (GameFi), NFT, BNB Chain Ecosystem",infinitar-governance-token,89629670,443889228.0,,,N/A,8649786.0
-OKX,"Big Data, Infrastructure, Storage, Cardano Ecosystem, DePIN",iagon,88924051,236487283.0,,,N/A,545734.0
-OKX,"Artificial Intelligence (AI), Infrastructure, Smart Contract Platform, Oracle, Polkadot Ecosystem, Ethereum Ecosystem, Interoperability, Layer 2 (L2), Zero Knowledge (ZK), DePIN, DWF Labs Portfolio, Rollup, AI Agents, Sora Ecosystem, AI Framework, Made in USA",pha,88718066,113123903.0,33574.681327728,39523.03781619842,0.26,17820510.0
-OKX,"SocialFi, Coinbase Ventures Portfolio, Pantera Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, Sequoia Capital Portfolio",deso,88049636,90358992.0,,,N/A,8569136.0
-OKX,"Cronos Ecosystem, Bridged USDT, Bridged-Tokens, Bridged Stablecoins",cronos-bridged-usdt-cronos,87716592,87716592.0,,,N/A,174079.0
-OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Multicoin Capital Portfolio, Energi Ecosystem",dforce-token,86989658,86989658.0,,,N/A,14134329.0
-OKX,Layer 1 (L1),oec-token,87667080,87667080.0,1074.5927452229678,5501.298114775484,0.08,294071.0
-OKX,"Decentralized Finance (DeFi), Lending/Borrowing Protocols, Moonbeam Ecosystem, Base Ecosystem, Coinbase Ventures Portfolio, Made in USA",moonwell-artemis,88551514,135037295.0,,,N/A,30600920.0
-OKX,"Decentralized Finance (DeFi), Yield Farming, BNB Chain Ecosystem, Binance Launchpool, Lending/Borrowing Protocols, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, ZkSync Ecosystem, opBNB Ecosystem, Unichain Ecosystem",venus,86591543,155345521.0,,,N/A,7679296.0
-OKX,"Ethereum Ecosystem, DWF Labs Portfolio",adventure-gold,86062690,86062690.0,18417.10119060157,76562.00866814735,0.01,30018573.0
-OKX,"Infrastructure, Smart Contract Platform, Decentralized Finance (DeFi), BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, DWF Labs Portfolio, Layer 3 (L3), Outlier Ventures Portfolio",orbs,86156719,189208342.0,5950.935129120043,10439.478543406629,0.11,9242247.0
-OKX,"Stablecoins, USD Stablecoin, Ethereum Ecosystem, Sonic Ecosystem, Fiat-backed Stablecoin",frax-usd,86124557,86124557.0,,,N/A,3826536.0
-OKX,"Energy, Ethereum Ecosystem, Alleged SEC Securities, Energi Ecosystem, GMCI DePIN Index, Blockchain Capital Portfolio, GMCI Index",power-ledger,86232152,162694914.0,,,N/A,10814384.0
-OKX,"Smart Contract Platform, Gaming (GameFi), Solana Ecosystem, Layer 2 (L2), Gaming Blockchains",sonic-svm,86783031,578553539.0,96333.85934285221,142592.2873691063,0.04,55781903.0
-OKX,"Crypto-Backed Tokens, BNB Chain Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Mantle Ecosystem",ignition-fbtc,85265724,1108634792.0,,,N/A,814505.0
-OKX,"Gaming (GameFi), XDC Ecosystem",gama-coin,85931225,132201956.0,,,N/A,2184907.0
-OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Gnosis Chain Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Index Coop Defi Index, Alameda Research Portfolio, DeFiance Capital Portfolio, Pantera Capital Portfolio, Energi Ecosystem, Polygon zkEVM Ecosystem, Huobi ECO Chain Ecosystem, Blockchain Capital Portfolio, Index Coop Index",balancer,85783561,92765148.0,49547.36768829031,55433.593014216356,0.15,11033801.0
-OKX,"Solana Ecosystem, Liquid Staking Tokens, Restaking, Liquid Restaking Tokens, Liquid Staked SOL, Liquid Staking, Liquid Restaked SOL",solayer-staked-sol,85807950,85807950.0,,,N/A,370159.0
-OKX,"Crypto-Backed Tokens, Ethereum Ecosystem",temple,85141015,85308747.0,,,N/A,8219.64
-OKX,"Polygon Ecosystem, XRP Ledger Ecosystem",crypto-trading-fund,84632577,84632577.0,,,N/A,13520.85
-OKX,"Business Services, Polygon Ecosystem, Ethereum Ecosystem",request-network,84621612,109946060.0,,,N/A,8641659.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Arbitrum Ecosystem, Ethereum Ecosystem",tokenlon,84547247,101766663.0,,,N/A,95530.0
-OKX,"Infrastructure, Solana Ecosystem, Animoca Brands Portfolio, Cross-chain Communication, OKX Ventures Portfolio",zeus-network,84248832,220097725.0,38558.34412088522,40007.65398180332,0.14,7768254.0
-OKX,"Smart Contract Platform, Ethereum Ecosystem, Layer 2 (L2), Zero Knowledge (ZK), Restaking, Zircuit Ecosystem",zircuit,84381267,384438311.0,,,N/A,44741244.0
-OKX,"DaoMaker Launchpad, Ethereum Ecosystem, Real World Assets (RWA), Sequoia Capital Portfolio, Made in USA",clearpool,82912510,109103167.0,,,N/A,4432512.0
-OKX,"Smart Contract Platform, Bitcoin Sidechains, Stacks Ecosystem, SideChain",sbtc-2,82732932,82732932.0,,,N/A,46692.0
-OKX,"NFT, Solana Ecosystem, NFT Marketplace",tensor,82661361,247039966.0,131170.17987318305,166293.13262000275,0.08,18268896.0
-OKX,"Solana Ecosystem, Polygon Ecosystem, DePIN, Pantera Capital Portfolio",geodnet,82353922,256875786.0,,,N/A,258905.0
-OKX,"Artificial Intelligence (AI), Oracle, Ethereum Ecosystem, DePIN, Energi Ecosystem, Sora Ecosystem, GMCI DePIN Index, GMCI Index",iexec-rlc,82562852,99235942.0,,,N/A,15982209.0
-OKX,"BNB Chain Ecosystem, Liquid Staking Tokens",astherus-staked-bnb,81583955,81583955.0,,,N/A,520.45
-OKX,"Smart Contract Platform, Layer 1 (L1)",ong,82045027,201118818.0,,,N/A,3107542.0
-OKX,Ethereum Ecosystem,dkargo,81801030,87269947.0,,,N/A,1368976.0
-OKX,BNB Chain Ecosystem,metfi-2,81290706,190347636.0,,,N/A,381923.0
-OKX,"Berachain Ecosystem, Bridged USDT, Bridged-Tokens, Ink Ecosystem, Bridged Stablecoins",usdt0,80962007,80962015.0,,,N/A,926762.0
-OKX,BNB Chain Ecosystem,bitdca,80747682,86730621.0,,,N/A,20233.0
-OKX,"Smart Contract Platform, Polkadot Ecosystem, Layer 1 (L1), Coinbase Ventures Portfolio, Binance Labs Portfolio",moonbeam,81355669,99070126.0,6114.2652309090345,18325.617468585548,0.12,4785030.0
-OKX,"Artificial Intelligence (AI), Smart Contract Platform, Gaming (GameFi), NFT, BNB Chain Ecosystem, Layer 1 (L1), Ethereum Ecosystem, Modular Blockchain, Chromia Ecosystem",chromaway,80697980,80697980.0,,,N/A,10341632.0
-OKX,"Stablecoins, Decentralized Finance (DeFi), Lending/Borrowing Protocols, Ethereum Ecosystem",syrupusdc,80264935,80264935.0,,,N/A,276581.0
-OKX,"Smart Contract Platform, Layer 2 (L2), eGirl Capital Portfolio, Paradigm Portfolio, Blast Ecosystem",blast,79726368,301552880.0,,,N/A,12523303.0
-OKX,"Stablecoins, USD Stablecoin, Solana Ecosystem, Ethereum Ecosystem, Multicoin Capital Portfolio, Fiat-backed Stablecoin",paxos-standard,79233414,79233414.0,,,N/A,2918994.0
-OKX,"Smart Contract Platform, Gaming (GameFi), NFT, Layer 1 (L1), Play To Earn, Ethereum Ecosystem, Animoca Brands Portfolio, Gaming Blockchains, Pantera Capital Portfolio, OKX Ventures Portfolio",wax,79285530,85308791.0,8016.463206168481,10927.820125435275,0.18,6106391.0
-OKX,"Gaming (GameFi), Play To Earn, Ethereum Ecosystem, RPG, Alameda Research Portfolio, Circle Ventures Portfolio, OKX Ventures Portfolio, MMO",big-time,78332400,221199042.0,141044.23518722793,191962.55319284543,0.07,48460863.0
-OKX,"Exchange-based Tokens, Centralized Exchange (CEX) Token, Near Protocol Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Multicoin Capital Portfolio, Alameda Research Portfolio, Elastos Smart Contract Chain Ecosystem, Sequoia Capital Portfolio, Made in China",huobi-token,78882860,99490555.0,,,N/A,21193.0
-OKX,"Internet of Things (IOT), BNB Chain Ecosystem, Ethereum Ecosystem, DePIN, DWF Labs Portfolio",mass-vehicle-ledger,77973180,82419820.0,,,N/A,408632.0
-OKX,"Smart Contract Platform, Wallets, Layer 2 (L2), Osmosis Ecosystem",islamic-coin,77585068,938463270.0,,,N/A,1047409.0
-OKX,"Gaming (GameFi), NFT, BNB Chain Ecosystem, Metaverse, Collectibles, Polygon Ecosystem, Play To Earn, Harmony Ecosystem, Guild and Scholarship, Ethereum Ecosystem, Animoca Brands Portfolio, Base Ecosystem, DWF Labs Portfolio, Ronin Ecosystem, Andreessen Horowitz (a16z) Portfolio, Delphi Ventures Portfolio",yield-guild-games,77480619,188740758.0,29494.116845901353,68547.30410389608,0.11,18873689.0
-OKX,"Artificial Intelligence (AI), Virtual Reality, Launchpad, Ethereum Ecosystem, Telegram Apps, Discord Bots, PAAL AI Launchpad, AI Agents, AI Applications, AI Agent Launchpad, Binance Alpha Spotlight, AI Framework, DeFAI, Made in USA",paal-ai,77779574,87489841.0,,,N/A,6664533.0
-OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem",avalon-2,77168156,475612666.0,,,N/A,139677235.0
-OKX,"Blast Ecosystem, Bridged WETH, Bridged-Tokens",l2-standard-bridged-weth-blast,76943746,76943746.0,,,N/A,617676.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), Solana Ecosystem, Coinbase Ventures Portfolio, DeFiance Capital Portfolio, Made in USA",orca,77069311,144658941.0,,,N/A,30025076.0
-OKX,"Exchange-based Tokens, Centralized Exchange (CEX) Token, Ethereum Ecosystem",bitmart-token,76024484,143221115.0,,,N/A,4058070.0
-OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem",elixir-finance,75410353,472321602.0,,,N/A,47230610.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Osmosis Ecosystem, XRP Ledger Ecosystem",coreum,75693919,75693919.0,,,N/A,287158.0
-OKX,"Stablecoins, USD Stablecoin, BNB Chain Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Crypto-backed Stablecoin, Fiat-backed Stablecoin",dola-usd,75748395,203811392.0,,,N/A,4454927.0
-OKX,"Ethereum Ecosystem, Stablecoin Protocol",level-usd,75599363,75599363.0,,,N/A,371765.0
-OKX,"Sports, BNB Chain Ecosystem",pixer-eternity,75217254,349541717.0,,,N/A,184544.0
-OKX,"Gaming (GameFi), Play To Earn, Guild and Scholarship, Ethereum Ecosystem, Animoca Brands Portfolio, Base Ecosystem, DWF Labs Portfolio, Ronin Ecosystem, Coinbase Ventures Portfolio, DeFiance Capital Portfolio, Pantera Capital Portfolio, Binance Labs Portfolio, MMO",zentry,75698793,111129741.0,40828.96328985016,51328.69943020121,0.17,11750284.0
-OKX,Smart Contract Platform,songbird,74985114,89099167.0,,,N/A,335647.0
-OKX,"Smart Contract Platform, Privacy, Proof of Work (PoW), Made in USA",verge,75304516,75455147.0,,,N/A,7775416.0
-OKX,"Meme, Ethereum Ecosystem, PolitiFi",constitutiondao,75472764,75472764.0,53164.27765615289,167102.3318359731,0.07,36903847.0
-OKX,"Artificial Intelligence (AI), BNB Chain Ecosystem, Solana Ecosystem, Ethereum Ecosystem, AI Agents, Alameda Research Portfolio",delysium,74936879,143119066.0,,,N/A,3534724.0
-OKX,"Software as a service, Polygon Ecosystem, Ethereum Ecosystem, Decentralized Identifier (DID), Pantera Capital Portfolio, Energi Ecosystem, Blockchain Capital Portfolio",civic,74768726,93227836.0,13585.796399012062,33238.82286168501,0.06,10700126.0
-OKX,"Smart Contract Platform, Gaming (GameFi), Layer 1 (L1), Proof of Stake (PoS), Gaming Blockchains",oasys,74201379,192527796.0,2421.25824379942,1964.0011341049296,0.16,506230.0
-OKX,"Smart Contract Platform, Proof of Stake (PoS)",stratis,74654492,82257709.0,,,N/A,874225.0
-OKX,"Optimism Ecosystem, Bridged WBTC, Bridged-Tokens",optimism-bridged-wbtc-optimism,74025429,74025429.0,,,N/A,3642652.0
-OKX,"Artificial Intelligence (AI), Smart Contract Platform, Decentralized Finance (DeFi), Analytics, NFT, BNB Chain Ecosystem, Launchpad, Ethereum Ecosystem, Telegram Apps, Discord Bots, ChainGPT Launchpad, Poolz Finance Launchpad, AI Agents, AI Applications, Binance Alpha Spotlight, AI Framework, DeFAI",chaingpt,73969023,91866846.0,,,N/A,36553810.0
-OKX,"Stablecoins, USD Stablecoin, Osmosis Ecosystem, Fiat-backed Stablecoin",usdx,73385786,73385786.0,,,N/A,21251.0
-OKX,"Decentralized Finance (DeFi), Wallets, Ethereum Ecosystem, Pundi AIFX Omnilayer Ecosystem",pundi-x-2,73665030,73665030.0,,,N/A,10932790.0
-OKX,Retail,milk-alliance,72323703,162358283.0,,,N/A,9178262.0
-OKX,"Smart Contract Platform, Cosmos Ecosystem, Modular Blockchain, Osmosis Ecosystem, Rollups-as-a-Service (RaaS)",dymension,73278703,292146402.0,,,N/A,8530312.0
-OKX,"Exchange-based Tokens, Centralized Exchange (CEX) Token, Ethereum Ecosystem",hashkey-ecopoints,72754017,549086919.0,,,N/A,2272375.0
-OKX,"Meme, Ethereum Ecosystem, Mantle Ecosystem",puff-the-dragon,72809750,72809750.0,,,N/A,92545.0
-OKX,"Artificial Intelligence (AI), Infrastructure, Ethereum Ecosystem, AI Framework, Made in USA",arcblock,72663551,137101040.0,,,N/A,766556.0
-OKX,"Smart Contract Platform, Polkadot Ecosystem, Layer 1 (L1), DePIN, Outlier Ventures Portfolio",peaq-2,69480725,407251659.0,,,N/A,11061740.0
-OKX,"Stablecoins, Decentralized Finance (DeFi), USD Stablecoin, BNB Chain Ecosystem, Polygon Ecosystem, Gnosis Chain Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Crypto-backed Stablecoin, Fiat-backed Stablecoin",crvusd,71187686,71187686.0,,,N/A,8607686.0
-OKX,"Business Services, Decentralized Finance (DeFi), Oracle, Polygon Ecosystem, Gnosis Chain Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Manta Network Ecosystem, Binance Labs Portfolio, Lisk Ecosystem, Made in USA",tellor,70648379,72704287.0,32515.825031067474,55235.31920513718,0.04,23191811.0
-OKX,"BNB Chain Ecosystem, Solana Ecosystem, Polygon Ecosystem, Meme, Ethereum Ecosystem, Cronos Ecosystem, Dog-Themed, Elon Musk-Inspired, Fuse Ecosystem",dogelon-mars,71245140,129619110.0,8082.452609626699,9964.243075491417,0.23,10269683.0
-OKX,"Stablecoins, Decentralized Finance (DeFi), USD Stablecoin, BNB Chain Ecosystem, Avalanche Ecosystem, Arbitrum Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Optimism Ecosystem, Fiat-backed Stablecoin",staked-frax,70283746,70283746.0,,,N/A,9169.97
-OKX,"Artificial Intelligence (AI), BNB Chain Ecosystem, Ethereum Ecosystem, DragonFly Capital Portfolio, Binance Labs Portfolio, Delphi Ventures Portfolio, OKX Ventures Portfolio, Binance HODLer Airdrops, AI Agent Launchpad, Binance Alpha Spotlight, AI Framework",myshell,69965033,259129752.0,,,N/A,50425379.0
-OKX,"Decentralized Finance (DeFi), Lending/Borrowing Protocols, Ethereum Ecosystem, Real World Assets (RWA), Coinbase Ventures Portfolio, Andreessen Horowitz (a16z) Portfolio, RWA Protocol, Made in USA",goldfinch,69801973,86341153.0,,,N/A,660266.0
-OKX,"Gaming (GameFi), Play To Earn, TON Ecosystem, Tap to Earn, Arcade Games",watcoin-2,70015704,77730045.0,,,N/A,826790.0
-OKX,"Artificial Intelligence (AI), Launchpad, Base Ecosystem, AI Applications, Clanker Ecosystem, Binance Alpha Spotlight",tokenbot-2,69898278,69898278.0,,,N/A,6766644.0
+OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Real World Assets (RWA), DWF Labs Portfolio, Stellar Ecosystem",velo,96372499,312961243.0,30511.444771930925,59248.21980537487,0.05,31938175.0
+OKX,"Fraxtal Ecosystem, Bridged-Tokens",l2-standard-bridged-frxusd,95200085,95200085.0,,,N/A,611889.0
+OKX,"Crypto-Backed Tokens, Decentralized Finance (DeFi), Compound Tokens, cToken, Ethereum Ecosystem",compound-ether,95110409,95110409.0,,,N/A,191.02
+OKX,"Infrastructure, Smart Contract Platform, Ethereum Ecosystem, Data Availability, Modular Blockchain",avail,94857003,485997957.0,,,N/A,7894002.0
+OKX,"Smart Contract Platform, Polkadot Ecosystem, Binance Launchpool, Layer 2 (L2), Manta Network Ecosystem, Multicoin Capital Portfolio, Alameda Research Portfolio, DeFiance Capital Portfolio, Binance Labs Portfolio",manta-network,94636809,248860898.0,,,N/A,31456915.0
+OKX,"Infrastructure, Smart Contract Platform, Oracle, Layer 1 (L1), Animoca Brands Portfolio, Coinbase Ventures Portfolio, Cross-chain Communication, Made in USA",supra,93012764,827019589.0,,,N/A,10306644.0
+OKX,"Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Bridge Governance Tokens, Intent, Boba Network Ecosystem, Blockchain Capital Portfolio, Made in USA",across-protocol,94108902,233024036.0,,,N/A,18131746.0
+OKX,"Smart Contract Platform, Ethereum Ecosystem, Layer 2 (L2), Optimism Superchain Ecosystem, Outlier Ventures Portfolio, Lisk Ecosystem",lisk,94156451,218555555.0,11646.567673239331,22721.115666568563,0.11,13879988.0
+OKX,"Solana Ecosystem, Payment Solutions, Viction Ecosystem",saros-finance,93644272,356740107.0,,,N/A,763658.0
+OKX,"Software as a service, Ethereum Ecosystem, Energi Ecosystem",status,93845066,161243808.0,74173.38784244853,70908.63075612324,0.04,12385728.0
+OKX,"Smart Contract Platform, Privacy, Layer 1 (L1), Proof of Stake (PoS), Proof of Work (PoW), Zano Ecosystem, Privacy Blockchain",zano,92815540,92815947.0,,,N/A,489452.0
+OKX,"Solana Ecosystem, Meme, Base Ecosystem, AI Meme, AI Agents, Virtuals Protocol Ecosystem, Binance Alpha Spotlight, DeFAI",aixbt,94117460,110000070.0,83495.8147226768,116102.87458563304,0.09,71990267.0
+OKX,"Solana Ecosystem, Meme, Frog-Themed, Solana Meme, GMCI Meme Index, GMCI Index",book-of-meme,93818558,93818558.0,71651.2342919124,87974.60191011969,0.07,52754332.0
+OKX,"Smart Contract Platform, BNB Chain Ecosystem, Binance Launchpool, Ethereum Ecosystem, Layer 2 (L2), Restaking, Rollups-as-a-Service (RaaS), Rollup, Binance Labs Portfolio",altlayer,92884042,332677580.0,,,N/A,21596411.0
+OKX,"Solana Ecosystem, Liquid Staking Tokens, Liquid Staked SOL, Liquid Staking",drift-staked-sol,92060435,92060435.0,,,N/A,27166.0
+OKX,"Gaming (GameFi), NFT, Kaia Ecosystem, Gaming Blockchains",bora,92299748,96543415.0,6601.591730413833,10171.189847056861,0.13,2049834.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Zero Knowledge (ZK), Andreessen Horowitz (a16z) Portfolio, Privacy Blockchain, Made in USA",aleo,92290764,452208353.0,,,N/A,6609159.0
+OKX,"Decentralized Finance (DeFi), Yield Farming, Avalanche Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Olympus Pro Ecosystem, Ethereum Ecosystem, Stablecoin Protocol",spell-token,91805119,113476278.0,,,N/A,14121908.0
+OKX,"Gaming (GameFi), NFT, BNB Chain Ecosystem",infinitar-governance-token,92514637,458176971.0,,,N/A,8691836.0
+OKX,"Artificial Intelligence (AI), Big Data, Media, BNB Chain Ecosystem, Polygon Ecosystem, Ethereum Ecosystem, GMCI DePIN Index, Galaxy Digital Portfolio, GMCI Index",everipedia,90205173,90205173.0,2381.5583532739365,3370.2193464620836,0.05,5178631.0
+OKX,"Artificial Intelligence (AI), Infrastructure, Smart Contract Platform, Oracle, Polkadot Ecosystem, Ethereum Ecosystem, Interoperability, Layer 2 (L2), Zero Knowledge (ZK), DePIN, DWF Labs Portfolio, Rollup, AI Agents, Sora Ecosystem, AI Framework, Made in USA",pha,91130364,116198820.0,32166.633377947783,43249.62100849601,0.17,23287443.0
+OKX,"Big Data, Infrastructure, Storage, Cardano Ecosystem, DePIN",iagon,90020737,239403844.0,,,N/A,529388.0
+OKX,"Artificial Intelligence (AI), Infrastructure, Smart Contract Platform, Decentralized Finance (DeFi), Arbitrum Ecosystem, Ethereum Ecosystem, Zero Knowledge (ZK), DWF Labs Portfolio, Coinbase Ventures Portfolio, Pantera Capital Portfolio, Binance Labs Portfolio",marlin,90071560,110472233.0,,,N/A,10455983.0
+OKX,"Smart Contract Platform, Gaming (GameFi), Solana Ecosystem, Layer 2 (L2), Gaming Blockchains",sonic-svm,89374727,595831511.0,85936.02044494022,137193.97717571078,0.04,45749952.0
+OKX,"Cronos Ecosystem, Bridged USDT, Bridged-Tokens, Bridged Stablecoins",cronos-bridged-usdt-cronos,87944937,87944937.0,,,N/A,165191.0
+OKX,"Decentralized Finance (DeFi), Lending/Borrowing Protocols, Moonbeam Ecosystem, Base Ecosystem, Coinbase Ventures Portfolio, Made in USA",moonwell-artemis,86255416,131535459.0,,,N/A,31389052.0
+OKX,"Energy, Ethereum Ecosystem, Alleged SEC Securities, Energi Ecosystem, GMCI DePIN Index, Blockchain Capital Portfolio, GMCI Index",power-ledger,88268733,166537348.0,,,N/A,10776538.0
+OKX,"Ethereum Ecosystem, DWF Labs Portfolio",adventure-gold,88274240,88274240.0,14343.273259730615,81308.24912423854,0.02,30292377.0
+OKX,"Decentralized Finance (DeFi), Yield Farming, BNB Chain Ecosystem, Binance Launchpool, Lending/Borrowing Protocols, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, ZkSync Ecosystem, opBNB Ecosystem, Unichain Ecosystem",venus,88181240,158197360.0,,,N/A,7672538.0
+OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Multicoin Capital Portfolio, Energi Ecosystem",dforce-token,87617665,87617665.0,,,N/A,14521394.0
+OKX,"Infrastructure, Smart Contract Platform, Decentralized Finance (DeFi), BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Fantom Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, DWF Labs Portfolio, Layer 3 (L3), Outlier Ventures Portfolio",orbs,87314517,191750976.0,6383.432141977841,10594.387546283331,0.1,9484952.0
+OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), Avalanche Ecosystem, Polygon Ecosystem, Near Protocol Ecosystem, Gnosis Chain Ecosystem, Harmony Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Index Coop Defi Index, Alameda Research Portfolio, DeFiance Capital Portfolio, Pantera Capital Portfolio, Energi Ecosystem, Polygon zkEVM Ecosystem, Huobi ECO Chain Ecosystem, Blockchain Capital Portfolio, Index Coop Index",balancer,87328429,94435677.0,49767.14099530613,57980.920921335695,0.14,11125289.0
+OKX,"Crypto-Backed Tokens, BNB Chain Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Mantle Ecosystem",ignition-fbtc,86970911,1130805823.0,,,N/A,813311.0
+OKX,"Solana Ecosystem, Liquid Staking Tokens, Restaking, Liquid Restaking Tokens, Liquid Staked SOL, Liquid Staking, Liquid Restaked SOL",solayer-staked-sol,86638489,86638489.0,,,N/A,390251.0
+OKX,"Gaming (GameFi), XDC Ecosystem",gama-coin,86494352,133068306.0,,,N/A,2200890.0
+OKX,"Stablecoins, USD Stablecoin, Ethereum Ecosystem, Sonic Ecosystem, Fiat-backed Stablecoin",frax-usd,86135565,86135565.0,,,N/A,3867504.0
+OKX,Layer 1 (L1),oec-token,86435634,86435634.0,1662.5475057248755,5835.896954523941,0.18,347919.0
+OKX,"Smart Contract Platform, Ethereum Ecosystem, Layer 2 (L2), Zero Knowledge (ZK), Restaking, Zircuit Ecosystem",zircuit,85634770,390149233.0,,,N/A,45506843.0
+OKX,"Business Services, Polygon Ecosystem, Ethereum Ecosystem",request-network,85384782,110937622.0,,,N/A,8613375.0
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Arbitrum Ecosystem, Ethereum Ecosystem",tokenlon,85408658,102803514.0,,,N/A,103042.0
+OKX,"Crypto-Backed Tokens, Ethereum Ecosystem",temple,85151253,85319005.0,,,N/A,8223.15
+OKX,"BNB Chain Ecosystem, Liquid Staking Tokens",astherus-staked-bnb,83451366,83451366.0,,,N/A,515.99
+OKX,"Polygon Ecosystem, XRP Ledger Ecosystem",crypto-trading-fund,85500994,85500994.0,,,N/A,13799.8
+OKX,"Infrastructure, Solana Ecosystem, Animoca Brands Portfolio, Cross-chain Communication, OKX Ventures Portfolio",zeus-network,85957953,224562757.0,36605.97223510024,37564.021362103886,0.04,7715432.0
+OKX,"SocialFi, Coinbase Ventures Portfolio, Pantera Capital Portfolio, Andreessen Horowitz (a16z) Portfolio, Sequoia Capital Portfolio",deso,87175277,89461701.0,,,N/A,8804036.0
+OKX,"Artificial Intelligence (AI), Oracle, Ethereum Ecosystem, DePIN, Energi Ecosystem, Sora Ecosystem, GMCI DePIN Index, GMCI Index",iexec-rlc,83939332,100890395.0,,,N/A,16322106.0
+OKX,"NFT, Solana Ecosystem, NFT Marketplace",tensor,83872598,250659843.0,134340.65815615666,169580.50705804024,0.12,18194394.0
+OKX,"Smart Contract Platform, Layer 1 (L1)",ong,83331664,204272780.0,,,N/A,3128367.0
+OKX,"Smart Contract Platform, Bitcoin Sidechains, Stacks Ecosystem, SideChain",sbtc-2,82772794,82772794.0,,,N/A,51150.0
+OKX,"DaoMaker Launchpad, Ethereum Ecosystem, Real World Assets (RWA), Sequoia Capital Portfolio, Made in USA",clearpool,83040298,109271320.0,,,N/A,4349508.0
+OKX,"Solana Ecosystem, Polygon Ecosystem, DePIN, Pantera Capital Portfolio",geodnet,82391519,256993056.0,,,N/A,260490.0
+OKX,"Smart Contract Platform, Polkadot Ecosystem, Layer 1 (L1), Coinbase Ventures Portfolio, Binance Labs Portfolio",moonbeam,82520139,100488156.0,6503.8412930288605,18641.918890383706,0.12,4888531.0
+OKX,Ethereum Ecosystem,dkargo,81805266,87274466.0,,,N/A,1332005.0
+OKX,BNB Chain Ecosystem,metfi-2,82149947,192359481.0,,,N/A,390978.0
+OKX,"Artificial Intelligence (AI), Smart Contract Platform, Gaming (GameFi), NFT, BNB Chain Ecosystem, Layer 1 (L1), Ethereum Ecosystem, Modular Blockchain, Chromia Ecosystem",chromaway,82591004,82591004.0,,,N/A,10559185.0
+OKX,"Berachain Ecosystem, Bridged USDT, Bridged-Tokens, Ink Ecosystem, Bridged Stablecoins",usdt0,81096547,81096547.0,,,N/A,942476.0
+OKX,BNB Chain Ecosystem,bitdca,80757189,86740832.0,,,N/A,21045.0
+OKX,"Stablecoins, Decentralized Finance (DeFi), Lending/Borrowing Protocols, Ethereum Ecosystem",syrupusdc,80265494,80271778.0,,,N/A,276467.0
+OKX,"Smart Contract Platform, Gaming (GameFi), NFT, Layer 1 (L1), Play To Earn, Ethereum Ecosystem, Animoca Brands Portfolio, Gaming Blockchains, Pantera Capital Portfolio, OKX Ventures Portfolio",wax,80927498,87075498.0,10498.937283961213,13034.581456452157,0.09,6147795.0
+OKX,"Smart Contract Platform, Layer 2 (L2), eGirl Capital Portfolio, Paradigm Portfolio, Blast Ecosystem",blast,81048780,306537500.0,,,N/A,13206344.0
+OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem",avalon-2,77910095,480185479.0,,,N/A,142921543.0
+OKX,"Gaming (GameFi), Play To Earn, Ethereum Ecosystem, RPG, Alameda Research Portfolio, Circle Ventures Portfolio, OKX Ventures Portfolio, MMO",big-time,80486718,227282483.0,144548.03348134118,191250.18427352712,0.07,49333668.0
+OKX,"Stablecoins, USD Stablecoin, Solana Ecosystem, Ethereum Ecosystem, Multicoin Capital Portfolio, Fiat-backed Stablecoin",paxos-standard,79234360,79234360.0,,,N/A,2929518.0
+OKX,"Artificial Intelligence (AI), Virtual Reality, Launchpad, Ethereum Ecosystem, Telegram Apps, Discord Bots, PAAL AI Launchpad, AI Agents, AI Applications, AI Agent Launchpad, Binance Alpha Spotlight, AI Framework, DeFAI, Made in USA",paal-ai,78847899,88691540.0,,,N/A,6650131.0
+OKX,"Gaming (GameFi), NFT, BNB Chain Ecosystem, Metaverse, Collectibles, Polygon Ecosystem, Play To Earn, Harmony Ecosystem, Guild and Scholarship, Ethereum Ecosystem, Animoca Brands Portfolio, Base Ecosystem, DWF Labs Portfolio, Ronin Ecosystem, Andreessen Horowitz (a16z) Portfolio, Delphi Ventures Portfolio",yield-guild-games,79505880,193674241.0,27154.79114925711,73505.81728042514,0.1,20018067.0
+OKX,"Internet of Things (IOT), BNB Chain Ecosystem, Ethereum Ecosystem, DePIN, DWF Labs Portfolio",mass-vehicle-ledger,78784963,83277897.0,,,N/A,413368.0
+OKX,"Exchange-based Tokens, Centralized Exchange (CEX) Token, Near Protocol Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Multicoin Capital Portfolio, Alameda Research Portfolio, Elastos Smart Contract Chain Ecosystem, Sequoia Capital Portfolio, Made in China",huobi-token,77986123,98359550.0,,,N/A,14014.11
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), Solana Ecosystem, Coinbase Ventures Portfolio, DeFiance Capital Portfolio, Made in USA",orca,78500688,147345635.0,,,N/A,30597684.0
+OKX,"Blast Ecosystem, Bridged WETH, Bridged-Tokens",l2-standard-bridged-weth-blast,77977886,77487108.0,,,N/A,357101.0
+OKX,"Smart Contract Platform, Wallets, Layer 2 (L2), Osmosis Ecosystem",islamic-coin,78029982,943842850.0,,,N/A,1112294.0
+OKX,Smart Contract Platform,songbird,77416847,91988613.0,,,N/A,323160.0
+OKX,"Meme, Ethereum Ecosystem, PolitiFi",constitutiondao,77204346,77204346.0,61869.89751975258,174047.717037971,0.07,37774729.0
+OKX,"Gaming (GameFi), Play To Earn, Guild and Scholarship, Ethereum Ecosystem, Animoca Brands Portfolio, Base Ecosystem, DWF Labs Portfolio, Ronin Ecosystem, Coinbase Ventures Portfolio, DeFiance Capital Portfolio, Pantera Capital Portfolio, Binance Labs Portfolio, MMO",zentry,77069695,113142296.0,36731.97308302497,47142.08675682896,0.17,11900313.0
+OKX,"Smart Contract Platform, Privacy, Proof of Work (PoW), Made in USA",verge,76968924,77122885.0,,,N/A,8139651.0
+OKX,"Exchange-based Tokens, Centralized Exchange (CEX) Token, Ethereum Ecosystem",bitmart-token,76182211,143518254.0,,,N/A,4050512.0
+OKX,"Sports, BNB Chain Ecosystem",pixer-eternity,75777503,352145244.0,,,N/A,159186.0
+OKX,"Stablecoins, USD Stablecoin, BNB Chain Ecosystem, Fantom Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Crypto-backed Stablecoin, Fiat-backed Stablecoin",dola-usd,75742838,203797780.0,,,N/A,4458384.0
+OKX,"Artificial Intelligence (AI), BNB Chain Ecosystem, Solana Ecosystem, Ethereum Ecosystem, AI Agents, Alameda Research Portfolio",delysium,76691185,146465675.0,,,N/A,2652263.0
+OKX,"Ethereum Ecosystem, Stablecoin Protocol",level-usd,75813192,75813192.0,,,N/A,363359.0
+OKX,"Software as a service, Polygon Ecosystem, Ethereum Ecosystem, Decentralized Identifier (DID), Pantera Capital Portfolio, Energi Ecosystem, Blockchain Capital Portfolio",civic,76101763,94889977.0,13667.68652299117,30402.237432787635,0.05,10917555.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Osmosis Ecosystem, XRP Ledger Ecosystem",coreum,74922485,74922485.0,,,N/A,330564.0
+OKX,"Smart Contract Platform, Proof of Stake (PoS)",stratis,75594253,83293121.0,,,N/A,850960.0
+OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem",elixir-finance,74392033,465942723.0,,,N/A,50976388.0
+OKX,"Artificial Intelligence (AI), Smart Contract Platform, Decentralized Finance (DeFi), Analytics, NFT, BNB Chain Ecosystem, Launchpad, Ethereum Ecosystem, Telegram Apps, Discord Bots, ChainGPT Launchpad, Poolz Finance Launchpad, AI Agents, AI Applications, Binance Alpha Spotlight, AI Framework, DeFAI",chaingpt,75384997,93625434.0,,,N/A,37778034.0
+OKX,"Smart Contract Platform, Cosmos Ecosystem, Modular Blockchain, Osmosis Ecosystem, Rollups-as-a-Service (RaaS)",dymension,74936636,298726960.0,,,N/A,8738982.0
+OKX,"Decentralized Finance (DeFi), Wallets, Ethereum Ecosystem, Pundi AIFX Omnilayer Ecosystem",pundi-x-2,75012107,75012107.0,,,N/A,10996356.0
+OKX,"Optimism Ecosystem, Bridged WBTC, Bridged-Tokens",optimism-bridged-wbtc-optimism,74599403,74599403.0,,,N/A,3692300.0
+OKX,"Smart Contract Platform, Gaming (GameFi), Layer 1 (L1), Proof of Stake (PoS), Gaming Blockchains",oasys,74291107,192760609.0,2411.053451200603,3235.799933087845,0.16,507567.0
+OKX,"Stablecoins, USD Stablecoin, Osmosis Ecosystem, Fiat-backed Stablecoin",usdx,73701252,73701252.0,,,N/A,21319.0
+OKX,"Meme, Ethereum Ecosystem, Mantle Ecosystem",puff-the-dragon,73165157,73165157.0,,,N/A,93019.0
+OKX,"Artificial Intelligence (AI), Infrastructure, Ethereum Ecosystem, AI Framework, Made in USA",arcblock,73446288,138577901.0,,,N/A,759495.0
+OKX,"BNB Chain Ecosystem, Solana Ecosystem, Polygon Ecosystem, Meme, Ethereum Ecosystem, Cronos Ecosystem, Dog-Themed, Elon Musk-Inspired, Fuse Ecosystem",dogelon-mars,73154779,133093392.0,5958.8286455406405,14240.06435560349,0.15,6091340.0
+OKX,"Exchange-based Tokens, Centralized Exchange (CEX) Token, Ethereum Ecosystem",hashkey-ecopoints,72809668,549506926.0,,,N/A,2271913.0
+OKX,"Artificial Intelligence (AI), Launchpad, Base Ecosystem, AI Applications, Clanker Ecosystem, Binance Alpha Spotlight",tokenbot-2,71943112,71943112.0,,,N/A,6934581.0
+OKX,"Artificial Intelligence (AI), BNB Chain Ecosystem, Ethereum Ecosystem, DragonFly Capital Portfolio, Binance Labs Portfolio, Delphi Ventures Portfolio, OKX Ventures Portfolio, Binance HODLer Airdrops, AI Agent Launchpad, Binance Alpha Spotlight, AI Framework",myshell,73413539,271901997.0,,,N/A,60364709.0
+OKX,Retail,milk-alliance,72655403,163102910.0,,,N/A,9309869.0
+OKX,"Business Services, Decentralized Finance (DeFi), Oracle, Polygon Ecosystem, Gnosis Chain Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Manta Network Ecosystem, Binance Labs Portfolio, Lisk Ecosystem, Made in USA",tellor,72743193,74860062.0,32231.113974984146,54154.547709309234,0.04,23427997.0
+OKX,"Stablecoins, Decentralized Finance (DeFi), USD Stablecoin, BNB Chain Ecosystem, Polygon Ecosystem, Gnosis Chain Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, Crypto-backed Stablecoin, Fiat-backed Stablecoin",crvusd,71168034,71168034.0,,,N/A,8836100.0
+OKX,"Stablecoins, Decentralized Finance (DeFi), USD Stablecoin, BNB Chain Ecosystem, Avalanche Ecosystem, Arbitrum Ecosystem, Liquid Staking Tokens, Ethereum Ecosystem, Optimism Ecosystem, Fiat-backed Stablecoin",staked-frax,70286198,70286198.0,,,N/A,9171.88
+OKX,"Entertainment, Gaming (GameFi), NFT, Axie Infinity Ecosystem, Play To Earn, Ethereum Ecosystem, Ronin Ecosystem, Gaming Utility Token",smooth-love-potion,70827701,70827701.0,8264.790791201203,19110.96133021419,0.12,8531547.0
+OKX,"Gaming (GameFi), Play To Earn, TON Ecosystem, Tap to Earn, Arcade Games",watcoin-2,70476395,78241494.0,,,N/A,820881.0
+OKX,"Decentralized Finance (DeFi), Lending/Borrowing Protocols, Ethereum Ecosystem, Real World Assets (RWA), Coinbase Ventures Portfolio, Andreessen Horowitz (a16z) Portfolio, RWA Protocol, Made in USA",goldfinch,70156355,86779504.0,,,N/A,611963.0
+OKX,"Gaming (GameFi), NFT, Collectibles, Play To Earn, Ethereum Ecosystem, Base Ecosystem, Energi Ecosystem",ecomi,69596559,79853186.0,3222.615270237305,7061.208787188103,0.08,1907154.0
 OKX,"Tokenized Assets, Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Real World Assets (RWA), Starknet Ecosystem, Tokenized Treasury Bills (T-Bills)",spiko-us-t-bills-money-market-fund,69530892,69530892.0,,,N/A,0.0
-OKX,"Entertainment, Gaming (GameFi), NFT, Axie Infinity Ecosystem, Play To Earn, Ethereum Ecosystem, Ronin Ecosystem, Gaming Utility Token",smooth-love-potion,69462201,69462201.0,10654.220681807134,16437.889036314147,0.18,8449881.0
-OKX,"Lending/Borrowing Protocols, Solana Ecosystem, FTX Holdings, Coinbase Ventures Portfolio, Alameda Research Portfolio, DragonFly Capital Portfolio",solend,69360419,137087973.0,,,N/A,9325.1
-OKX,"Gaming (GameFi), NFT, Collectibles, Play To Earn, Ethereum Ecosystem, Base Ecosystem, Energi Ecosystem",ecomi,69544495,79793450.0,2791.3185728473436,9023.985234526745,0.12,1869433.0
-OKX,"Smart Contract Platform, Layer 1 (L1), DWF Labs Portfolio, Radix Ecosystem",radix,69079542,84588172.0,,,N/A,1360964.0
-OKX,"NFT, Ethereum Ecosystem",superrare,67919031,84859443.0,,,N/A,117569053.0
-OKX,"Artificial Intelligence (AI), Solana Ecosystem, DePIN",nosana,67658044,81124753.0,,,N/A,883748.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), BNB Chain Ecosystem, Avalanche Ecosystem, Arbitrum Ecosystem, Mantle Ecosystem, DeFiance Capital Portfolio, Delphi Ventures Portfolio, Dex Aggregator",joe,68068012,87169135.0,24565.669919777145,28374.436895408508,0.17,7737932.0
-OKX,"Optimism Ecosystem, Bridged WETH, Bridged-Tokens",l2-standard-bridged-weth-optimism,67690735,67690735.0,,,N/A,14844346.0
+OKX,"Lending/Borrowing Protocols, Solana Ecosystem, FTX Holdings, Coinbase Ventures Portfolio, Alameda Research Portfolio, DragonFly Capital Portfolio",solend,69360419,137087973.0,,,N/A,9212.46
+OKX,"Smart Contract Platform, Polkadot Ecosystem, Layer 1 (L1), DePIN, Outlier Ventures Portfolio",peaq-2,70417189,412739703.0,,,N/A,11574869.0
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), BNB Chain Ecosystem, Avalanche Ecosystem, Arbitrum Ecosystem, Mantle Ecosystem, DeFiance Capital Portfolio, Delphi Ventures Portfolio, Dex Aggregator",joe,69896650,89510923.0,20410.179740515094,12748.550551488055,0.17,7923099.0
+OKX,"Smart Contract Platform, Layer 1 (L1), DWF Labs Portfolio, Radix Ecosystem",radix,68969435,84453297.0,,,N/A,1477242.0
+OKX,"Ethereum Ecosystem, DePIN",dent,69020397,72155586.0,,,N/A,5675001.0
+OKX,"NFT, Ethereum Ecosystem",superrare,68919290,86109188.0,,,N/A,117465812.0
+OKX,"Optimism Ecosystem, Bridged WETH, Bridged-Tokens",l2-standard-bridged-weth-optimism,68654764,68680900.0,,,N/A,41767317.0
+OKX,"Smart Contract Platform, Gaming (GameFi), NFT, Binance Launchpool, Arbitrum Ecosystem, Layer 3 (L3), XAI Ecosystem, Gaming Blockchains, Outlier Ventures Portfolio",xai-blockchain,68198483,100386377.0,,,N/A,32617625.0
+OKX,"Smart Contract Platform, Ethereum Ecosystem, Layer 2 (L2), Zero Knowledge (ZK), Rollup, OKX Ventures Portfolio",taiko,68263692,645547259.0,,,N/A,16209830.0
+OKX,"Artificial Intelligence (AI), Ethereum Ecosystem",0x0-ai-ai-smart-contract,67383960,67383960.0,,,N/A,185152.0
+OKX,"Artificial Intelligence (AI), Solana Ecosystem, DePIN",nosana,67826554,81326803.0,,,N/A,871114.0
+OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), BNB Chain Ecosystem, Binance Launchpool, Polygon Ecosystem, Near Protocol Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, DWF Labs Portfolio, Coinbase Ventures Portfolio, Alameda Research Portfolio, DeFiance Capital Portfolio, Pantera Capital Portfolio, Aurora Ecosystem, Energi Ecosystem, Binance Labs Portfolio, Galaxy Digital Portfolio",dodo,68120691,68120691.0,,,N/A,7027684.0
 OKX,"Solana Ecosystem, Wallets, Base Ecosystem, TON Ecosystem",bitget-wallet-token,67182897,470072637.0,,,N/A,3631.06
-OKX,"Ethereum Ecosystem, DePIN",dent,67362404,70422279.0,,,N/A,3033346.0
-OKX,"Decentralized Finance (DeFi), Solana Ecosystem, Real World Assets (RWA), Payment Solutions, DePIN, Coinbase Ventures Portfolio, Alameda Research Portfolio, Circle Ventures Portfolio, OKX Ventures Portfolio, RWA Protocol, Made in USA",zebec-network,66370885,89570710.0,6220.790080907978,9670.607171401509,0.12,18987202.0
-OKX,"Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), BNB Chain Ecosystem, Binance Launchpool, Polygon Ecosystem, Near Protocol Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, DWF Labs Portfolio, Coinbase Ventures Portfolio, Alameda Research Portfolio, DeFiance Capital Portfolio, Pantera Capital Portfolio, Aurora Ecosystem, Energi Ecosystem, Binance Labs Portfolio, Galaxy Digital Portfolio",dodo,66663688,66663688.0,,,N/A,4956622.0
-OKX,"Smart Contract Platform, Gaming (GameFi), NFT, Binance Launchpool, Arbitrum Ecosystem, Layer 3 (L3), XAI Ecosystem, Gaming Blockchains, Outlier Ventures Portfolio",xai-blockchain,66770585,98283551.0,,,N/A,32403107.0
-OKX,"Smart Contract Platform, Ethereum Ecosystem, Layer 2 (L2), Zero Knowledge (ZK), Rollup, OKX Ventures Portfolio",taiko,66533967,629189820.0,,,N/A,16300878.0
-OKX,"Artificial Intelligence (AI), BNB Chain Ecosystem, Ethereum Ecosystem, DePIN, AI Agents",netmind-token,66256522,210954189.0,,,N/A,1674748.0
-OKX,Ethereum Ecosystem,saasgo,66247094,82808867.0,,,N/A,293518.0
-OKX,"Artificial Intelligence (AI), Ethereum Ecosystem",0x0-ai-ai-smart-contract,66574814,66574814.0,,,N/A,192427.0
-OKX,"Stablecoins, USD Stablecoin, Seigniorage, Alleged SEC Securities, Osmosis Ecosystem, Stablecoin Protocol, DeFiance Capital Portfolio, Terra Classic Ecosystem, Binance Labs Portfolio, Delphi Ventures Portfolio, Galaxy Digital Portfolio, Fiat-backed Stablecoin",terrausd,66066404,93600089.0,18946.15379624031,55445.35688145253,0.17,6846737.0
-OKX,"Artificial Intelligence (AI), Decentralized Finance (DeFi), Solana Ecosystem, Arbitrum Ecosystem, Metis Ecosystem, AI Agents, Sonic Ecosystem, IOTA EVM Ecosystem, AI Applications, DeFAI",heyanon,65756234,108360061.0,,,N/A,4624113.0
-OKX,"Decentralized Finance (DeFi), Oracle, Ethereum Ecosystem, DWF Labs Portfolio, Pantera Capital Portfolio",api3,65663942,81945734.0,11101.295914549919,28936.191222921338,0.04,13497333.0
-OKX,"Decentralized Finance (DeFi), Lending/Borrowing Protocols, Arbitrum Ecosystem, Ethereum Ecosystem, Alameda Research Portfolio, Pantera Capital Portfolio",liquity,65738424,67583013.0,55567.6267183637,69236.94429992726,0.1,23086041.0
-OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem, Restaking",kelp-gain,65083428,65083428.0,,,N/A,402881.0
-OKX,"Artificial Intelligence (AI), Cardano Ecosystem, Ethereum Ecosystem, AI Agents, Sora Ecosystem",singularitynet,64871701,98011770.0,,,N/A,73864.0
-OKX,"Meme, Dog-Themed, TON Ecosystem, TON Meme",dogs-2,64611922,68769341.0,43701.22964633843,86105.28796604693,0.16,17207801.0
-OKX,SocialFi,steem,64245760,64251747.0,,,N/A,14381370.0
-OKX,"Artificial Intelligence (AI), Business Services, Decentralized Finance (DeFi), Ethereum Ecosystem, Paradigm Portfolio, DragonFly Capital Portfolio, Energi Ecosystem",numeraire,64620853,86537840.0,7072.110162029402,17408.486684513922,0.12,6199169.0
-OKX,"Decentralized Finance (DeFi), Lending/Borrowing Protocols, Solana Ecosystem, Binance Alpha Spotlight",kamino,64506438,477825469.0,,,N/A,9131566.0
-OKX,"Stablecoins, USD Stablecoin, Fiat-backed Stablecoin",falcon-finance,64166559,64166559.0,,,N/A,25318.0
-OKX,"BNB Chain Ecosystem, Binance Megadrop, BTCfi",solv-protocol,63357080,358963625.0,,,N/A,163600880.0
-OKX,E-commerce,pay-coin,63806081,118555004.0,,,N/A,3293554.0
-OKX,"Healthcare, Osmosis Ecosystem",medibloc,63849060,69157375.0,,,N/A,227158.0
-OKX,"Artificial Intelligence (AI), Smart Contract Platform, Layer 1 (L1), Ethereum Ecosystem, Osmosis Ecosystem, AI Agents, AI Agent Launchpad",humans-ai,63460619,63460619.0,,,N/A,72815.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Ethereum Ecosystem, Proof of Stake (PoS)",pundi-aifx,64052577,64053532.0,,,N/A,255129.0
-OKX,"Polkadot Ecosystem, Real World Assets (RWA), Coinbase Ventures Portfolio, Circle Ventures Portfolio, Galaxy Digital Portfolio, RWA Protocol",centrifuge,62976653,69050852.0,1811.590759674345,1944.1888111931328,0.16,1276706.0
-OKX,"Decentralized Finance (DeFi), Liquid Staking Tokens, Ethereum Ecosystem, LSDFi, Liquid Staked ETH, Liquid Staking",origin-ether,62902082,62902082.0,,,N/A,111607.0
-OKX,"Smart Contract Platform, Binance Launchpool, Layer 2 (L2), Scroll Ecosystem",scroll,62818925,330625922.0,3017.457304506377,15288.475823728373,0.12,18328141.0
-OKX,"Solana Ecosystem, Meme, Pump.fun Ecosystem",der-daku,62369592,62369592.0,,,N/A,208615.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Proof of Work (PoW), Privacy Blockchain",ergo,61836453,75506271.0,,,N/A,75835.0
-OKX,"Solana Ecosystem, Restaking, Liquid Restaking Tokens, Liquid Restaked SOL",renzo-restaked-sol,60782498,60781580.0,,,N/A,107658.0
-OKX,"Artificial Intelligence (AI), Decentralized Finance (DeFi), Ethereum Ecosystem, DePIN",pinlink,60681648,75852061.0,,,N/A,1618841.0
-OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Solana Ecosystem, Wallets, Polygon Ecosystem, Ethereum Ecosystem, Binance Launchpad, DWF Labs Portfolio, Multicoin Capital Portfolio, Alameda Research Portfolio, Viction Ecosystem, Binance Labs Portfolio",coin98,61372664,68128778.0,,,N/A,31739130.0
-OKX,"Exchange-based Tokens, BNB Chain Ecosystem, Centralized Exchange (CEX) Token, Polygon Ecosystem, Ethereum Ecosystem",bit2me,60597608,61209705.0,,,N/A,91133.0
-OKX,"Stablecoins, USD Stablecoin, Ethereum Ecosystem, Fiat-backed Stablecoin",binance-usd,60563909,60563909.0,,,N/A,271479.0
-OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Sui Ecosystem, Animoca Brands Portfolio, OKX Ventures Portfolio, Dex Aggregator",cetus-protocol,60505143,88632029.0,38143.09696551941,44359.5616615154,0.05,15061908.0
-OKX,"Stablecoins, USD Stablecoin, Arbitrum Ecosystem, Ethereum Ecosystem, Fiat-backed Stablecoin",lift-dollar,60185675,60185675.0,,,N/A,658303.0
-OKX,"Smart Contract Platform, Layer 1 (L1), Proof of Work (PoW), Made in USA",quai-network,59489970,370484002.0,,,N/A,6878421.0
-OKX,"Base Ecosystem, Cybersecurity, Binance Labs Portfolio, OKX Ventures Portfolio, Binance Alpha Spotlight",goplus-security,59994399,330839302.0,,,N/A,29197964.0
-OKX,"Artificial Intelligence (AI), Solana Ecosystem, Polygon Ecosystem, Gnosis Chain Ecosystem, Arbitrum Ecosystem, Celo Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, AI Agents, Mode Ecosystem, AI Agent Launchpad, Binance Alpha Spotlight, AI Framework, DeFAI",autonolas,59409333,173774574.0,,,N/A,414381.0
-OKX,"SocialFi, Solana Ecosystem",access-protocol,59462615,129099235.0,,,N/A,1046058.0
-OKX,"Infrastructure, Smart Contract Platform, BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Layer 2 (L2), Base Ecosystem, Binance Launchpad, Modular Blockchain, Layer 3 (L3), Rollup, Proof of Stake (PoS), Appchains, Binance Labs Portfolio",cartesi,59017591,68687257.0,,,N/A,6435909.0
-OKX,"Decentralized Finance (DeFi), Rebase Tokens, BNB Chain Ecosystem, Avalanche Ecosystem, Near Protocol Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Pantera Capital Portfolio, Energi Ecosystem",ampleforth,59184103,64216140.0,,,N/A,548159.0
-OKX,,ark,59293183,59800343.0,,,N/A,5359130.0
-OKX,"Smart Contract Platform, Layer 2 (L2), Made in USA",metal,59129343,59129343.0,,,N/A,658684.0
-OKX,"Gaming (GameFi), Ethereum Ecosystem, Telegram Apps, Gaming Platform",gamebuild,58746872,73954107.0,,,N/A,19642976.0
-OKX,"Storage, Arbitrum Ecosystem",autonomi,58165119,150943580.0,,,N/A,216506.0
-OKX,"Artificial Intelligence (AI), Infrastructure, Gaming (GameFi), NFT, Solana Ecosystem, Arbitrum Ecosystem, Impossible Finance Launchpad, Ethereum Ecosystem, Animoca Brands Portfolio, Base Ecosystem",carv,58032042,290029452.0,,,N/A,10270588.0
-OKX,"Artificial Intelligence (AI), Infrastructure, Solana Ecosystem, Meme, AI Agents, Pump.fun Ecosystem, AI Agent Launchpad, Binance Alpha Spotlight, AI Framework",ai-rig-complex,56286392,56286392.0,,,N/A,18097878.0
-OKX,"Infrastructure, Smart Contract Platform",ardor,57260051,57260051.0,,,N/A,6294397.0
+OKX,"Stablecoins, USD Stablecoin, Seigniorage, Alleged SEC Securities, Osmosis Ecosystem, Stablecoin Protocol, DeFiance Capital Portfolio, Terra Classic Ecosystem, Binance Labs Portfolio, Delphi Ventures Portfolio, Galaxy Digital Portfolio, Fiat-backed Stablecoin",terrausd,95284179,95350597.0,33769.113006742264,64079.648679527025,0.16,6933049.0
+OKX,"Decentralized Finance (DeFi), Oracle, Ethereum Ecosystem, DWF Labs Portfolio, Pantera Capital Portfolio",api3,67176532,83833381.0,11585.644353486829,27931.77400432079,0.09,13463857.0
+OKX,"Artificial Intelligence (AI), Decentralized Finance (DeFi), Solana Ecosystem, Arbitrum Ecosystem, Metis Ecosystem, AI Agents, Sonic Ecosystem, IOTA EVM Ecosystem, AI Applications, DeFAI",heyanon,66838651,110143782.0,,,N/A,4851711.0
+OKX,"Decentralized Finance (DeFi), Lending/Borrowing Protocols, Arbitrum Ecosystem, Ethereum Ecosystem, Alameda Research Portfolio, Pantera Capital Portfolio",liquity,67057299,68938896.0,57105.88715527475,73078.10732449063,0.1,23481602.0
+OKX,"Decentralized Finance (DeFi), Solana Ecosystem, Real World Assets (RWA), Payment Solutions, DePIN, Coinbase Ventures Portfolio, Alameda Research Portfolio, Circle Ventures Portfolio, OKX Ventures Portfolio, RWA Protocol, Made in USA",zebec-network,67113572,90573001.0,7622.189070371179,9606.952563778303,0.07,18994708.0
+OKX,Ethereum Ecosystem,saasgo,66171703,82714629.0,,,N/A,294729.0
+OKX,"Artificial Intelligence (AI), Cardano Ecosystem, Ethereum Ecosystem, AI Agents, Sora Ecosystem",singularitynet,66617788,100650177.0,,,N/A,73766.0
+OKX,"Decentralized Finance (DeFi), Ethereum Ecosystem, Restaking",kelp-gain,66029701,66029701.0,,,N/A,408320.0
+OKX,"Meme, Dog-Themed, TON Ecosystem, TON Meme",dogs-2,66188330,70447182.0,45865.56710269923,88505.32151103545,0.08,17223018.0
+OKX,"BNB Chain Ecosystem, Binance Megadrop, BTCfi",solv-protocol,66147522,374773495.0,,,N/A,175283136.0
+OKX,"Decentralized Finance (DeFi), Lending/Borrowing Protocols, Solana Ecosystem, Binance Alpha Spotlight",kamino,65542427,485499456.0,,,N/A,9108676.0
+OKX,"Artificial Intelligence (AI), Business Services, Decentralized Finance (DeFi), Ethereum Ecosystem, Paradigm Portfolio, DragonFly Capital Portfolio, Energi Ecosystem",numeraire,66033614,88429756.0,6013.973965875364,12378.126785224922,0.24,6558814.0
+OKX,SocialFi,steem,65366504,65373853.0,,,N/A,14215920.0
+OKX,"Artificial Intelligence (AI), BNB Chain Ecosystem, Ethereum Ecosystem, DePIN, AI Agents",netmind-token,63938061,203572443.0,,,N/A,1844791.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Ethereum Ecosystem, Proof of Stake (PoS)",pundi-aifx,64674185,64674185.0,,,N/A,246366.0
+OKX,"Stablecoins, USD Stablecoin, Fiat-backed Stablecoin",falcon-finance,64167357,64167357.0,,,N/A,25070.0
+OKX,"Healthcare, Osmosis Ecosystem",medibloc,63842666,69150450.0,,,N/A,223344.0
+OKX,E-commerce,pay-coin,63824168,118588611.0,,,N/A,2833781.0
+OKX,"Artificial Intelligence (AI), Smart Contract Platform, Layer 1 (L1), Ethereum Ecosystem, Osmosis Ecosystem, AI Agents, AI Agent Launchpad",humans-ai,64817307,64817307.0,,,N/A,75528.0
+OKX,"Smart Contract Platform, Binance Launchpool, Layer 2 (L2), Scroll Ecosystem",scroll,64424531,339076477.0,145448.83779426757,179844.84606089068,0.09,18629145.0
+OKX,"Decentralized Finance (DeFi), Liquid Staking Tokens, Ethereum Ecosystem, LSDFi, Liquid Staked ETH, Liquid Staking",origin-ether,63780596,63780596.0,,,N/A,118578.0
+OKX,"Polkadot Ecosystem, Real World Assets (RWA), Coinbase Ventures Portfolio, Circle Ventures Portfolio, Galaxy Digital Portfolio, RWA Protocol",centrifuge,63230922,69329646.0,2719.6652965028675,3613.3624397076173,0.16,1230855.0
+OKX,"Smart Contract Platform, Layer 1 (L1), Proof of Work (PoW), Privacy Blockchain",ergo,62670859,76524720.0,,,N/A,70805.0
+OKX,"Solana Ecosystem, Meme, Pump.fun Ecosystem",der-daku,62623956,62623956.0,,,N/A,210650.0
+OKX,"Decentralized Finance (DeFi), BNB Chain Ecosystem, Solana Ecosystem, Wallets, Polygon Ecosystem, Ethereum Ecosystem, Binance Launchpad, DWF Labs Portfolio, Multicoin Capital Portfolio, Alameda Research Portfolio, Viction Ecosystem, Binance Labs Portfolio",coin98,62724881,69629851.0,,,N/A,31529153.0
+OKX,"Solana Ecosystem, Restaking, Liquid Restaking Tokens, Liquid Restaked SOL",renzo-restaked-sol,61905535,61905535.0,,,N/A,1049147.0
+OKX,"Decentralized Exchange (DEX), Decentralized Finance (DeFi), Sui Ecosystem, Animoca Brands Portfolio, OKX Ventures Portfolio, Dex Aggregator",cetus-protocol,62214360,91135290.0,38476.98949218826,49359.07708599315,0.07,15225694.0
+OKX,"Base Ecosystem, Cybersecurity, Binance Labs Portfolio, OKX Ventures Portfolio, Binance Alpha Spotlight",goplus-security,61781995,340697008.0,,,N/A,29386263.0
+OKX,"Stablecoins, USD Stablecoin, Ethereum Ecosystem, Fiat-backed Stablecoin",binance-usd,60559643,60559643.0,,,N/A,271323.0
+OKX,"Infrastructure, Smart Contract Platform, BNB Chain Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Layer 2 (L2), Base Ecosystem, Binance Launchpad, Modular Blockchain, Layer 3 (L3), Rollup, Proof of Stake (PoS), Appchains, Binance Labs Portfolio",cartesi,60691011,70634619.0,,,N/A,8988920.0
+OKX,"Artificial Intelligence (AI), Decentralized Finance (DeFi), Ethereum Ecosystem, DePIN",pinlink,60495489,75619361.0,,,N/A,1599823.0
+OKX,"Exchange-based Tokens, BNB Chain Ecosystem, Centralized Exchange (CEX) Token, Polygon Ecosystem, Ethereum Ecosystem",bit2me,59727318,60330624.0,,,N/A,91343.0
+OKX,"Stablecoins, USD Stablecoin, Arbitrum Ecosystem, Ethereum Ecosystem, Fiat-backed Stablecoin",lift-dollar,60186087,60186087.0,,,N/A,658303.0
+OKX,,ark,60353961,60870465.0,,,N/A,5314344.0
+OKX,"Artificial Intelligence (AI), Solana Ecosystem, Polygon Ecosystem, Gnosis Chain Ecosystem, Arbitrum Ecosystem, Celo Ecosystem, Ethereum Ecosystem, Optimism Ecosystem, Base Ecosystem, AI Agents, Mode Ecosystem, AI Agent Launchpad, Binance Alpha Spotlight, AI Framework, DeFAI",autonolas,60213324,176126277.0,,,N/A,423056.0
+OKX,"Smart Contract Platform, Layer 2 (L2), Made in USA",metal,60274852,60274852.0,,,N/A,598353.0
+OKX,"SocialFi, Solana Ecosystem",access-protocol,59667696,129544441.0,,,N/A,853726.0
+OKX,"Decentralized Finance (DeFi), Rebase Tokens, BNB Chain Ecosystem, Avalanche Ecosystem, Near Protocol Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Pantera Capital Portfolio, Energi Ecosystem",ampleforth,59505733,64565116.0,,,N/A,544653.0
+OKX,"Gaming (GameFi), Ethereum Ecosystem, Telegram Apps, Gaming Platform",gamebuild,58932301,74187536.0,,,N/A,19973395.0
+OKX,"Solana Ecosystem, Meme, Ethereum Ecosystem, Cronos Ecosystem, Dog-Themed, AI Meme",corgiai,58533635,63469838.0,,,N/A,66548.0
+OKX,"Artificial Intelligence (AI), Infrastructure, Gaming (GameFi), NFT, Solana Ecosystem, Arbitrum Ecosystem, Impossible Finance Launchpad, Ethereum Ecosystem, Animoca Brands Portfolio, Base Ecosystem",carv,58599338,292864656.0,,,N/A,10472372.0
+OKX,"Storage, Arbitrum Ecosystem",autonomi,58251427,151167558.0,,,N/A,218507.0
+OKX,"Infrastructure, Smart Contract Platform",ardor,58379459,58379459.0,,,N/A,6298740.0
