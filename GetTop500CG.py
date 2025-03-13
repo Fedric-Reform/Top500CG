@@ -66,10 +66,10 @@ df.rename(columns={
     "total_volume": "24H Volume (USD)",
 }, inplace=True)
 
-# Save to csv
-excel_filename = "CoinGeckoTop500.csv"
-df.to_excel(excel_filename, index=False, engine="csv")
-print(f"✅ Data saved to {excel_filename}")
+# Save to CSV
+csv_filename = "CoinGeckoTop500.csv"
+df.to_csv(csv_filename, index=False, encoding="utf-8")
+print(f"✅ Data saved to {csv_filename}")
 
 # Print top 10 rows
 print(df.head(10))
