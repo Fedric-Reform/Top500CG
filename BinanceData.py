@@ -77,7 +77,7 @@ def load_coin_list(file_path):
 
 # Main function to fetch & save data
 def main():
-    input_file = "CoinGeckoTop500.xlsx"  # Change this to your input file name
+    input_file = "CoinGeckoTop500.csv"  # Change this to your input file name
 
     # Load coin list from column C
     coin_list = load_coin_list(input_file)
@@ -117,7 +117,7 @@ def main():
     df_output = pd.DataFrame(results)
 
     # Save the data to a new Excel file with a timestamp
-    output_file = f"BinanceData_{datetime.now().strftime('%Y%m%d')}.xlsx"
+    output_file = f"Top500BinanceData.csv"
     df_output.to_excel(output_file, index=False)
 
     print(f"✅ Data saved to {output_file}")
