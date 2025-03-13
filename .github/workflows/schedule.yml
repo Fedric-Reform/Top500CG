@@ -56,4 +56,4 @@ jobs:
           git add .
           git commit -m "Automated update - $(date)" || echo "No changes to commit"
           git pull --rebase origin main
-          git push https://x-access-token:${Top500_CG}@github.com/Fedric-Reform/Top500CG.git main
+          git push https://x-access-token:${GH_PAT}@github.com/Fedric-Reform/Top500CG.git main
