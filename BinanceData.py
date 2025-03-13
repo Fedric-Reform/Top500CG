@@ -81,7 +81,7 @@ def main():
     coin_list = load_coin_list(input_file)
 
     if not coin_list:
-        print("No coin IDs found in column A.")
+        print("No coin IDs found in column C.")
         return
 
     results = []
