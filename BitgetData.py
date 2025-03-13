@@ -59,11 +59,11 @@ def get_coin_categories(coin_id):
         print(f"Error fetching categories for {coin_id}: {e}")
         return "Unknown"
 
-# Function to load coin list from column C of an Excel/CSV file
+# Function to load coin list from column A of an Excel/CSV file
 def load_coin_list(file_path):
     try:
         if file_path.endswith(".csv"):
-            df = pd.read_csv(file_path, usecols=["C"])  # Extract column C
+            df = pd.read_csv(file_path, usecols=["Coin ID"])  # Extract column A
         else:
             print("Invalid file format. Use CSV or Excel.")
             return []
@@ -81,7 +81,7 @@ def main():
     coin_list = load_coin_list(input_file)
 
     if not coin_list:
-        print("No coin IDs found in column C.")
+        print("No coin IDs found in column.")
         return
 
     results = []
@@ -111,14 +111,14 @@ def main():
             "24H Volume (USD)": volume24h
         })
 
+    
     # Convert results to DataFrame
     df_output = pd.DataFrame(results)
 
-    # Save the data to a new Excel file
-    output_file = f"Top500Bitget.csv"
-    df_output.to_excel(output_file, index=False)
-
-    print(f"✅ Data saved to {output_file}")
+    # Save to CSV
+    csv_filename = "BitgetTop500.csv"
+    df_output.to_csv(csv_filename, index=False, encoding="utf-8")
+    print(f"✅ Data saved to {csv_filename}")
 
 if __name__ == "__main__":
     main()
