@@ -116,7 +116,7 @@ def main():
     df_output = pd.DataFrame(results)
 
     # Save to CSV
-    csv_filename = "CoinGeckoTop500.csv"
+    csv_filename = "BinanceTop500.csv"
     df.to_csv(csv_filename, index=False, encoding="utf-8")
     print(f"✅ Data saved to {csv_filename}")
 
