@@ -64,8 +64,6 @@ def load_coin_list(file_path):
     try:
         if file_path.endswith(".csv"):
             df = pd.read_csv(file_path, usecols=["A"])  # Extract column A
-        elif file_path.endswith(".xlsx"):
-            df = pd.read_excel(file_path, usecols="A")  # Extract column A
         else:
             print("Invalid file format. Use CSV or Excel.")
             return []
@@ -77,7 +75,7 @@ def load_coin_list(file_path):
 
 # Main function to fetch & save data
 def main():
-    input_file = "CoinGeckoTop500.xlsx"  # Change this to your input file name
+    input_file = "CoinGeckoTop500.csv"  # Change this to your input file name
 
     # Load coin list from column C
     coin_list = load_coin_list(input_file)
@@ -117,7 +115,7 @@ def main():
     df_output = pd.DataFrame(results)
 
     # Save the data to a new Excel file
-    output_file = f"Top500Binance}.xlsx"
+    output_file = f"Top500Binance}.csv"
     df_output.to_excel(output_file, index=False)
 
     print(f"✅ Data saved to {output_file}")
