@@ -43,6 +43,12 @@ jobs:
         run: |
           python GetTop500CG.py
           python BinanceData.py
+          python BitgetData.py
+          python BybitData.py
+          python GateioData.py
+          python KuCoinData.py
+          python MEXCData.py
+          python OkxData.py
 
       - name: Setup Git Config
         run: |
