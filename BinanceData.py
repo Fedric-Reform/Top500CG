@@ -117,7 +117,7 @@ def main():
 
     # Save to CSV
     csv_filename = "BinanceTop500.csv"
-    df.to_csv(csv_filename, index=False, encoding="utf-8")
+    df_output.to_csv(csv_filename, index=False, encoding="utf-8")
     print(f"✅ Data saved to {csv_filename}")
 
 if __name__ == "__main__":
