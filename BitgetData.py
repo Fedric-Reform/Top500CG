@@ -63,12 +63,12 @@ def get_coin_categories(coin_id):
 def load_coin_list(file_path):
     try:
         if file_path.endswith(".csv"):
-            df = pd.read_csv(file_path, usecols=["A"])  # Extract column A
+            df = pd.read_csv(file_path, usecols=["C"])  # Extract column C
         else:
             print("Invalid file format. Use CSV or Excel.")
             return []
         
-        return df.iloc[:, 0].dropna().tolist()  # Convert column A to list
+        return df.iloc[:, 0].dropna().tolist()  # Convert column C to list
     except Exception as e:
         print(f"Error reading file: {e}")
         return []
@@ -81,7 +81,7 @@ def main():
     coin_list = load_coin_list(input_file)
 
     if not coin_list:
-        print("No coin IDs found in column A.")
+        print("No coin IDs found in column C.")
         return
 
     results = []
