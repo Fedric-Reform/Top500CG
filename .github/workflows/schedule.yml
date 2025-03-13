@@ -44,7 +44,7 @@ jobs:
          
       - name: Commit and Push Changes
         env:
-          GITHUB_PAT: ${{ secrets.PAT_TOKEN }}
+          GITHUB_PAT: ${{ secrets.Top500_CG }}
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
