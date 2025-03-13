@@ -66,12 +66,8 @@ df.rename(columns={
     "total_volume": "24H Volume (USD)",
 }, inplace=True)
 
-# Save to CSV
-csv_filename = "coingecko_top_500_below_1b.csv"
-df.to_csv(csv_filename, index=False)
-
-# Save to Excel
-excel_filename = "CoinGeckoTop500.xlsx"
+# Save to csv
+excel_filename = "CoinGeckoTop500.csv"
 df.to_excel(excel_filename, index=False, engine="openpyxl")
 print(f"✅ Data saved to {excel_filename}")
 
