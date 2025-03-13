@@ -113,14 +113,14 @@ def main():
             "24H Volume (USD)": volume24h
         })
 
+    
     # Convert results to DataFrame
     df_output = pd.DataFrame(results)
 
-    # Save the data to a new Excel file with a timestamp
-    output_file = f"Top500BinanceData.csv"
-    df_output.to_excel(output_file, index=False)
-
-    print(f"✅ Data saved to {output_file}")
+    # Save to CSV
+    csv_filename = "CoinGeckoTop500.csv"
+    df.to_csv(csv_filename, index=False, encoding="utf-8")
+    print(f"✅ Data saved to {csv_filename}")
 
 if __name__ == "__main__":
     main()
