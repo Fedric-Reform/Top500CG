@@ -2,7 +2,7 @@ name: Scheduled Python Script
 
 on:
   schedule:
-    - cron: '0 */8 * * *'  # Runs every 8 hours
+    - cron: '0 */16 * * *'  # Runs every 8 hours
   push:
     branches:
       - main
