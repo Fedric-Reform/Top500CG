@@ -1,501 +1,501 @@
 Coin ID,Symbol,Name,Market Cap (USD),FDV (USD),24H Volume (USD)
-usdt0,usdt0,USDT0,987589708,987590974.0,85283179.0
-bonk,bonk,Bonk,975932046,1119984182.0,139211952.0
-worldcoin-wld,wld,Worldcoin,969360267,7938111192.0,123687431.0
-rocket-pool-eth,reth,Rocket Pool ETH,934592236,934592236.0,9427557.0
-immutable-x,imx,Immutable,932341213,1040074893.0,26755188.0
-blockstack,stx,Stacks,923703009,923703009.0,30892397.0
-usual-usd,usd0,Usual USD,875294781,875294781.0,14354414.0
-injective-protocol,inj,Injective,866026526,886167153.0,67912750.0
-sei-network,sei,Sei,855954955,1753157818.0,84283518.0
-binance-bridged-usdc-bnb-smart-chain,usdc,Binance Bridged USDC (BNB Smart Chain),849163729,849163729.0,57375732.0
-the-graph,grt,The Graph,848137148,958231871.0,37768646.0
-flare-networks,flr,Flare,829246909,1399864541.0,5651104.0
-theta-token,theta,Theta Network,823168448,823168448.0,20986842.0
-polygon-bridged-usdt-polygon,usdt,Polygon Bridged USDT (Polygon),814510982,814503108.0,15603731.0
-lido-dao,ldo,Lido DAO,797939590,888695638.0,64620967.0
-dexe,dexe,DeXe,780714866,1319397465.0,72941341.0
-tether-gold,xaut,Tether Gold,773923595,773923595.0,20845616.0
-berachain-bera,bera,Berachain,765925173,3549913547.0,172508028.0
-solv-protocol-solvbtc-bbn,solvbtc.bbn,Solv Protocol SolvBTC.BBN,755912816,755912816.0,331180.0
-wbnb,wbnb,Wrapped BNB,747041475,746047995.0,247311236.0
-mantle-staked-ether,meth,Mantle Staked Ether,736165900,736166050.0,2086330.0
-paypal-usd,pyusd,PayPal USD,720730292,720730292.0,46381101.0
-jito-governance-token,jto,Jito,708758935,2272491677.0,48041300.0
-curve-dao-token,crv,Curve DAO,702207436,1204325506.0,194180763.0
-gala,gala,GALA,687823471,687823471.0,61019246.0
-pax-gold,paxg,PAX Gold,686816316,686816316.0,67743872.0
-arbitrum-bridged-wbtc-arbitrum-one,wbtc,Arbitrum Bridged WBTC (Arbitrum One),684926036,684926036.0,110767773.0
-tezos,xtz,Tezos,679446012,692710379.0,16606868.0
-walrus-2,wal,Walrus,678601049,2714404198.0,272029978.0
-the-sandbox,sand,The Sandbox,666126177,817046306.0,61239595.0
-stargate-bridged-usdc-berachain,usdc.e,Stargate Bridged USDC (Berachain),654337299,654337299.0,20888189.0
-zcash,zec,Zcash,653368819,653383511.0,81611840.0
-bittorrent,btt,BitTorrent,651935303,654539483.0,19713527.0
-iota,iota,IOTA,638793035,792472746.0,20760002.0
-bitcoin-cash-sv,bsv,Bitcoin SV,635514427,635514427.0,21486496.0
-usdx-money-usdx,usdx,Stables Labs USDX,625847113,625847113.0,337698.0
-msol,msol,Marinade Staked SOL,611073089,611073089.0,19100196.0
-kaia,kaia,Kaia,608089700,608089719.0,7868585.0
-flow,flow,Flow,605081074,605081074.0,22781639.0
-renzo-restaked-eth,ezeth,Renzo Restaked ETH,578691238,578691238.0,1296751.0
-floki,floki,FLOKI,572455983,592345749.0,75779996.0
-pancakeswap-token,cake,PancakeSwap,559028910,707973752.0,104147166.0
-helium,hnt,Helium,547356275,679015484.0,3874098.0
-infrared-bera,ibera,Infrared Bera,537077186,537077186.0,559514.0
-ethereum-name-service,ens,Ethereum Name Service,536318116,1617092282.0,59242917.0
-jasmycoin,jasmy,JasmyCoin,534812357,552263896.0,48031375.0
-jupiter-staked-sol,jupsol,Jupiter Staked SOL,534090213,534090225.0,3306546.0
-honey-3,honey,Honey,526906678,526906678.0,40366924.0
-raydium,ray,Raydium,520328521,992978808.0,51525044.0
-fartcoin,fartcoin,Fartcoin,517389032,517389032.0,171947081.0
-pyth-network,pyth,Pyth Network,514582535,1419542420.0,52009298.0
-grass,grass,Grass,507501636,1842274525.0,73323458.0
-beldex,bdx,Beldex,496912752,713796608.0,3314546.0
-dydx-chain,dydx,dYdX,495172827,495172827.0,14950599.0
-true-usd,tusd,TrueUSD,494235743,494235743.0,28711213.0
-pendle,pendle,Pendle,488804517,852627820.0,111986428.0
-coredaoorg,core,Core,487723770,1026065400.0,37339432.0
-pumpbtc,pumpbtc,pumpBTC,486099520,486099520.0,314097.0
-spx6900,spx,SPX6900,485532790,485532790.0,53468562.0
-decentraland,mana,Decentraland,472092774,554276932.0,44224753.0
-resolv-usr,usr,Resolv USR,469327589,469327589.0,8115291.0
-bridged-usdc-polygon-pos-bridge,usdc.e,Bridged USDC (Polygon PoS Bridge),468022494,468022494.0,22523952.0
-axie-infinity,axs,Axie Infinity,467874732,789339668.0,22586587.0
-telcoin,tel,Telcoin,458255189,498647281.0,3200131.0
-elrond-erd-2,egld,MultiversX,458018703,458018703.0,17541134.0
-mantle-restaked-eth,cmeth,Mantle Restaked ETH,452014989,452027782.0,4215398.0
-olympus,ohm,Olympus,449260176,473217021.0,8399026.0
-ronin,ron,Ronin,444053748,716921429.0,12934529.0
-binance-peg-dogecoin,doge,Binance-Peg Dogecoin,442475055,442475055.0,1266818.0
-bitcoin-avalanche-bridged-btc-b,btc.b,Avalanche Bridged BTC (Avalanche),434881592,434881592.0,18205789.0
-apenft,nft,APENFT,432395073,436711713.0,16827917.0
-starknet,strk,Starknet,428290631,1474181321.0,27859170.0
-clbtc,clbtc,clBTC,427321249,427321249.0,7.53
-sonic-bridged-usdc-e-sonic,usdc.e,Sonic Bridged USDC.e (Sonic),426188142,426840660.0,19481738.0
-dogwifcoin,wif,dogwifhat,418002542,418002542.0,171699145.0
-l2-standard-bridged-weth-base,weth,L2 Standard Bridged WETH (Base),417394716,418382372.0,396866071.0
-thorchain,rune,THORChain,412928168,499909428.0,118044766.0
-conflux-token,cfx,Conflux,411970533,459866890.0,38608615.0
-kava,kava,Kava,410745633,410745633.0,43120934.0
-chiliz,chz,Chiliz,409763288,409767131.0,61768685.0
-super-oeth,superoethb,Super OETH,409124428,409124428.0,496424.0
-arbitrum-bridged-weth-arbitrum-one,weth,Arbitrum Bridged WETH (Arbitrum One),405956259,407254190.0,264433973.0
-hashnote-usyc,usyc,Hashnote USYC,405912588,405912588.0,37341.0
-arweave,ar,Arweave,405452110,405452110.0,26659874.0
-usdb,usdb,USDB,405441959,405441959.0,1586967.0
-compound-governance-token,comp,Compound,405336333,453396397.0,546976085.0
+bonk,bonk,Bonk,977120589,1121344547.0,223102737.0
+worldcoin-wld,wld,Worldcoin,972278143,7946923951.0,130021707.0
+usdt0,usdt0,USDT0,964216316,964216316.0,75742042.0
+blockstack,stx,Stacks,953006916,953006916.0,37801210.0
+immutable-x,imx,Immutable,952667553,1062749978.0,33483577.0
+rocket-pool-eth,reth,Rocket Pool ETH,936751819,936751819.0,3094375.0
+injective-protocol,inj,Injective,879604014,900060404.0,70715164.0
+usual-usd,usd0,Usual USD,871569655,871569655.0,13732104.0
+sei-network,sei,Sei,860630701,1762734632.0,63917878.0
+the-graph,grt,The Graph,854587684,965519736.0,41813544.0
+dexe,dexe,DeXe,848978137,1434761460.0,52390484.0
+binance-bridged-usdc-bnb-smart-chain,usdc,Binance Bridged USDC (BNB Smart Chain),848549877,848549877.0,49601920.0
+theta-token,theta,Theta Network,844429985,844429985.0,21665741.0
+flare-networks,flr,Flare,827509828,1396931848.0,8322457.0
+polygon-bridged-usdt-polygon,usdt,Polygon Bridged USDT (Polygon),814081150,814081150.0,15892849.0
+lido-dao,ldo,Lido DAO,798174262,888957001.0,66736895.0
+berachain-bera,bera,Berachain,790397906,3663339882.0,157345613.0
+tether-gold,xaut,Tether Gold,776058954,776058954.0,20773715.0
+solv-protocol-solvbtc-bbn,solvbtc.bbn,Solv Protocol SolvBTC.BBN,775897582,775897582.0,166093.0
+wbnb,wbnb,Wrapped BNB,743160603,743160603.0,156064958.0
+mantle-staked-ether,meth,Mantle Staked Ether,737809194,737809194.0,1513454.0
+walrus-2,wal,Walrus,731158587,2924634348.0,236679383.0
+jito-governance-token,jto,Jito,720973751,2311656007.0,46680107.0
+curve-dao-token,crv,Curve DAO,707037278,1212507249.0,172005274.0
+arbitrum-bridged-wbtc-arbitrum-one,wbtc,Arbitrum Bridged WBTC (Arbitrum One),700399107,700399107.0,106155400.0
+gala,gala,GALA,697991252,697991252.0,61301464.0
+tezos,xtz,Tezos,695812812,709392627.0,21213382.0
+paypal-usd,pyusd,PayPal USD,692502098,720872838.0,53631804.0
+pax-gold,paxg,PAX Gold,686903501,686903501.0,55533785.0
+the-sandbox,sand,The Sandbox,676264774,829481943.0,68081162.0
+iota,iota,IOTA,658344746,816728173.0,23324245.0
+bittorrent,btt,BitTorrent,654921772,657537881.0,20922240.0
+zcash,zec,Zcash,648845314,648875128.0,78543129.0
+bitcoin-cash-sv,bsv,Bitcoin SV,642353694,642353694.0,28601740.0
+stargate-bridged-usdc-berachain,usdc.e,Stargate Bridged USDC (Berachain),639400507,639400507.0,19386862.0
+msol,msol,Marinade Staked SOL,636216804,636216804.0,7921679.0
+kaia,kaia,Kaia,636065442,636065463.0,13561421.0
+usdx-money-usdx,usdx,Stables Labs USDX,626720608,626720608.0,382430.0
+flow,flow,Flow,613603551,613603551.0,27274003.0
+raydium,ray,Raydium,580165812,1107206987.0,93504430.0
+renzo-restaked-eth,ezeth,Renzo Restaked ETH,579911716,579911716.0,1279540.0
+floki,floki,FLOKI,575076838,595058158.0,91333837.0
+pancakeswap-token,cake,PancakeSwap,564583788,715005316.0,86804962.0
+infrared-bera,ibera,Infrared Bera,560490204,560490204.0,883321.0
+helium,hnt,Helium,556533008,690399556.0,5986281.0
+jupiter-staked-sol,jupsol,Jupiter Staked SOL,554178727,554178727.0,3821044.0
+ethereum-name-service,ens,Ethereum Name Service,545325528,1644251193.0,85226174.0
+fartcoin,fartcoin,Fartcoin,544409728,544409728.0,174049998.0
+pyth-network,pyth,Pyth Network,531103450,1465117498.0,43543196.0
+jasmycoin,jasmy,JasmyCoin,528664061,545914974.0,67744795.0
+grass,grass,Grass,527927612,1916422574.0,71879823.0
+honey-3,honey,Honey,526902785,526902785.0,49355000.0
+pendle,pendle,Pendle,519323621,906014596.0,152429506.0
+spx6900,spx,SPX6900,510007835,510007835.0,39102613.0
+beldex,bdx,Beldex,506081645,726966423.0,4160835.0
+pumpbtc,pumpbtc,pumpBTC,497225699,497225699.0,302564.0
+coredaoorg,core,Core,496938410,1045451548.0,30176296.0
+dydx-chain,dydx,dYdX,495598095,495598095.0,17855493.0
+true-usd,tusd,TrueUSD,494503928,494503928.0,34536804.0
+decentraland,mana,Decentraland,472772000,555074471.0,51468875.0
+axie-infinity,axs,Axie Infinity,468931017,791020238.0,25857479.0
+telcoin,tel,Telcoin,468459539,509751075.0,2752678.0
+bridged-usdc-polygon-pos-bridge,usdc.e,Bridged USDC (Polygon PoS Bridge),468010313,468010313.0,18400447.0
+resolv-usr,usr,Resolv USR,467642631,467642631.0,4345808.0
+elrond-erd-2,egld,MultiversX,463976099,463976099.0,17270700.0
+mantle-restaked-eth,cmeth,Mantle Restaked ETH,452925354,452925354.0,3038956.0
+binance-peg-dogecoin,doge,Binance-Peg Dogecoin,450917936,450917936.0,2515135.0
+olympus,ohm,Olympus,447516117,449923121.0,4390361.0
+ronin,ron,Ronin,446592462,721020163.0,11534995.0
+bitcoin-avalanche-bridged-btc-b,btc.b,Avalanche Bridged BTC (Avalanche),444512872,444512872.0,19691730.0
+conflux-token,cfx,Conflux,433384698,483768231.0,72123162.0
+apenft,nft,APENFT,432875165,437196598.0,23364969.0
+clbtc,clbtc,clBTC,431566695,431566695.0,3.69
+sonic-bridged-usdc-e-sonic,usdc.e,Sonic Bridged USDC.e (Sonic),430557418,430557418.0,26929255.0
+kava,kava,Kava,430118198,430118198.0,58855421.0
+l2-standard-bridged-weth-base,weth,L2 Standard Bridged WETH (Base),426188989,426188989.0,435202868.0
+starknet,strk,Starknet,426079419,1466570307.0,32071211.0
+thorchain,rune,THORChain,424542353,513971854.0,90519606.0
+dogwifcoin,wif,dogwifhat,419528920,419528920.0,220409153.0
+arbitrum-bridged-weth-arbitrum-one,weth,Arbitrum Bridged WETH (Arbitrum One),413013936,413013936.0,269016204.0
+chiliz,chz,Chiliz,411864824,411864824.0,54932227.0
+super-oeth,superoethb,Super OETH,411267483,411267483.0,1235309.0
+hashnote-usyc,usyc,Hashnote USYC,409633241,409633241.0,116.95
+usdb,usdb,USDB,405823547,405823547.0,1775749.0
 ousg,ousg,OUSG,405085386,405085386.0,0.0
-ecash,xec,eCash,391204093,391205387.0,20020305.0
-virtual-protocol,virtual,Virtuals Protocol,386259948,593177396.0,133170089.0
-neo,neo,NEO,385583933,546694929.0,129497193.0
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,382848432,591275090.0,4411500.0
-stakewise-v3-oseth,oseth,StakeWise Staked ETH,381997221,381997221.0,6148.04
-tbtc,tbtc,tBTC,378456892,378456892.0,21319839.0
-apecoin,ape,ApeCoin,374345367,468250416.0,38550678.0
-reserve-rights-token,rsr,Reserve Rights,361311001,644381465.0,28734354.0
-beam-2,beam,Beam,357097460,403332491.0,26490366.0
-plume,plume,Plume,354910232,1774551158.0,33049580.0
-matic-network,matic,Polygon,351520147,2012279354.0,1871428.0
-trust-wallet-token,twt,Trust Wallet,350070736,840203577.0,13167353.0
-aerodrome-finance,aero,Aerodrome Finance,349988925,682330782.0,20844977.0
-axelar,axl,Axelar,348448105,442354970.0,8064605.0
-frax,frax,Frax,348376867,348376867.0,6202809.0
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),342512701,342512701.0,1670809.0
-cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,339193569,339193569.0,18.06
-cheems-token,cheems,Cheems Token,339048413,339048413.0,10442918.0
-ether-fi-staked-eth,eeth,ether.fi Staked ETH,331081013,4668772864.0,83104.0
-terra-luna,lunc,Terra Luna Classic,327432381,390969397.0,11140434.0
-pudgy-penguins,pengu,Pudgy Penguins,325705185,397539282.0,44607411.0
-binance-peg-busd,busd,Binance-Peg BUSD,323285878,323285878.0,4921618.0
-amp-token,amp,Amp,320296924,379000706.0,11549061.0
-entangle,ntgl,Entangle,319158159,447676068.0,8973.69
-based-brett,brett,Brett,317223255,317223257.0,25118548.0
-safe,safe,Safe,316393045,558104776.0,60485137.0
-solayer,layer,Solayer,314079658,1495617420.0,162938513.0
-gnosis,gno,Gnosis,313953306,363710195.0,25849544.0
-just,jst,JUST,308453882,308453882.0,18616061.0
-layerzero,zro,LayerZero,308377270,2774353137.0,73002599.0
-stakestone-berachain-vault-token,berastone,StakeStone Berachain Vault Token,302225760,302225760.0,205350.0
-akash-network,akt,Akash Network,297265138,298280420.0,7311637.0
-chain-2,xcn,Onyxcoin,296697260,432861811.0,22146173.0
-polygon-pos-bridged-weth-polygon-pos,weth,Polygon PoS Bridged WETH (Polygon POS),295356520,295356520.0,10942608.0
-morpho,morpho,Morpho,294184523,1238476726.0,15728046.0
-mina-protocol,mina,Mina Protocol,291763510,291764197.0,14513127.0
-creditcoin-2,ctc,Creditcoin,282166420,385283720.0,9360020.0
-aioz-network,aioz,AIOZ Network,280705639,280757833.0,5528690.0
-mx-token,mx,MX,275637493,1214525669.0,14204656.0
-usdd,usdd,USDD,273920310,273920310.0,4251701.0
-dash,dash,Dash,273821704,273825485.0,30127005.0
-polygon-bridged-wbtc-polygon-pos,wbtc,Polygon Bridged WBTC (Polygon POS),273280444,273280444.0,5545852.0
-ether-fi-staked-btc,ebtc,Ether.fi Staked BTC,271066679,271070246.0,5307298.0
-stader-ethx,ethx,Stader ETHx,269543610,269544099.0,39688.0
-1inch,1inch,1inch,267673330,291345313.0,20028559.0
-verus-coin,vrsc,Verus,266529036,266530711.0,27199.0
-coinbase-wrapped-staked-eth,cbeth,Coinbase Wrapped Staked ETH,263467720,774069035.0,6937362.0
-quorium,qgold,Quorium,262051494,262051494.0,87135.0
-cat-in-a-dogs-world,mew,cat in a dogs world,260283089,260283089.0,144529162.0
-safepal,sfp,SafePal,259063922,259063922.0,7657758.0
-kusama,ksm,Kusama,259021350,259026863.0,10820256.0
-golem,glm,Golem,256462754,256462754.0,13821633.0
-sweth,sweth,Swell Ethereum,249350328,249357281.0,95940.0
-snek,snek,Snek,243873452,246827220.0,1398604.0
-ripple-usd,rlusd,Ripple USD,243581333,243581333.0,46189728.0
-venom,venom,Venom,243309572,857723133.0,518834.0
-zksync,zk,ZKsync,240838247,1376218552.0,25471302.0
-superfarm,super,SuperVerse,240147527,531657753.0,27910254.0
-havven,snx,Synthetix Network,239050933,239349254.0,41336071.0
-frax-ether,frxeth,Frax Ether,238524224,238463062.0,1830763.0
-aethir,ath,Aethir,238346958,1267269694.0,21886527.0
-kaito,kaito,KAITO,238253099,987009388.0,45019808.0
-theta-fuel,tfuel,Theta Fuel,238165067,238219918.0,2616145.0
-blur,blur,Blur,236144702,311789191.0,24825892.0
-compound-wrapped-btc,cwbtc,cWBTC,235992429,235992429.0,0.0
-mimblewimblecoin,mwc,MimbleWimbleCoin,232766816,232768030.0,181354.0
-notcoin,not,Notcoin,226437562,226437562.0,27796757.0
-wormhole,w,Wormhole,226376350,771476414.0,40351388.0
-zilliqa,zil,Zilliqa,225213932,233012210.0,14119362.0
-saros-finance,saros,Saros,223613082,851859415.0,1967387.0
-astar,astr,Astar,221467449,243468426.0,6676677.0
-eigenlayer,eigen,Eigenlayer,219647150,1541728148.0,31396499.0
-wemix-token,wemix,WEMIX,218820226,281257080.0,1897015.0
-dydx,ethdydx,dYdX,216450204,216450204.0,13459427.0
-meow,meow,MEOW,215129215,215129215.0,57829.0
-nervos-network,ckb,Nervos Network,214810950,218219717.0,17708314.0
-abtc,abtc,aBTC,213738922,213738922.0,373302.0
-gho,gho,GHO,213154760,213155010.0,10655913.0
-usda-2,usda,USDa,212193192,212193192.0,471011.0
-ai16z,ai16z,ai16z,211710327,211710327.0,95837204.0
-echelon-prime,prime,Echelon Prime,211395205,405400870.0,8334391.0
-agentfun-ai,agentfun,AgentFun.AI,211328396,211328396.0,8579.2
-wrapped-avax,wavax,Wrapped AVAX,209834496,209655915.0,50701448.0
-0x,zrx,0x Protocol,208310194,245533991.0,34031962.0
-basic-attention-token,bat,Basic Attention,207156446,207756397.0,18082136.0
-liquid-staked-ethereum,lseth,Liquid Staked ETH,207103121,207103121.0,230833.0
-qtum,qtum,Qtum,206899199,211283096.0,15278628.0
-ket,ket,Ket,205057734,205057734.0,6989896.0
-elixir-deusd,deusd,Elixir deUSD,204465523,204405376.0,8776726.0
-bnb48-club-token,koge,KOGE,204053819,204053819.0,382571.0
-zetachain,zeta,ZetaChain,203163757,546782187.0,51686286.0
-vethor-token,vtho,VeThor,199973576,199980592.0,4331902.0
-btse-token,btse,BTSE Token,199830786,246611051.0,1432320.0
-chex-token,chex,CHEX Token,198898608,198898608.0,1418873.0
-baby-doge-coin,babydoge,Baby Doge Coin,198671001,504288900.0,13821235.0
-arkham,arkm,Arkham,195894616,505180687.0,64875432.0
-swissborg,borg,SwissBorg,194156542,194156542.0,296061.0
-mocaverse,moca,Moca Network,193601224,792434522.0,54347568.0
-oasis-network,rose,Oasis,191961207,285240756.0,11790477.0
-stargate-finance,stg,Stargate Finance,190605271,196204006.0,6352304.0
-decred,dcr,Decred,189812694,189815757.0,2501013.0
-livepeer,lpt,Livepeer,189349444,189349444.0,19456353.0
-global-dollar,usdg,Global Dollar,189045454,189045454.0,3457966.0
-trip,trip,Trip,187933435,624321242.0,3011.56
-celo,celo,Celo,187165425,329540732.0,25403774.0
-popcat,popcat,Popcat,185982480,185982480.0,47543298.0
-osmosis,osmo,Osmosis,183500069,254533042.0,7023709.0
-staked-frax-ether,sfrxeth,Staked Frax Ether,182021477,182021477.0,542992.0
-instadapp,fluid,Fluid,181179094,459416280.0,11797749.0
-origintrail,trac,OriginTrail,181177381,181432755.0,1912052.0
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,180866386,180866386.0,411935.0
-holotoken,hot,Holo,180739318,180739318.0,9415615.0
-iotex,iotx,IoTeX,180062117,180062117.0,18158044.0
-ankr,ankr,Ankr Network,178264760,178264760.0,21637817.0
-convex-finance,cvx,Convex Finance,176560459,215048343.0,27509993.0
-vana,vana,Vana,176370743,687158738.0,33685633.0
-apf-coin,apfc,APF coin,175656541,257910817.0,3019073.0
-frax-share,fxs,Frax Share,172605546,193483607.0,14452713.0
-aelf,elf,aelf,169399490,228303616.0,13027493.0
-coinex-token,cet,CoinEx,169288056,169288121.0,112165.0
-siacoin,sc,Siacoin,169166468,181025225.0,18280675.0
-freysa-ai,fai,Freysa AI,168952472,168952472.0,961600.0
+ecash,xec,eCash,399342057,399344509.0,22109514.0
+virtual-protocol,virtual,Virtuals Protocol,397901996,611056028.0,109216483.0
+compound-governance-token,comp,Compound,395290469,442159411.0,254250021.0
+arweave,ar,Arweave,393161133,393161133.0,49398069.0
+stakewise-v3-oseth,oseth,StakeWise Staked ETH,384829537,384829537.0,3875.92
+tbtc,tbtc,tBTC,384695002,384695002.0,17093096.0
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,382773684,591159650.0,6956237.0
+apecoin,ape,ApeCoin,376817312,471342452.0,41605910.0
+reserve-rights-token,rsr,Reserve Rights,363516994,646349400.0,27041897.0
+beam-2,beam,Beam,363273438,410308100.0,25141763.0
+plume,plume,Plume,363230788,1816153938.0,42543762.0
+trust-wallet-token,twt,Trust Wallet,351830656,844427554.0,15046590.0
+axelar,axl,Axelar,350182722,444549430.0,9183587.0
+frax,frax,Frax,348485750,348485750.0,4722215.0
+ether-fi-staked-eth,eeth,ether.fi Staked ETH,347373473,4670092102.0,47088.0
+matic-network,matic,Polygon,346638197,1984469960.0,1531654.0
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),342898817,342898817.0,1591779.0
+cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,341793622,341793622.0,12.59
+neo,neo,NEO,341057548,483563800.0,167033322.0
+aerodrome-finance,aero,Aerodrome Finance,338893264,661043750.0,39208617.0
+safe,safe,Safe,337058467,594557762.0,45888336.0
+terra-luna,lunc,Terra Luna Classic,333935066,398764929.0,13864494.0
+pudgy-penguins,pengu,Pudgy Penguins,326049284,397959271.0,57181200.0
+cheems-token,cheems,Cheems Token,324941368,324941368.0,8113131.0
+binance-peg-busd,busd,Binance-Peg BUSD,324114851,324114851.0,3421233.0
+based-brett,brett,Brett,323233264,323233265.0,27066581.0
+layerzero,zro,LayerZero,319835413,2877437694.0,122570772.0
+just,jst,JUST,317427452,317427452.0,48281393.0
+amp-token,amp,Amp,317099822,375217641.0,10850193.0
+akash-network,akt,Akash Network,316113277,317192933.0,15129145.0
+gnosis,gno,Gnosis,315115504,365056583.0,24881533.0
+entangle,ntgl,Entangle,304487654,427017362.0,10363.92
+stakestone-berachain-vault-token,berastone,StakeStone Berachain Vault Token,304065582,304065582.0,743615.0
+chain-2,xcn,Onyxcoin,302219434,440882143.0,33313327.0
+cat-in-a-dogs-world,mew,cat in a dogs world,299806743,299806743.0,200663356.0
+solayer,layer,Solayer,297816590,1418174237.0,127362848.0
+mina-protocol,mina,Mina Protocol,297498219,297498219.0,16747778.0
+polygon-pos-bridged-weth-polygon-pos,weth,Polygon PoS Bridged WETH (Polygon POS),295724565,295724565.0,13241825.0
+aioz-network,aioz,AIOZ Network,294292010,294381041.0,7822896.0
+morpho,morpho,Morpho,289987277,1220543835.0,27550654.0
+creditcoin-2,ctc,Creditcoin,281641778,384567347.0,10121687.0
+mx-token,mx,MX,280037646,1233913814.0,10749438.0
+polygon-bridged-wbtc-polygon-pos,wbtc,Polygon Bridged WBTC (Polygon POS),278882170,278882170.0,5564652.0
+verus-coin,vrsc,Verus,277532400,277533678.0,10450.53
+ether-fi-staked-btc,ebtc,Ether.fi Staked BTC,276779332,276779332.0,2183834.0
+usdd,usdd,USDD,276356187,276356187.0,5698693.0
+dash,dash,Dash,275313997,275328394.0,34591038.0
+saros-finance,saros,Saros,272684105,1038796661.0,2911616.0
+1inch,1inch,1inch,271884235,295928614.0,23271651.0
+stader-ethx,ethx,Stader ETHx,269795842,269795842.0,51444.0
+coinbase-wrapped-staked-eth,cbeth,Coinbase Wrapped Staked ETH,264672938,777089769.0,1929299.0
+quorium,qgold,Quorium,262470859,262470859.0,86655.0
+safepal,sfp,SafePal,260545704,260545704.0,8685704.0
+golem,glm,Golem,258371924,258371924.0,17832239.0
+kusama,ksm,Kusama,257065781,257079290.0,14402694.0
+snek,snek,Snek,250137490,253167127.0,1079832.0
+sweth,sweth,Swell Ethereum,249809570,249816535.0,86004.0
+aethir,ath,Aethir,246042497,1308186192.0,53551936.0
+superfarm,super,SuperVerse,245656618,543854219.0,23742127.0
+blur,blur,Blur,245121108,323509986.0,20033833.0
+ripple-usd,rlusd,Ripple USD,243712458,243712458.0,63654887.0
+venom,venom,Venom,242934239,856297247.0,403978.0
+zksync,zk,ZKsync,241372928,1379273875.0,30058714.0
+compound-wrapped-btc,cwbtc,cWBTC,240747738,240747738.0,0.0
+theta-fuel,tfuel,Theta Fuel,239611575,239690032.0,2570833.0
+frax-ether,frxeth,Frax Ether,239104845,239104845.0,432285.0
+havven,snx,Synthetix Network,238720507,239018416.0,40988218.0
+mimblewimblecoin,mwc,MimbleWimbleCoin,237931712,237933942.0,211710.0
+wormhole,w,Wormhole,233845538,796930938.0,48452064.0
+notcoin,not,Notcoin,231547683,231547683.0,33794304.0
+ket,ket,Ket,230902492,230902492.0,10593045.0
+kaito,kaito,KAITO,229784568,951926865.0,58904141.0
+zilliqa,zil,Zilliqa,228825318,236747658.0,17765002.0
+meow,meow,MEOW,225222719,225222719.0,47688.0
+eigenlayer,eigen,Eigenlayer,222025818,1558424288.0,40506377.0
+wemix-token,wemix,WEMIX,219947011,282678682.0,1813353.0
+astar,astr,Astar,219902460,241746769.0,9189463.0
+abtc,abtc,aBTC,218249599,218249599.0,371505.0
+dydx,ethdydx,dYdX,216833736,216833736.0,16045872.0
+nervos-network,ckb,Nervos Network,216630834,220068989.0,14658184.0
+agentfun-ai,agentfun,AgentFun.AI,216242123,216242123.0,17280.16
+gho,gho,GHO,213201783,213201783.0,10361787.0
+echelon-prime,prime,Echelon Prime,213105486,408680695.0,9248778.0
+usda-2,usda,USDa,212365513,212365513.0,165389.0
+wrapped-avax,wavax,Wrapped AVAX,211357111,211357111.0,77058850.0
+0x,zrx,0x Protocol,211342842,249108555.0,35066578.0
+ai16z,ai16z,ai16z,210664247,210664247.0,89542539.0
+zetachain,zeta,ZetaChain,208771770,561875242.0,57918611.0
+basic-attention-token,bat,Basic Attention,208243338,208846437.0,18486635.0
+liquid-staked-ethereum,lseth,Liquid Staked ETH,207861423,207861423.0,65054.0
+qtum,qtum,Qtum,206643962,211020689.0,18199988.0
+elixir-deusd,deusd,Elixir deUSD,203414863,203414863.0,6141016.0
+chex-token,chex,CHEX Token,202251966,202251966.0,1311971.0
+arkham,arkm,Arkham,199528087,514550824.0,80633527.0
+vethor-token,vtho,VeThor,198863401,198863401.0,4448392.0
+baby-doge-coin,babydoge,Baby Doge Coin,198273414,503279701.0,21177918.0
+btse-token,btse,BTSE Token,197310663,243500969.0,1400270.0
+swissborg,borg,SwissBorg,196790118,196790118.0,301159.0
+celo,celo,Celo,192717938,339317000.0,23163909.0
+livepeer,lpt,Livepeer,191814995,191814995.0,22998930.0
+decred,dcr,Decred,191648160,191664344.0,2155515.0
+stargate-finance,stg,Stargate Finance,189376293,194938928.0,6059833.0
+oasis-network,rose,Oasis,188675212,280358000.0,14062375.0
+trip,trip,Trip,188442484,626012320.0,2093.48
+osmosis,osmo,Osmosis,188274734,261089420.0,9141137.0
+bnb48-club-token,koge,KOGE,188188707,188188707.0,188071.0
+popcat,popcat,Popcat,188175848,188175848.0,44055286.0
+convex-finance,cvx,Convex Finance,185025061,225358470.0,20650192.0
+mocaverse,moca,Moca Network,184266431,754226023.0,30687335.0
+aelf,elf,aelf,183214610,246922573.0,38137874.0
+staked-frax-ether,sfrxeth,Staked Frax Ether,182826846,182826846.0,291831.0
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,181441004,181441004.0,1044220.0
+origintrail,trac,OriginTrail,181040848,181296028.0,2192463.0
+global-dollar,usdg,Global Dollar,180178091,180178091.0,1891020.0
+holotoken,hot,Holo,179922971,179922971.0,11833179.0
+ankr,ankr,Ankr Network,178300506,178300506.0,30783924.0
+vana,vana,Vana,177628641,692059642.0,28961961.0
+iotex,iotx,IoTeX,177199205,177199205.0,15589332.0
+instadapp,fluid,Fluid,174817981,443286390.0,14329543.0
+frax-share,fxs,Frax Share,171734826,192507237.0,16924615.0
+deep,deep,DeepBook,171253649,685014597.0,16892380.0
+ravencoin,rvn,Ravencoin,170558605,170558605.0,8125339.0
+siacoin,sc,Siacoin,170153604,182090398.0,19997847.0
 rcge,$rcge,RCGE,168805259,168805259.0,2.43
-mog-coin,mog,Mog Coin,168266635,168266635.0,11499199.0
-bridged-wrapped-ether-starkgate,eth,Bridged Ether (StarkGate),168100222,168100222.0,1302517.0
-deep,deep,DeepBook,167567783,670271132.0,23534654.0
-gigachad-2,giga,Gigachad,166953720,166953720.0,10554180.0
-drift-protocol,drift,Drift Protocol,166903610,569602522.0,24710860.0
-ai-companions,aic,AI Companions,166126606,166126606.0,5072305.0
-ravencoin,rvn,Ravencoin,166104186,166110915.0,8480884.0
-ordinals,ordi,ORDI,165785566,165785566.0,52371588.0
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),164571731,164571731.0,8401372.0
-chia,xch,Chia,163985764,371472590.0,4443366.0
-yearn-finance,yfi,yearn.finance,163562347,177489444.0,23277295.0
-treehouse-eth,teth,Treehouse ETH,163148284,163148288.0,144714.0
-sun-token,sun,Sun Token,162468663,328815445.0,33180324.0
-rollbit-coin,rlb,Rollbit Coin,159054090,159054090.0,1012070.0
-gas,gas,Gas,158489824,158489824.0,5706332.0
-polymesh,polyx,Polymesh,157835220,157835220.0,6821656.0
-gmt-token,gomining,GoMining Token,156657670,156657670.0,14710171.0
-harmony,one,Harmony,156463278,156998515.0,9992425.0
-peanut-the-squirrel,pnut,Peanut the Squirrel,156109123,156109123.0,229678323.0
-threshold-network-token,t,Threshold Network,154508922,170187825.0,6557024.0
-constellation-labs,dag,Constellation,154116587,154116699.0,2769373.0
-tribe-2,tribe,Tribe,153942518,338323655.0,58124.0
-euro-coin,eurc,EURC,153278043,153278043.0,31167225.0
-metaplex,mplx,Metaplex,150652217,192847410.0,15379159.0
-digibyte,dgb,DigiByte,149293438,149306416.0,5406143.0
-hamster-kombat,hmstr,Hamster Kombat,147430390,229018082.0,46399094.0
-enjincoin,enj,Enjin Coin,146685916,151462611.0,15476313.0
-ethereum-pow-iou,ethw,EthereumPoW,146556366,146556366.0,7668965.0
-hivemapper,honey,Hivemapper,144621345,224771906.0,766549.0
-astherus-usdf,usdf,Astherus USDF,144404090,144404090.0,2260507.0
-woo-network,woo,WOO,144316784,166879584.0,11225186.0
-mask-network,mask,Mask Network,144047465,144047465.0,491270498.0
-drift-staked-sol,dsol,Drift Staked SOL,144007877,144007877.0,137565.0
-kinesis-gold,kau,Kinesis Gold,143796746,143796746.0,12378599.0
-wrapped-ether-mantle-bridge,weth,Wrapped Ether (Mantle Bridge),143495115,143495116.0,2756255.0
-wrapped-beacon-eth,wbeth,Wrapped Beacon ETH,143119909,143119909.0,7977355.0
-uxlink,uxlink,UXLINK,142019318,419927020.0,15822016.0
-nem,xem,NEM,141979464,141979464.0,17020735.0
-bybit-staked-sol,bbsol,Bybit Staked SOL,140862905,140883574.0,655275.0
-zencash,zen,Horizen,140747871,140749306.0,16503369.0
-bitkub-coin,kub,KUB Coin,140141022,173500421.0,402628.0
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,139417868,139417868.0,0.0
-binance-peg-sol,sol,Binance-Peg SOL,139372644,139372644.0,3973276.0
-lcx,lcx,LCX,139354768,140689163.0,719823.0
-polygon-pos-bridged-dai-polygon-pos,dai,Polygon PoS Bridged DAI (Polygon POS),138367998,138367998.0,10220667.0
-acet-token,act,Acet,137867408,179867315.0,457615.0
-sats-ordinals,sats,SATS (Ordinals),136312811,136312811.0,29016821.0
-polyhedra-network,zkj,Polyhedra Network,135725268,2247721603.0,9496337.0
-stasis-eurs,eurs,STASIS EURO,134569060,134569060.0,80597.0
-amnis-aptos,amapt,Amnis Aptos,133848049,133876404.0,1431976.0
-magic-eden,me,Magic Eden,132845921,996346618.0,12586394.0
-turbo,turbo,Turbo,132740093,132740093.0,16559349.0
-redstone-oracles,red,RedStone,132264492,472373187.0,32064398.0
-ether-fi,ethfi,Ether.fi,132249345,577135813.0,52640109.0
-xyo-network,xyo,XYO Network,131604745,131604745.0,6386422.0
-world-mobile-token,wmtx,World Mobile Token,131527798,371666781.0,13820587.0
-stepn,gmt,GMT,131245523,245002363.0,27027323.0
-mag7-ssi,mag7.ssi,MAG7.ssi,130600818,130600818.0,1332479.0
-ontology,ont,Ontology,130168822,142463749.0,10707828.0
-reserve-protocol-eth-plus,eth+,ETHPlus,130019207,130019207.0,558310.0
-skale,skl,SKALE,129825396,136571888.0,26013963.0
-cronos-bridged-usdc-cronos,usdc,Cronos Bridged USDC (Cronos),129541796,129541796.0,1782524.0
-kinesis-silver,kag,Kinesis Silver,129244481,129244481.0,448563.0
-terra-luna-2,luna,Terra,127284128,199630974.0,10238546.0
-mythos,myth,Mythos,126221449,159964036.0,1796674.0
-kadena,kda,Kadena,126048508,126059053.0,6825379.0
-anzen-usdz,usdz,Anzen USDz,124190784,124190784.0,358925.0
-coti,coti,COTI,124152926,138539642.0,21909587.0
-steakhouse-usdc-morpho-vault,steakusdc,Steakhouse USDC Morpho Vault,123181618,123181618.0,0.0
-loopring,lrc,Loopring,123159579,135800022.0,11603867.0
-project-galaxy,gal,Galxe,122597333,191934206.0,12172.44
-zeus-network,zeus,Zeus Network,121927047,318530976.0,4543038.0
-vvs-finance,vvs,VVS Finance,121733827,237760970.0,437559.0
-bitdca,bdca,BitDCA,120511509,129404647.0,138174.0
-crvusd,crvusd,crvUSD,119984258,119984258.0,24661210.0
-toshi,toshi,Toshi,119960334,119960334.0,8544288.0
-level-usd,lvlusd,Level USD,119903234,119905063.0,5171404.0
-casper-network,cspr,Casper Network,119719210,123946491.0,5460909.0
-gmx,gmx,GMX,119458340,119458340.0,10866136.0
-orca,orca,Orca,119455888,214168634.0,58540942.0
-nano,xno,Nano,119266158,119266158.0,4319263.0
-bio-protocol,bio,Bio Protocol,118444856,241363367.0,19563326.0
-waves,waves,Waves,118063822,118063822.0,10645577.0
-api3,api3,API3,117637289,146968725.0,78071635.0
-falcon-finance,usdf,Falcon USD,117531762,117531762.0,302611.0
-nxm,nxm,Nexus Mutual,116389017,116389017.0,0.0
-syrupusdc,syrupusdc,SyrupUSDC,116209613,116209613.0,27779.0
-qubic-network,qubic,Qubic,115983501,139560093.0,2531551.0
-sushi,sushi,Sushi,115621065,168930182.0,26853550.0
-swipe,sxp,Solar,113738896,113946394.0,5974142.0
-nkyc-token,nkyc,NKYC Token,113616539,113616539.0,257081.0
-usd-coin-ethereum-bridged,usdc.e,Arbitrum Bridged USDC (Arbitrum),113529652,113529652.0,34976143.0
-elixir-staked-deusd,sdeusd,Elixir Staked deUSD,112888059,112888059.0,3186987.0
-euler,eul,Euler,112692480,163939642.0,2539777.0
-band-protocol,band,Band Protocol,112474697,114717364.0,9602328.0
-astherus-staked-bnb,asbnb,Astherus Staked BNB,112221091,112221091.0,80143.0
-b3,b3,B3 (Base),111540591,523845013.0,9308273.0
-zignaly,zig,ZIGChain,111461257,154553754.0,1809217.0
-hive,hive,Hive,110825156,,4766769.0
-cow-protocol,cow,CoW Protocol,110738967,266120720.0,15651748.0
-prometeus,prom,Prom,110189394,116227169.0,4257222.0
-vicicoin,vcnt,ViciCoin,110130277,193337866.0,154986.0
-g-token,g,Gravity,110082667,182641614.0,7294600.0
-io,io,io.net,108949651,579039896.0,24502009.0
-syrup,syrup,Maple Finance,108017732,142958245.0,6453512.0
-alchemy-pay,ach,Alchemy Pay,107756506,217967717.0,27311666.0
-paal-ai,paal,PAAL AI,106821664,119249457.0,6065026.0
-uxd-protocol-token,uxp,UXD Protocol,105821509,105821509.0,15.53
-0x0-ai-ai-smart-contract,0x0,0x0.ai: AI Smart Contract,105659906,105659906.0,1242266.0
-biconomy,bico,Biconomy,105202858,111893279.0,11558785.0
-delysium,agi,Delysium,102508107,193430832.0,10211601.0
-global-commercial-business,gcb,Global Commercial Business,102484215,102484215.0,184083.0
-non-playable-coin,npc,Non-Playable Coin,102441816,102441816.0,5947698.0
-solo-coin,solo,Sologenic,101411891,101411891.0,1664499.0
-ozone-chain,ozo,Ozone Chain,100976870,133595277.0,241707.0
-uma,uma,UMA,100061412,144146473.0,11276948.0
-qusdt,qusdt,QL1 Bridged USDT (QL1),100020199,100020199.0,16505.0
-illuvium,ilv,Illuvium,99850574,127935012.0,19197640.0
-icon,icx,ICON,98339031,99486715.0,2617995.0
-nillion,nil,Nillion,98141414,502902454.0,69658393.0
-metis-token,metis,Metis,97512297,155550923.0,8153320.0
-crypto-trading-fund,ctf,Crypto Trading Fund,97502208,97502208.0,12148.74
-auction,auction,Bounce,97388509,112914573.0,67197148.0
-audius,audio,Audius,97074617,97074617.0,10403415.0
-aevo-exchange,aevo,Aevo,95944729,106230346.0,25700757.0
-ecoin-2,ecoin,Ecoin,95473842,207046934.0,20.79
-peaq-2,peaq,peaq,95111833,541446033.0,14547574.0
-carv,carv,CARV,94992481,428818885.0,26949332.0
-across-protocol,acx,Across Protocol,94932309,233171994.0,13873098.0
-l2-standard-bridged-frxusd,frxusd,L2 Standard Bridged frxUSD,94683948,94683948.0,983397.0
-bonfida,fida,Solana Name Service,94559669,95426933.0,9804211.0
-oec-token,okt,OKT Chain,94274410,94274410.0,433259.0
-clearpool,cpool,Clearpool,93845362,123489521.0,5221456.0
-gamebitcoin-power,pwr,Gamebitcoin Power,93673976,549980770.0,6052.44
-anime,anime,Animecoin,93569692,168940912.0,16553172.0
-altlayer,alt,AltLayer,93421095,308034522.0,19259924.0
-rocket-pool,rpl,Rocket Pool,93172026,93172026.0,9670859.0
-subsquid,sqd,SQD,92629387,198287023.0,932935.0
-spell-token,spell,Spell,92588909,114080159.0,14536236.0
-request-network,req,Request,92315081,123970662.0,3796856.0
-lorenzo-stbtc,stbtc,Lorenzo stBTC,92237862,92237862.0,44830.0
-swftcoin,swftc,SWFTCOIN,92211047,92211047.0,1057129.0
-zelcash,flux,Flux,91078180,91081934.0,9359863.0
-status,snt,Status,90735883,155901637.0,11696453.0
-gama-coin,gama,GAMA Coin,90562982,139327740.0,2287853.0
-venus,xvs,Venus,90436226,161865446.0,4501304.0
-usual,usual,Usual,90158813,99331989.0,20486830.0
-lisk,lsk,Lisk,90142024,202286475.0,12694448.0
-manta-network,manta,Manta Network,89558512,218974894.0,21623178.0
-temple,temple,TempleDAO,89089934,89265445.0,63739.0
-melania-meme,melania,Melania Meme,88930612,592870171.0,14790548.0
-bora,bora,BORA,88734042,92813768.0,471068.0
-space-id,id,SPACE ID,88287033,409460861.0,13069982.0
-velo,velo,Velo,88258853,286612891.0,12975789.0
-aixbt,aixbt,aixbt by Virtuals,87965686,102810165.0,52416092.0
-iostoken,iost,IOST,87849970,87849970.0,10007345.0
-cronos-bridged-usdt-cronos,usdt,Cronos Bridged USDT (Cronos),87743238,87743238.0,131049.0
-zircuit,zrc,Zircuit,87232351,397427758.0,20957469.0
-resolv-rlp,rlp,Resolv RLP,87226905,87226905.0,208428.0
-book-of-meme,bome,BOOK OF MEME,87041422,87041422.0,49287245.0
-memecoin-2,meme,Memecoin,86854501,140452393.0,15097811.0
-solv-protocol-solvbtc-jupiter,solvbtc.jup,Solv Protocol SolvBTC Jupiter,86282806,86282806.0,5107.52
-orbs,orbs,Orbs,86252584,189255976.0,4300340.0
-everipedia,iq,IQ,86243699,86243699.0,6097334.0
-frax-usd,frxusd,Frax USD,86117167,86117167.0,3093569.0
-iexec-rlc,rlc,iExec RLC,85885012,103228994.0,6663836.0
-compound-ether,ceth,cETH,85760387,85760345.0,218.31
-zano,zano,Zano,85493936,85493936.0,504463.0
-sonic-svm,sonic,Sonic SVM,84911722,566078146.0,23553089.0
-solayer-staked-sol,ssol,Solayer Staked SOL,84840805,84840805.0,599809.0
-optio,opt,Optio,84695378,112279060.0,80497.0
-lift-dollar,usdl,Lift Dollar,84592002,84592002.0,46770122.0
-ignition-fbtc,fbtc,Function ƒBTC,84545774,1267179776.0,119474.0
-origin-ether,oeth,Origin Ether,84424104,84426948.0,175632.0
-balancer,bal,Balancer,84391754,91178738.0,8136657.0
-sbtc-2,sbtc,sBTC,84169375,84169375.0,57151.0
-iagon,iag,Iagon,84124659,223723636.0,448770.0
-relend-usdc,reusdc,Relend USDC,83555474,83555474.0,0.0
-h2o-dao,h2o,H2O Dao,83365293,101048840.0,2892.9
-blast,blast,Blast,83353239,307352320.0,7073359.0
-power-ledger,powr,Powerledger,82966893,156534322.0,6827806.0
-geodnet,geod,Geodnet,82758941,258139110.0,285391.0
-tokenlon,lon,Tokenlon,82604777,99428499.0,99421.0
-deso,deso,Decentralized Social,82520081,84684408.0,1468459.0
-proton,xpr,XPR Network,81456582,90285012.0,5204974.0
-blockv,vee,BLOCKv,81437488,81437488.0,93432.0
-big-time,bigtime,Big Time,81355996,235526793.0,24591814.0
-radix,xrd,Radix,81088789,99267107.0,547569.0
-infinitar-governance-token,igt,Infinitar Governance Token,80100306,374442217.0,4798346.0
-pha,pha,PHALA,79886525,101460732.0,19865943.0
-neiro-3,neiro,Neiro,79860092,79860092.0,57948759.0
-marlin,pond,Marlin,79590320,97565897.0,5104471.0
-paxos-standard,usdp,Pax Dollar,79472157,79472157.0,7950183.0
-chromaway,chr,Chromia,79186521,79186521.0,7904708.0
-adventure-gold,agld,Adventure Gold,78956699,78956699.0,14473301.0
-yield-guild-games,ygg,Yield Guild Games,78929909,183127089.0,12692456.0
-mass-vehicle-ledger,mvl,MVL,78146186,82134298.0,810018.0
-m2-global-wealth-limited-mmx,mmx,MMX,78120045,247984983.0,32144.0
-hashkey-ecopoints,hsk,HashKey Platform Token,77938085,588211965.0,1260382.0
-optimism-bridged-wbtc-optimism,wbtc,Optimism Bridged WBTC (Optimism),77781734,77781734.0,2067231.0
-ong,ong,Ontology Gas,77367644,188812547.0,2961310.0
-stp-network,stpt,STP,77360310,77360310.0,12495201.0
-dkargo,dka,dKargo,76900784,82042088.0,1467315.0
-act-i-the-ai-prophecy,act,Act I The AI Prophecy,76865461,76865461.0,729607666.0
-l2-standard-bridged-weth-blast,weth,L2 Standard Bridged WETH (Blast),76768249,76768249.0,1760782.0
-wax,waxp,WAX,76524244,82337732.0,8660311.0
-venice-token,vvv,Venice Token,76394164,185217068.0,12150344.0
-bitmart-token,bmx,BitMart,76026395,143224715.0,4222938.0
-bone-shibaswap,bone,Bone ShibaSwap,75914225,75946010.0,4363984.0
-zebec-network,zbcn,Zebec Network,75520643,98887976.0,8845085.0
-aleo,aleo,ALEO,74983562,355770978.0,6504570.0
-verge,xvg,Verge,74380034,74528816.0,4496653.0
-dymension,dym,Dymension,74270251,282130816.0,24293951.0
-stratis,strax,Stratis,73983385,78396229.0,1772709.0
-coreum,coreum,Coreum,73847517,73847517.0,136745.0
-pixer-eternity,pxt,Pixer Eternity,73771057,342821101.0,406532.0
-keeta,kta,Keeta,73619187,184047968.0,9210885.0
-aventis-ai,aai,Aventis AI,73563933,189492276.0,25668.0
-constitutiondao,people,ConstitutionDAO,73548848,73548848.0,19465741.0
+bridged-wrapped-ether-starkgate,eth,Bridged Ether (StarkGate),168222933,168222933.0,1637322.0
+gigachad-2,giga,Gigachad,167575203,167575203.0,8091189.0
+yearn-finance,yfi,yearn.finance,166449434,180622361.0,25363983.0
+chia,xch,Chia,165777891,375533217.0,9207294.0
+coinex-token,cet,CoinEx,164804896,164804896.0,128798.0
+mog-coin,mog,Mog Coin,164697489,164697489.0,13197907.0
+treehouse-eth,teth,Treehouse ETH,163550166,163550166.0,1127176.0
+drift-protocol,drift,Drift Protocol,163491351,557766938.0,24053132.0
+sun-token,sun,Sun Token,162563731,328983806.0,35802858.0
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),162526112,162526112.0,9393975.0
+harmony,one,Harmony,162275735,162830632.0,12753732.0
+freysa-ai,fai,Freysa AI,159795884,159795884.0,1620715.0
+rollbit-coin,rlb,Rollbit Coin,158006931,158006931.0,690688.0
+digibyte,dgb,DigiByte,157877842,157901481.0,5614632.0
+polymesh,polyx,Polymesh,157062962,157062962.0,5023010.0
+threshold-network-token,t,Threshold Network,156989102,172919683.0,6814684.0
+ordinals,ordi,ORDI,156728045,156728045.0,76249123.0
+peanut-the-squirrel,pnut,Peanut the Squirrel,156688800,156688800.0,189922518.0
+euro-coin,eurc,EURC,156575058,156575058.0,43775373.0
+mythos,myth,Mythos,155875252,197545145.0,1501961.0
+metaplex,mplx,Metaplex,155535848,198901892.0,27843869.0
+gmt-token,gomining,GoMining Token,154273278,154273278.0,15385669.0
+tribe-2,tribe,Tribe,153605007,337581898.0,58486.0
+constellation-labs,dag,Constellation,150765496,150765605.0,2522682.0
+drift-staked-sol,dsol,Drift Staked SOL,149463194,149463194.0,154612.0
+hivemapper,honey,Hivemapper,149145307,231803093.0,600293.0
+ai-companions,aic,AI Companions,148785257,148785257.0,5776682.0
+uxlink,uxlink,UXLINK,148237957,438314478.0,24218471.0
+hamster-kombat,hmstr,Hamster Kombat,146580269,227697506.0,32432825.0
+apf-coin,apfc,APF coin,145960245,214308705.0,2637281.0
+bybit-staked-sol,bbsol,Bybit Staked SOL,145908167,145908167.0,330449.0
+enjincoin,enj,Enjin Coin,145868354,150618421.0,16333789.0
+astherus-usdf,usdf,Astherus USDF,145657634,145657634.0,766323.0
+ethereum-pow-iou,ethw,EthereumPoW,144953726,144953726.0,8272018.0
+woo-network,woo,WOO,144388988,166963077.0,20375529.0
+kinesis-gold,kau,Kinesis Gold,144360178,144360178.0,28681195.0
+wrapped-ether-mantle-bridge,weth,Wrapped Ether (Mantle Bridge),144109640,144109640.0,2490724.0
+binance-peg-sol,sol,Binance-Peg SOL,144099114,144099114.0,3558461.0
+wrapped-beacon-eth,wbeth,Wrapped Beacon ETH,143626565,143626565.0,2912995.0
+zencash,zen,Horizen,143030246,143033581.0,21042787.0
+nem,xem,NEM,141643375,141643375.0,7195696.0
+polygon-pos-bridged-dai-polygon-pos,dai,Polygon PoS Bridged DAI (Polygon POS),139548952,139548952.0,11708219.0
+bitkub-coin,kub,KUB Coin,139384179,172563417.0,410535.0
+gas,gas,Gas,138694618,138694618.0,21590561.0
+lcx,lcx,LCX,138415929,139741335.0,600671.0
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,137280384,137280384.0,0.0
+orca,orca,Orca,136205091,244197744.0,99490274.0
+polyhedra-network,zkj,Polyhedra Network,135858873,2249934210.0,13705428.0
+amnis-aptos,amapt,Amnis Aptos,135811555,135840325.0,1156293.0
+mask-network,mask,Mask Network,135549658,135549658.0,643539044.0
+acet-token,act,Acet,135403386,176652654.0,274612.0
+stasis-eurs,eurs,STASIS EURO,134579725,134579725.0,58285.0
+sats-ordinals,sats,SATS (Ordinals),133699408,133699408.0,36921058.0
+magic-eden,me,Magic Eden,133451671,1000889756.0,17064178.0
+mag7-ssi,mag7.ssi,MAG7.ssi,133026887,133026887.0,1218546.0
+stepn,gmt,GMT,132832758,247965373.0,32994482.0
+turbo,turbo,Turbo,132652425,132652425.0,20539967.0
+world-mobile-token,wmtx,World Mobile Token,130951726,370038936.0,13792982.0
+reserve-protocol-eth-plus,eth+,ETHPlus,130699247,130699247.0,721139.0
+ether-fi,ethfi,Ether.fi,130664333,570218823.0,65901934.0
+skale,skl,SKALE,129763695,136506981.0,30663349.0
+kinesis-silver,kag,Kinesis Silver,129685671,129685671.0,362338.0
+terra-luna-2,luna,Terra,128929783,202212000.0,14304062.0
+cronos-bridged-usdc-cronos,usdc,Cronos Bridged USDC (Cronos),128524082,128524082.0,2798021.0
+ontology,ont,Ontology,128431869,140562734.0,12446443.0
+xyo-network,xyo,XYO Network,128045506,128045506.0,7006674.0
+kadena,kda,Kadena,127305597,127330308.0,8385793.0
+coti,coti,COTI,127186039,141924229.0,19164066.0
+vvs-finance,vvs,VVS Finance,126847757,247739496.0,705928.0
+redstone-oracles,red,RedStone,125221288,447218885.0,36833824.0
+casper-network,cspr,Casper Network,125210133,129633416.0,8182624.0
+loopring,lrc,Loopring,123861471,136573953.0,14647253.0
+crvusd,crvusd,crvUSD,123527709,123527709.0,14264508.0
+steakhouse-usdc-morpho-vault,steakusdc,Steakhouse USDC Morpho Vault,123039119,123039119.0,0.0
+project-galaxy,gal,Galxe,122553200,191865114.0,11316.68
+zeus-network,zeus,Zeus Network,122522683,320087060.0,4730819.0
+anzen-usdz,usdz,Anzen USDz,121779470,121779470.0,272407.0
+gmx,gmx,GMX,120090529,120090529.0,13832347.0
+level-usd,lvlusd,Level USD,120090435,120090435.0,2731172.0
+bitdca,bdca,BitDCA,119921212,128767947.0,136745.0
+nano,xno,Nano,119470294,119470294.0,4820665.0
+toshi,toshi,Toshi,118626136,118626136.0,12082808.0
+bio-protocol,bio,Bio Protocol,118172984,240773786.0,24227850.0
+falcon-finance,usdf,Falcon USD,117874031,117874031.0,334426.0
+nxm,nxm,Nexus Mutual,117510107,117510107.0,0.0
+sushi,sushi,Sushi,115917516,169363317.0,33065053.0
+elixir-staked-deusd,sdeusd,Elixir Staked deUSD,115657446,115657446.0,967479.0
+waves,waves,Waves,115552241,115552241.0,8925085.0
+swipe,sxp,Solar,115196534,115418102.0,8480353.0
+qubic-network,qubic,Qubic,114732859,138635604.0,1923137.0
+syrupusdc,syrupusdc,SyrupUSDC,114632534,114632534.0,2883472.0
+euler,eul,Euler,113199375,164677049.0,1651113.0
+usd-coin-ethereum-bridged,usdc.e,Arbitrum Bridged USDC (Arbitrum),113170698,113170698.0,46121276.0
+band-protocol,band,Band Protocol,113033341,115307794.0,9800849.0
+zignaly,zig,ZIGChain,112850697,156480370.0,2122493.0
+api3,api3,API3,112338206,139889890.0,39850496.0
+astherus-staked-bnb,asbnb,Astherus Staked BNB,111884303,111884303.0,35112.0
+cow-protocol,cow,CoW Protocol,111735716,268486615.0,18201012.0
+b3,b3,B3 (Base),111243535,522449902.0,11994430.0
+nkyc-token,nkyc,NKYC Token,111208882,111208882.0,262555.0
+syrup,syrup,Maple Finance,110629445,146414769.0,8107361.0
+vicicoin,vcnt,ViciCoin,109990402,193092311.0,176120.0
+hive,hive,Hive,109731130,,4235195.0
+alchemy-pay,ach,Alchemy Pay,108959714,220401543.0,25849642.0
+g-token,g,Gravity,108869056,180628074.0,8501126.0
+io,io,io.net,108622290,577300058.0,27944401.0
+prometeus,prom,Prom,107801485,113708416.0,5053515.0
+uxd-protocol-token,uxp,UXD Protocol,106079774,106079774.0,24.87
+paal-ai,paal,PAAL AI,105839465,118152181.0,9101902.0
+biconomy,bico,Biconomy,105755761,112461699.0,10081752.0
+solo-coin,solo,Sologenic,105671976,105671976.0,1706961.0
+delysium,agi,Delysium,103947767,196067364.0,13627618.0
+0x0-ai-ai-smart-contract,0x0,0x0.ai: AI Smart Contract,103837109,103837109.0,624813.0
+ozone-chain,ozo,Ozone Chain,102836433,136055532.0,248219.0
+uma,uma,UMA,102122191,147113807.0,13774921.0
+non-playable-coin,npc,Non-Playable Coin,101870369,101870369.0,4235931.0
+crypto-trading-fund,ctf,Crypto Trading Fund,101808500,101808500.0,11029.45
+clearpool,cpool,Clearpool,100963054,132855571.0,8631746.0
+qusdt,qusdt,QL1 Bridged USDT (QL1),100261261,100261261.0,20313.0
+icon,icx,ICON,99469085,100627721.0,2687036.0
+illuvium,ilv,Illuvium,98778891,126538982.0,20218154.0
+big-time,bigtime,Big Time,98379225,284496933.0,75858729.0
+metis-token,metis,Metis,98340326,156871789.0,9508107.0
+aevo-exchange,aevo,Aevo,96543505,106893313.0,28414812.0
+audius,audio,Audius,95698842,95698842.0,9675879.0
+ecoin-2,ecoin,Ecoin,95560776,207235463.0,2.0
+across-protocol,acx,Across Protocol,95556721,234668128.0,15377191.0
+auction,auction,Bounce,95087606,110246850.0,68039758.0
+l2-standard-bridged-frxusd,frxusd,L2 Standard Bridged frxUSD,94701729,94701729.0,611878.0
+bonfida,fida,Solana Name Service,94433450,95299560.0,12796295.0
+anime,anime,Animecoin,94391352,170424426.0,25485704.0
+peaq-2,peaq,peaq,94017595,534402860.0,8222015.0
+lorenzo-stbtc,stbtc,Lorenzo stBTC,93759691,93759691.0,263562.0
+status,snt,Status,93502818,160655761.0,24301628.0
+oec-token,okt,OKT Chain,93122115,93122115.0,355244.0
+global-commercial-business,gcb,Global Commercial Business,93108422,93108422.0,147644.0
+altlayer,alt,AltLayer,93046816,306800426.0,27894396.0
+nillion,nil,Nillion,92681491,474924370.0,80729119.0
+gamebitcoin-power,pwr,Gamebitcoin Power,92478545,542342052.0,5861.82
+gama-coin,gama,GAMA Coin,92327776,142042810.0,2353759.0
+zelcash,flux,Flux,91898223,91900225.0,9232211.0
+swftcoin,swftc,SWFTCOIN,91841095,91841095.0,1238780.0
+rocket-pool,rpl,Rocket Pool,91615210,91615210.0,10504264.0
+temple,temple,TempleDAO,91068626,91248036.0,62494.0
+lisk,lsk,Lisk,90950261,204098690.0,13368498.0
+venus,xvs,Venus,90711720,162357864.0,5562841.0
+velo,velo,Velo,90635908,294332166.0,15619403.0
+spell-token,spell,Spell,90590905,111618389.0,16792697.0
+bora,bora,BORA,90169990,94315737.0,727212.0
+space-id,id,SPACE ID,89535794,415252411.0,13834247.0
+optio,opt,Optio,89392464,118505898.0,91905.0
+orbs,orbs,Orbs,89311727,195968367.0,4760784.0
+resolv-rlp,rlp,Resolv RLP,89249389,89249389.0,37611.0
+carv,carv,CARV,89217491,402749191.0,44151988.0
+iostoken,iost,IOST,89042079,89042079.0,11149204.0
+melania-meme,melania,Melania Meme,88825918,592172211.0,16892500.0
+solv-protocol-solvbtc-jupiter,solvbtc.jup,Solv Protocol SolvBTC Jupiter,88643826,88643826.0,2546.85
+manta-network,manta,Manta Network,88317926,215941601.0,26674006.0
+iagon,iag,Iagon,88266078,234737450.0,289668.0
+cronos-bridged-usdt-cronos,usdt,Cronos Bridged USDT (Cronos),87885383,87885383.0,259707.0
+m2-global-wealth-limited-mmx,mmx,MMX,87738576,278518136.0,36668.0
+solayer-staked-sol,ssol,Solayer Staked SOL,87555770,87555770.0,495756.0
+book-of-meme,bome,BOOK OF MEME,87368964,87368964.0,47009035.0
+sbtc-2,sbtc,sBTC,86722712,86722712.0,107400.0
+iexec-rlc,rlc,iExec RLC,86627493,104121415.0,7870349.0
+subsquid,sqd,SQD,86428082,184801268.0,1985378.0
+usual,usual,Usual,86415113,95193137.0,23274973.0
+memecoin-2,meme,Memecoin,86357143,139572595.0,20172870.0
+zircuit,zrc,Zircuit,86284074,393107439.0,29359505.0
+frax-usd,frxusd,Frax USD,86245968,86245968.0,2659971.0
+compound-ether,ceth,cETH,86016634,86016634.0,129.45
+everipedia,iq,IQ,85743387,85743387.0,6697625.0
+origin-ether,oeth,Origin Ether,85712179,85712179.0,102108.0
+lift-dollar,usdl,Lift Dollar,84628853,84628853.0,49251389.0
+balancer,bal,Balancer,84611267,91415227.0,11161759.0
+sonic-svm,sonic,Sonic SVM,84587299,563915325.0,36520937.0
+ignition-fbtc,fbtc,Function ƒBTC,84528668,1300538422.0,218231.0
+blockv,vee,BLOCKv,84489416,84489416.0,71304.0
+relend-usdc,reusdc,Relend USDC,84439657,84439657.0,0.0
+request-network,req,Request,84064587,112891007.0,4552033.0
+power-ledger,powr,Powerledger,83644648,157813047.0,7836710.0
+zano,zano,Zano,83628173,83629938.0,533607.0
+deso,deso,Decentralized Social,82801126,84972825.0,1511745.0
+geodnet,geod,Geodnet,82386356,256976955.0,329745.0
+proton,xpr,XPR Network,82379343,91313365.0,6176221.0
+chromaway,chr,Chromia,82167146,82167146.0,10078339.0
+infinitar-governance-token,igt,Infinitar Governance Token,82052539,378263487.0,5069938.0
+blast,blast,Blast,81907401,301769589.0,14720765.0
+tokenlon,lon,Tokenlon,81662197,98721086.0,111148.0
+h2o-dao,h2o,H2O Dao,80851617,98001959.0,1367.52
+radix,xrd,Radix,80628577,98702664.0,830348.0
+yield-guild-games,ygg,Yield Guild Games,80346412,186413549.0,15701451.0
+adventure-gold,agld,Adventure Gold,79785650,79785650.0,20190870.0
+paxos-standard,usdp,Pax Dollar,79441419,79441419.0,7366996.0
+optimism-bridged-wbtc-optimism,wbtc,Optimism Bridged WBTC (Optimism),79353300,79353300.0,2684599.0
+marlin,pond,Marlin,78683432,96135043.0,5659176.0
+mass-vehicle-ledger,mvl,MVL,78639212,82652484.0,689941.0
+alchemist-ai,alch,Alchemist AI,78531724,92389011.0,65012336.0
+pha,pha,PHALA,77663192,98623531.0,22264325.0
+wax,waxp,WAX,77610975,83507022.0,7532795.0
+stp-network,stpt,STP,77493711,77493711.0,6467732.0
+bitmart-token,bmx,BitMart,77441205,145890050.0,4299926.0
+l2-standard-bridged-weth-blast,weth,L2 Standard Bridged WETH (Blast),77143392,77143392.0,1960233.0
+neiro-3,neiro,Neiro,77040806,77040806.0,60485252.0
+ong,ong,Ontology Gas,77026065,187978935.0,2741172.0
+aleo,aleo,ALEO,76358554,361704922.0,2346586.0
+bone-shibaswap,bone,Bone ShibaSwap,75811307,75843049.0,5878308.0
+dymension,dym,Dymension,75579859,286683161.0,24329905.0
+zentry,zent,Zentry,75576583,109144429.0,9226489.0
+venice-token,vvv,Venice Token,75560697,183082521.0,13059665.0
+huobi-token,ht,Huobi,75355324,95041470.0,14977.46
+dkargo,dka,dKargo,75283275,80316439.0,1372953.0
+aventis-ai,aai,Aventis AI,75057396,193339266.0,26496.0
+verge,xvg,Verge,74944863,75094775.0,4308960.0
+zebec-network,zbcn,Zebec Network,74774881,97911463.0,8473033.0
+hashkey-ecopoints,hsk,HashKey Platform Token,74685495,563664113.0,1502199.0
+stratis,strax,Stratis,74559431,79005580.0,2144321.0
+the-grays-currency,ptgc,The Grays Currency,74167566,74167566.0,169385.0
+constitutiondao,people,ConstitutionDAO,73788114,73788114.0,31094151.0
+cetus-protocol,cetus,Cetus Protocol,73597371,106443338.0,22017710.0
 spiko-us-t-bills-money-market-fund,ustbl,Spiko US T-Bills Money Market Fund,73443400,73443400.0,0.0
-zentry,zent,Zentry,73427079,106040208.0,8594677.0
-huobi-token,ht,Huobi,73136479,92242965.0,9554.15
-civic,cvc,Civic,72575434,90493059.0,8638738.0
-usdx,usdx,USDX,72434992,72434992.0,17260.83
-dogelon-mars,elon,Dogelon Mars,72231407,131413464.0,5046558.0
-songbird,sgb,Songbird,71360362,84794568.0,235556.0
-supra,supra,Supra,71202832,489262650.0,3043368.0
-moonwell-artemis,well,Moonwell,71023178,107368699.0,2905248.0
-dogs-2,dogs,Dogs,70720845,75271339.0,24087153.0
-pinlink,pin,PinLink,70655044,88318805.0,1556874.0
-cetus-protocol,cetus,Cetus Protocol,70495106,101969818.0,17271770.0
-metfi-2,metfi,MetFi,70478924,234453419.0,475687.0
-moonbeam,glmr,Moonbeam,69995482,84345064.0,12968887.0
-centrifuge,cfg,Centrifuge,69874357,76520809.0,357564.0
-wrapped-fragsol,wfragsol,Wrapped fragSOL,69748782,69748782.0,3978030.0
-milk-alliance,mlk,MiL.k Alliance,69747683,154277113.0,3143982.0
-pundi-x-2,pundix,Pundi X,69593708,69593708.0,6053674.0
-tellor,trb,Tellor Tributes,69529223,71657895.0,21760004.0
-solend,slnd,Solend,69360419,137087973.0,4247.26
-dent,dent,Dent,68747321,71870106.0,6058694.0
-alchemist-ai,alch,Alchemist AI,67885191,79863848.0,57864577.0
-oasys,oas,Oasys,67616079,171493110.0,578717.0
-islamic-coin,islm,Islamic Coin,67345895,793979048.0,743183.0
-ecomi,omi,ECOMI,67259806,77172060.0,2741032.0
-devve,devve,DevvE,67202695,92279758.0,729688.0
-arcblock,abt,Arcblock,67045814,126501536.0,2268865.0
-joe,joe,JOE,66827269,84231910.0,8001410.0
-kamino,kmno,Kamino,66693790,494028074.0,10608202.0
-banana-gun,banana,Banana Gun,66253289,160621055.0,34425675.0
-saasgo,saas,SaaSGo,66053339,82566674.0,207785.0
-puff-the-dragon,puff,Puff The Dragon,66005757,66005757.0,72911.0
-taiko,taiko,Taiko,65973292,640944043.0,14435659.0
-smooth-love-potion,slp,Smooth Love Potion,65811444,65811275.0,8318875.0
-apollo-diversified-credit-securitize-fund,acred,Apollo Diversified Credit Securitize Fund,65644028,65644028.0,0.0
-doginme,doginme,doginme,65549103,65549103.0,12821338.0
-staked-frax,sfrax,Staked FRAX,65041759,65041759.0,4018.4
-liquity,lqty,Liquity,64710060,66474328.0,12879495.0
-steem,steem,Steem,64443065,64545792.0,19177177.0
-diamond-launch,dlc,Diamond Launch,64369881,144585443.0,616141.0
-the-grays-currency,ptgc,The Grays Currency,64366040,64366035.0,147186.0
-chaingpt,cgpt,ChainGPT,64361159,79580477.0,25043030.0
-dodo,dodo,DODO,64112302,64112302.0,15023865.0
-heyanon,anon,Hey Anon,64106404,102836336.0,4336147.0
-numeraire,nmr,Numeraire,63928620,85272722.0,9250101.0
-renzo-restaked-sol,ezsol,Renzo Restaked SOL,63492666,63492666.0,101556.0
-singularitynet,agix,SingularityNET,63322885,95271206.0,19704.27
-terrausd,ustc,TerraClassicUSD,63312057,89701693.0,5202376.0
-dola-usd,dola,DOLA,63239355,214176921.0,3145230.0
-medibloc,med,Medibloc,62761037,67978896.0,239155.0
-l2-standard-bridged-weth-optimism,weth,L2 Standard Bridged WETH (Optimism),62479162,62506527.0,25518920.0
-ergo,erg,Ergo,62235344,75761081.0,107531.0
-bit2me,b2m,Bit2Me,61851732,62476497.0,95702.0
-xai-blockchain,xai,Xai,61378320,91148327.0,41354964.0
-ai-analysis-token,aiat,AI Analysis Token,60970274,276264552.0,123482.0
-corgiai,corgiai,CorgiAI,60596449,65706689.0,62869.0
-pay-coin,pci,Paycoin,60350117,112133643.0,346635.0
-bella-protocol,bel,Bella Protocol,59973847,74967309.0,22950751.0
-test-3,tst,Test,59919860,59919860.0,62507420.0
-secret,scrt,Secret,59772408,62877179.0,3721788.0
-pepecoin-2,pepecoin,PepeCoin,59636081,59636081.0,4570844.0
-metal,mtl,Metal DAO,59468748,59468748.0,1030671.0
-apu-s-club,apu,Apu Apustaja,59376176,59376176.0,3142925.0
-comedian,ban,Comedian,59338788,59338788.0,20140952.0
-the-root-network,root,The Root Network,59035040,107336437.0,1376924.0
-bridged-wrapped-steth-gnosis,wsteth,Bridged Wrapped stETH (Gnosis),58838667,58838667.0,1840247.0
-coin98,c98,Coin98,58750830,62909882.0,16110844.0
-goldfinch,gfi,Goldfinch,58686938,72589195.0,448773.0
-gamebuild,game,GameBuild,58651297,73143213.0,22335048.0
-humans-ai,heart,Humans.ai,58033269,58033269.0,81858.0
-ao-computer,ao,ao Computer,57996356,57996356.0,1615392.0
+coreum,coreum,Coreum,73368368,73368368.0,80442.0
+usdx,usdx,USDX,73240617,73240617.0,39739.0
+civic,cvc,Civic,72915920,90917605.0,11023858.0
+aixbt,aixbt,aixbt by Virtuals,72896781,85198337.0,81877053.0
+pixer-eternity,pxt,Pixer Eternity,72856529,338571204.0,247457.0
+terrausd,ustc,TerraClassicUSD,72713170,79217999.0,16863620.0
+wrapped-fragsol,wfragsol,Wrapped fragSOL,72194116,72194116.0,2168951.0
+dogs-2,dogs,Dogs,72073822,76711373.0,29527498.0
+dogelon-mars,elon,Dogelon Mars,71993921,130981397.0,3830113.0
+moonwell-artemis,well,Moonwell,71532629,108128805.0,3746560.0
+songbird,sgb,Songbird,71356758,84790280.0,182911.0
+puff-the-dragon,puff,Puff The Dragon,70349904,70349904.0,179432.0
+metfi-2,metfi,MetFi,70336008,233904615.0,553197.0
+milk-alliance,mlk,MiL.k Alliance,70210856,155162423.0,3108321.0
+kamino,kmno,Kamino,70113792,519361423.0,18164139.0
+pundi-x-2,pundix,Pundi X,70110744,70110744.0,6808736.0
+moonbeam,glmr,Moonbeam,70068558,84424128.0,13238650.0
+solend,slnd,Solend,69360419,137087973.0,19740.26
+joe,joe,JOE,68477460,86311880.0,7883628.0
+dent,dent,Dent,68013346,71102790.0,5425649.0
+devve,devve,DevvE,67938502,93290136.0,795552.0
+islamic-coin,islm,Islamic Coin,67827736,798621546.0,771384.0
+supra,supra,Supra,67570188,464261351.0,4612829.0
+tellor,trb,Tellor Tributes,67466207,69520316.0,29655062.0
+centrifuge,cfg,Centrifuge,67163658,73547034.0,460056.0
+smooth-love-potion,slp,Smooth Love Potion,66546936,66546936.0,8725216.0
+banana-gun,banana,Banana Gun,66544670,161327464.0,29167874.0
+oasys,oas,Oasys,66490407,168477770.0,602270.0
+taiko,taiko,Taiko,66093273,642109680.0,18074416.0
+saasgo,saas,SaaSGo,66065790,82582238.0,216154.0
+renzo-restaked-sol,ezsol,Renzo Restaked SOL,66034403,66034403.0,421877.0
+test-3,tst,Test,66028442,66028442.0,64605770.0
+apollo-diversified-credit-securitize-fund,acred,Apollo Diversified Credit Securitize Fund,65661631,65661631.0,0.0
+diamond-launch,dlc,Diamond Launch,65588070,147321698.0,628380.0
+dola-usd,dola,DOLA,64957861,214436966.0,3584361.0
+arcblock,abt,Arcblock,64937654,122523876.0,878766.0
+steem,steem,Steem,64525444,64634997.0,18192695.0
+pinlink,pin,PinLink,64288999,80361248.0,1407050.0
+degen-base,degen,Degen,64069371,106334469.0,15817980.0
+numeraire,nmr,Numeraire,63944743,85294095.0,9798157.0
+liquity,lqty,Liquity,63877744,65615586.0,16751343.0
+doginme,doginme,doginme,63838865,63838865.0,22234406.0
+bit2me,b2m,Bit2Me,63648330,64291243.0,72839.0
+dodo,dodo,DODO,63601954,63601954.0,11108531.0
+staked-frax,sfrax,Staked FRAX,63359182,63359182.0,393.24
+corgiai,corgiai,CorgiAI,63135523,68459890.0,94160.0
+l2-standard-bridged-weth-optimism,weth,L2 Standard Bridged WETH (Optimism),62911304,62911304.0,26672551.0
+ergo,erg,Ergo,62839304,76488670.0,82212.0
+medibloc,med,Medibloc,62265309,67441954.0,402344.0
+ecomi,omi,ECOMI,62194587,71360366.0,3385594.0
+resolv-wstusr,wstusr,Resolv wstUSR,62101650,62101650.0,5158.0
+pay-coin,pci,Paycoin,61547214,114357911.0,37748.0
+apu-s-club,apu,Apu Apustaja,61387172,61387172.0,2369312.0
+singularitynet,agix,SingularityNET,61070981,92313832.0,28922.0
+chaingpt,cgpt,ChainGPT,60799805,75176755.0,28626441.0
+heyanon,anon,Hey Anon,60462834,96991500.0,3236518.0
+secret,scrt,Secret,60414655,63552622.0,3695780.0
+xai-blockchain,xai,Xai,60214611,89442610.0,61603377.0
+ai-analysis-token,aiat,AI Analysis Token,60203437,272789912.0,116655.0
+bella-protocol,bel,Bella Protocol,60005593,75006991.0,17081336.0
+metal,mtl,Metal DAO,59974024,59974024.0,1490928.0
+pepecoin-2,pepecoin,PepeCoin,59859810,59859810.0,4491232.0
+purr-2,purr,Purr,59256185,59256200.0,1715088.0
+coin98,c98,Coin98,59050161,63230402.0,20246128.0
+bridged-wrapped-steth-gnosis,wsteth,Bridged Wrapped stETH (Gnosis),58976575,58976575.0,1739854.0
+sundog,sundog,Sundog,58313783,58313783.0,21066269.0
+keeta,kta,Keeta,58261377,145653442.0,6242328.0
+berachain-staked-eth,beraeth,Berachain Staked ETH,58163092,58163092.0,2779.3
+comedian,ban,Comedian,58121463,58121463.0,24402362.0
+kyber-network-crystal,knc,Kyber Network Crystal,58063509,81887248.0,17635793.0
