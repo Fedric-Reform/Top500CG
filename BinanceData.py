@@ -22,10 +22,12 @@ def get_current_market_data(coin_id):
         market_cap = data.get("market_data", {}).get("market_cap", {}).get("usd", None)
         fdv = data.get("market_data", {}).get("fully_diluted_valuation", {}).get("usd", None)
         volume24h = data.get("market_data", {}).get("total_volume", {}).get("usd", None)
-        return market_cap, fdv, volume24h
+        token_name = data.get("name", None)
+        token_symbol = data.get("symbol", "").upper()
+        return market_cap, fdv, volume24h, token_name, token_symbol
     except Exception as e:
         print(f"Error fetching market data for {coin_id}: {e}")
-        return None, None, None
+        return None, None, None, None, None
         
 # Function to fetch Order Book Depth (±2%) from Binance
 def fetch_depth(coin_id):
@@ -87,30 +89,31 @@ def main():
     results = []
 
     for coin_id in coin_list:
-        print(f"Fetching data for: {coin_id}")
+    print(f"Fetching data for: {coin_id}")
 
-        # Get Market Cap, FDV, and 24H Volume
-        market_cap_today, fdv_today, volume24h = get_current_market_data(coin_id)
+    # Get Market Cap, FDV, Volume, Name, Symbol
+    market_cap_today, fdv_today, volume24h, token_name, token_symbol = get_current_market_data(coin_id)
 
-        # Get Order Book Depth & Spread
-        bid_ask_spread, depth_plus_2, depth_minus_2 = fetch_depth(coin_id)
+    # Get Order Book Depth & Spread
+    bid_ask_spread, depth_plus_2, depth_minus_2 = fetch_depth(coin_id)
 
-        # Get Coin Category
-        category = get_coin_categories(coin_id)
+    # Get Coin Category
+    category = get_coin_categories(coin_id)
 
-        # Store data
-        results.append({
-            "Exchange": EXCHANGE_NAME,
-            "Category": category,
-            "Token CEX": coin_id,
-            "Market Cap Today": market_cap_today,
-            "FDV Today": fdv_today,
-            "Depth +2%": depth_plus_2,
-            "Depth -2%": depth_minus_2, 
-            "Bid Ask Spread Percentage": round(bid_ask_spread, 2) if bid_ask_spread else "N/A",
-            "24H Volume (USD)": volume24h
-        })
-
+    # Store data
+    results.append({
+        "Exchange": EXCHANGE_NAME,
+        "Category": category,
+        "Token CEX": coin_id,
+        "Token Name": token_name,
+        "Ticker": token_symbol,
+        "Market Cap Today": market_cap_today,
+        "FDV Today": fdv_today,
+        "Depth +2%": depth_plus_2,
+        "Depth -2%": depth_minus_2,
+        "Bid Ask Spread Percentage": round(bid_ask_spread, 2) if bid_ask_spread else "N/A",
+        "24H Volume (USD)": volume24h
+    })
     
     # Convert results to DataFrame
     df_output = pd.DataFrame(results)
