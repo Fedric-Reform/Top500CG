@@ -60,7 +60,7 @@ def get_coin_categories(coin_id):
         return "Unknown"
 
 # Fetch depth data from a given exchange (default: USDT pair)
-def fetch_depth(coin_id, exchange_id, target_pair="USDT"):
+def fetch_depth(coin_id, exchange_id):
     url = f"{COINGECKO_URL}coins/{coin_id}/tickers?exchange_ids={exchange_id}&depth=true&x_cg_pro_api_key={API_KEY}"
     try:
         response = requests.get(url)
@@ -68,16 +68,19 @@ def fetch_depth(coin_id, exchange_id, target_pair="USDT"):
         tickers = response.json().get("tickers", [])
         
         for ticker in tickers:
-            if ticker.get("target") == target_pair and ticker.get("market", {}).get("identifier") == exchange_id:
-                bid_ask_spread = ticker.get("bid_ask_spread_percentage", None)
-                depth_plus_2 = ticker.get("cost_to_move_up_usd", None)
-                depth_minus_2 = ticker.get("cost_to_move_down_usd", None)
-                return bid_ask_spread, depth_plus_2, depth_minus_2
-
-        return None, None, None
+            if ticker.get("target") == "USDT" and ticker.get("market", {}).get("identifier") == exchange_id:
+                return {
+                    "pair": f"{ticker.get('base')}/{ticker.get('target')}",
+                    "price": ticker.get("last"),
+                    "spread": ticker.get("bid_ask_spread_percentage"),
+                    "+2% depth": ticker.get("cost_to_move_up_usd"),
+                    "-2% depth": ticker.get("cost_to_move_down_usd"),
+                    "volume_24h": ticker.get("converted_volume", {}).get("usd")
+                }
+        return None
     except Exception as e:
-        print(f"Error fetching depth for {coin_id} on {exchange_id}: {e}")
-        return None, None, None
+        print(f"Error fetching USDT pair data for {coin_id} on {exchange_id}: {e}")
+        return None
 
 # Main script
 def main():
