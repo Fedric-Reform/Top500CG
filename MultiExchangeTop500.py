@@ -66,7 +66,7 @@ def fetch_depth(coin_id, exchange_id):
         response = requests.get(url)
         response.raise_for_status()
         tickers = response.json().get("tickers", [])
-        
+
         for ticker in tickers:
             if ticker.get("target") == "USDT" and ticker.get("market", {}).get("identifier") == exchange_id:
                 return {
@@ -93,35 +93,38 @@ def main():
     results = []
 
     for coin_id in coin_list:
-        print(f"📦 Fetching: {coin_id}")
+        print(f"Fetching: {coin_id}")
 
-        # General token data
         market_cap, fdv, volume24h, token_name, token_symbol = get_current_market_data(coin_id)
         category = get_coin_categories(coin_id)
 
         for exchange in EXCHANGES:
             exchange_name = exchange["name"]
             exchange_id = exchange["id"]
-            bid_ask_spread, depth_plus_2, depth_minus_2 = fetch_depth(coin_id, exchange_id)
+            depth_data = fetch_depth(coin_id, exchange_id)
 
-            results.append({
-                "Exchange": exchange_name,
-                "Category": category,
-                "Token CEX": coin_id,
-                "Token Name": token_name,
-                "Ticker": token_symbol,
-                "Market Cap Today": market_cap,
-                "FDV Today": fdv,
-                "Depth +2%": depth_plus_2,
-                "Depth -2%": depth_minus_2,
-                "Bid Ask Spread Percentage": round(bid_ask_spread, 2) if bid_ask_spread else "N/A",
-                "24H Volume (USD)": volume24h
-            })
+            if depth_data:
+                results.append({
+                    "Exchange": exchange_name,
+                    "Category": category,
+                    "Token CEX": coin_id,
+                    "Token Name": token_name,
+                    "Ticker": token_symbol,
+                    "Market Cap Today": market_cap,
+                    "FDV Today": fdv,
+                    "Pair": depth_data.get("pair"),
+                    "Price": depth_data.get("price"),
+                    "Depth +2%": depth_data.get("+2% depth"),
+                    "Depth -2%": depth_data.get("-2% depth"),
+                    "Bid Ask Spread Percentage": round(depth_data.get("spread", 0), 2) if depth_data.get("spread") else "N/A",
+                    "24H Volume (USD) on USDT": depth_data.get("volume_24h")
+                })
 
     df_output = pd.DataFrame(results)
-    output_filename = "Top500MultiExchange.csv"
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_filename = f"Top500MultiExchange_USDT_{timestamp}.csv"
     df_output.to_csv(output_filename, index=False, encoding="utf-8")
-    print(f"✅ Done. Results saved to {output_filename}")
+    print(f"Done. Results saved to {output_filename}")
 
 if __name__ == "__main__":
     main()
