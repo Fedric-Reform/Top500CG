@@ -70,8 +70,6 @@ def fetch_depth(coin_id, exchange_id):
         for ticker in tickers:
             if ticker.get("target") == "USDT" and ticker.get("market", {}).get("identifier") == exchange_id:
                 return {
-                    "pair": f"{ticker.get('base')}/{ticker.get('target')}",
-                    "price": ticker.get("last"),
                     "spread": ticker.get("bid_ask_spread_percentage"),
                     "+2% depth": ticker.get("cost_to_move_up_usd"),
                     "-2% depth": ticker.get("cost_to_move_down_usd"),
@@ -112,8 +110,6 @@ def main():
                     "Ticker": token_symbol,
                     "Market Cap Today": market_cap,
                     "FDV Today": fdv,
-                    "Pair": depth_data.get("pair"),
-                    "Price": depth_data.get("price"),
                     "Depth +2%": depth_data.get("+2% depth"),
                     "Depth -2%": depth_data.get("-2% depth"),
                     "Bid Ask Spread Percentage": round(depth_data.get("spread", 0), 2) if depth_data.get("spread") else "N/A",
@@ -121,8 +117,7 @@ def main():
                 })
 
     df_output = pd.DataFrame(results)
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_filename = f"Top500MultiExchange_USDT_{timestamp}.csv"
+    output_filename = f"Top500MultiExchange.csv"
     df_output.to_csv(output_filename, index=False, encoding="utf-8")
     print(f"Done. Results saved to {output_filename}")
 
