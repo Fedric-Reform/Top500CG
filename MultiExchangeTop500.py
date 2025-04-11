@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 from datetime import datetime
+import time
 
 # CoinGecko Pro API key
 API_KEY = "CG-MfMJsvzUhR8PtJfvvSRi1UEm"
