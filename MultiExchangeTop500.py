@@ -98,13 +98,11 @@ def main():
         time.sleep(1)
         
         category = get_coin_categories(coin_id)
-        time.sleep(1)
 
         for exchange in EXCHANGES:
             exchange_name = exchange["name"]
             exchange_id = exchange["id"]
             depth_data = fetch_depth(coin_id, exchange_id)
-            time.sleep(1)
 
             if depth_data:
                 results.append({
