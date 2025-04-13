@@ -24,8 +24,8 @@ HEADERS = {"x-cg-pro-api-key": API_KEY}
 filtered_coins = []
 page = 1  # Start from page 1
 
-# Fetch until we have at least 500 coins with market cap < $1B
-while len(filtered_coins) < 500:
+# Fetch until we have at least 1000 coins with market cap < $1B
+while len(filtered_coins) < 1000:
     params["page"] = page
     response = requests.get(URL, headers=HEADERS, params=params)
     
