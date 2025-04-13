@@ -47,8 +47,8 @@ while len(filtered_coins) < 1000:
 
     page += 1  # Go to next page
 
-# Keep only the top 500 from the filtered list
-filtered_coins = filtered_coins[:500]
+# Keep only the top 1000 from the filtered list
+filtered_coins = filtered_coins[:1000]
 
 # Convert to a Pandas DataFrame
 df = pd.DataFrame(filtered_coins)
