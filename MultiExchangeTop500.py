@@ -88,7 +88,7 @@ def fetch_depth(coin_id, exchange_id):
 
 # Main script
 def main():
-    input_file = "CoinGeckoTop5000.csv"  # Your input file with "Coin ID" column
+    input_file = "CoinGeckoTop500.csv"  # Your input file with "Coin ID" column
     coin_list = load_coin_list(input_file)
     if not coin_list:
         print("No coin IDs found.")
