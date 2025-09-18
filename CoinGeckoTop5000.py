@@ -25,7 +25,7 @@ filtered_coins = []
 page = 1  # Start from page 1
 
 # Fetch until we have at least 1000 coins with market cap < $1B
-while len(filtered_coins) < 1000:
+while len(filtered_coins) < 5000:
     params["page"] = page
     response = requests.get(URL, headers=HEADERS, params=params)
     
@@ -67,7 +67,7 @@ df.rename(columns={
 }, inplace=True)
 
 # Save to CSV
-csv_filename = "CoinGeckoTop500.csv"
+csv_filename = "CoinGeckoTop5000.csv"
 df.to_csv(csv_filename, index=False, encoding="utf-8")
 print(f"✅ Data saved to {csv_filename}")
 
