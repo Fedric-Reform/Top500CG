@@ -77,7 +77,7 @@ def load_coin_list(file_path):
 
 # Main function to fetch & save data
 def main():
-    input_file = "CoinGeckoTop500.csv"  # Change this to your input file name
+    input_file = "CoinGeckoTop5000.csv"  # Change this to your input file name
 
     # Load coin list from column C
     coin_list = load_coin_list(input_file)
