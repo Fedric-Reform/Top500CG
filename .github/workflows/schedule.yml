@@ -41,7 +41,7 @@ jobs:
 
       - name: Run Python scripts
         run: |
-          python GetTop500CG.py
+          python CoinGeckoTop5000.py
           python MultiExchangeTop500.py
 
       - name: Setup Git Config
