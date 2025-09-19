@@ -88,7 +88,7 @@ def fetch_depth(coin_id, exchange_id):
 
 # Main script
 def main():
-    input_file = "CoinGeckoTop500.csv"  # Your input file with "Coin ID" column
+    input_file = "CoinGeckoTop5000.csv"  # Your input file with "Coin ID" column
     coin_list = load_coin_list(input_file)
     if not coin_list:
         print("No coin IDs found.")
@@ -127,7 +127,7 @@ def main():
                     })
 
     df_output = pd.DataFrame(results)
-    output_filename = f"Top5000MultiExchange.csv"
+    output_filename = f"Top5000MultiExchange[2].csv"
     df_output.to_csv(output_filename, index=False, encoding="utf-8")
     print(f"Done. Results saved to {output_filename}")
 
