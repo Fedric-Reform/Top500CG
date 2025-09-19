@@ -127,7 +127,7 @@ def main():
                     })
 
     df_output = pd.DataFrame(results)
-    output_filename = f"Top5000MultiExchange[2].csv"
+    output_filename = f"Top5000MultiExchange.csv"
     df_output.to_csv(output_filename, index=False, encoding="utf-8")
     print(f"Done. Results saved to {output_filename}")
 
